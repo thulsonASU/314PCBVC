@@ -1,0 +1,72 @@
+(ExpressProject "AutoHood_TeamSchematic_v1"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S024 (3998392)  [12/6/2021]-[02/24/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\autohood\314_components.olb"
+        (Type "Schematic Library"))
+      (File "..\314_actuator\314_components-master.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\autohood_teamschematic_v1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (L298P
+      (FullPartName "L298P.Normal")
+      (LibraryName
+         "C:\USERS\TYLER\DESKTOP\CADENCE\CADENCE\PROJECTS\314_ACTUATOR\314_COMPONENTS-MASTER.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\tyler\Desktop\Cadence\Cadence\Projects\autoHood_projectMaster\autohood_teamschematic_v1.dsn")
+      (Path "Design Resources"
+         "C:\Users\tyler\Desktop\Cadence\Cadence\Projects\autoHood_projectMaster\autohood_teamschematic_v1.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\tyler\Desktop\Cadence\Cadence\Projects\autoHood_projectMaster\autohood_teamschematic_v1.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "C:\Users\tyler\Desktop\Cadence\Cadence\Projects\autohood\314_components.olb")
+      (Path "Design Resources" "Library"
+         "..\314_actuator\314_components-master.olb")
+      (Select "Design Resources" "Library"
+         "..\314_actuator\314_components-master.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 386 0 459"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 5 24 5 846 24 500")
+        (Scroll "231 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\TYLER\DESKTOP\CADENCE\CADENCE\PROJECTS\AUTOHOOD_PROJECTMASTER\AUTOHOOD_TEAMSCHEMATIC_V1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "tyler"))
