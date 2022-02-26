@@ -1,5 +1,12 @@
 A!REFDES!COMP_VOLTAGE!COMP_ROOM!COMP_GROUP!COMP_SIGNAL_MODEL!COMP_NO_XNET_CONNECTION!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_REUSE_ID!COMP_REUSE_NAME!COMP_REUSE_INSTANCE!
-J!C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd!Thu Feb 24 23:52:14 2022!0.00!0.00!21000.00!17000.00!0.01!mils!AUTOHOOD_TEAMSCHEMATIC_V1!10.400000 mil!2!UP TO DATE!
+J!c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/autohood_teamschematic_v1.brd!Fri Feb 25 19:37:05 2022!0.00!0.00!21000.00!17000.00!0.01!mils!AUTOHOOD_TEAMSCHEMATIC_V1!10.400000 mil!2!UP TO DATE!
+S!R10!!!!!!!!!!!
+S!R17!!!!!!!!!!!
+S!R18!!!!!!!!!!!
+S!R19!!!!!!!!!!!
+S!R20!!!!!!!!!!!
+S!R21!!!!!!!!!!!
+S!R22!!!!!!!!!!!
 S!B1!!!!!!!!!!!
 S!C1!!!!!!!!!!!
 S!C2!!!!!!!!!!!
@@ -36,15 +43,8 @@ S!R15!!!!!!!!!!!
 S!R16!!!!!!!!!!!
 S!R2!!!!!!!!!!!
 S!R3!!!!!!!!!!!
-S!R10!!!!!!!!!!!
 S!R11!!!!!!!!!!!
 S!R12!!!!!!!!!!!
-S!R13!!!!!!!!!!!
-S!R4!!!!!!!!!!!
-S!R5!!!!!!!!!!!
-S!R6!!!!!!!!!!!
-S!R7!!!!!!!!!!!
-S!R9!!!!!!!!!!!
 S!R8!!!!!!!!!!!
 S!TP1!!!!!!!!!!!
 S!U1!!!!!!!!!!!

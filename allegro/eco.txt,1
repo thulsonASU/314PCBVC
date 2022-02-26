@@ -3,30 +3,44 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd          |
-|                                                    Thu Feb 24 23:02:36 2022  |
+|                                                    Fri Feb 25 15:54:24 2022  |
 |------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
+| COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C1                  C_SMC1206_1N          7300.00 12900.0 C_CAP196_1N
- C2                  C_SMC1206_1N          7300.00 12600.0 C_CAP196_1N
+ NCS21911_NCS21912DR2G_NCS21911
+ R_RES_RN73R2E_KOA-M_10K
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  C:.../autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd          |
-|                                                    Thu Feb 24 23:02:36 2022  |
+|                                                    Fri Feb 25 15:54:24 2022  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R8                  R_RES_RN73R2E_KOA-M_10K                 R_AXRC05_10K
+ U12                 NCS21911_NCS21912DR2G_NCS21911                 NCS21911_EEEVVVIIILLL_NCS21911
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd          |
+|                                                    Fri Feb 25 15:54:24 2022  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C1.2           7300.00 12900.0 PRIM_FILE      .\pstchip.dat
- C2.2           7300.00 12600.0 PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ U12.4                          PRIM_FILE      .\pstchip.dat
 |------------------------------------------------------------------------------|
+|       Comp definitions added:       2                                        |
 |       Components changed    :       2                                        |
 |       Slot property added   :       2                                        |
 |                                                                              |
-|   Total ECO changes reported:       4                                        |
+|   Total ECO changes reported:       6                                        |
 |------------------------------------------------------------------------------|

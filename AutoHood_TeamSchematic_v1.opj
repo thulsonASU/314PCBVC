@@ -141,8 +141,7 @@
          "c:\users\tyler\desktop\cadence\cadence\projects\314_actuator\314_components-master.olb")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs")
-      (Select "Design Resources"))
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -152,9 +151,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1290 24 581")
-        (Scroll "0 1080")
-        (Zoom "148")
+        (Placement "44 0 1 -1 -1 5 24 5 1325 24 581")
+        (Scroll "-437 0")
+        (Zoom "39")
         (Occurrence "/"))
       (Path
          "C:\USERS\TYLER\DESKTOP\CADENCE\CADENCE\PROJECTS\AUTOHOOD_PROJECTMASTER\AUTOHOOD_TEAMSCHEMATIC_V1.DSN")

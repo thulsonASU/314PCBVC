@@ -1,464 +1,831 @@
-\t (00:00:33) allegro 17.4 S024 Windows SPB 64-bit Edition
-\t (00:00:33)     Journal start - Thu Feb 24 23:05:06 2022
-\t (00:00:33)         Host=LAPTOP-D455H4TO User=tyler Pid=30560 CPUs=12
-\t (00:00:33) CmdLine= c:\cadence\spb_17.4-silent\tools\bin\allegro.exe C:\Users\tyler\Desktop\Cadence\Cadence\Projects\autoHood_projectMaster\allegro\autohood_teamschematic_v1.brd
-\t (00:00:33) 
-   (00:00:33) Loading axlcore.cxt 
-\t (00:00:33) Opening existing design...
-\i (00:01:52) fillin yes 
-\i (00:01:55) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "autohood_teamschematic_v1"
-\d (00:01:55) Design opened: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd
-\i (00:01:55) trapsize 1736
-\i (00:01:55) trapsize 1784
-\i (00:01:55) trapsize 1799
-\i (00:01:56) trapsize 1736
-\i (00:01:56) trapsize 1736
-\t (00:01:58) > Sending response DoneOpenBoard
-\t (00:01:58) Loaded GPU Plugin from: plugins/gpu
-\i (00:01:58) trapsize 1784
-\i (00:01:58) trapsize 1799
-\i (00:01:58) trapsize 1736
-\i (00:01:58) generaledit 
-\i (00:43:33) xrefdes R14.1 
-\t (00:43:33) Can not select unplaced component R14.
-\i (00:43:33) xname_flush 
-\i (00:43:35) xrefdes '!' R14.1 
-\t (00:43:35) Can not select unplaced component R14.
-\i (00:43:35) xname_flush '!' 
-\i (00:43:40) xrefdes R14 
-\t (00:43:40) Can not select unplaced component R14.
-\t (00:43:40) Can not select unplaced component R14.
-\i (00:43:40) xname_flush 
-\i (00:43:42) xrefdes '!' R14 
-\t (00:43:42) Can not select unplaced component R14.
-\t (00:43:42) Can not select unplaced component R14.
-\i (00:43:42) xname_flush '!' 
-\i (00:43:43) xrefdes R15 
-\t (00:43:43) Can not select unplaced component R15.
-\t (00:43:43) Can not select unplaced component R15.
-\i (00:43:43) xname_flush 
-\i (00:43:44) xrefdes '!' R15 
-\t (00:43:44) Can not select unplaced component R15.
-\t (00:43:44) Can not select unplaced component R15.
-\i (00:43:44) xname_flush '!' 
-\i (00:43:45) xrefdes R16.1 
-\t (00:43:45) Can not select unplaced component R16.
-\i (00:43:45) xname_flush 
-\i (00:43:46) xrefdes '!' R16.1 
-\t (00:43:46) Can not select unplaced component R16.
-\i (00:43:46) xname_flush '!' 
-\i (00:43:46) xrefdes R16 
-\t (00:43:46) Can not select unplaced component R16.
-\t (00:43:46) Can not select unplaced component R16.
-\i (00:43:46) xname_flush 
-\i (00:43:47) xrefdes '!' R16 
-\t (00:43:47) Can not select unplaced component R16.
-\t (00:43:47) Can not select unplaced component R16.
-\i (00:43:47) xname_flush '!' 
-\i (00:43:47) xrefdes D6 
-\i (00:43:47) xname_flush 
-\i (00:43:47) trapsize 139
-\i (00:43:47) xrefdes '!' D6 
-\i (00:43:47) xname_flush '!' 
-\i (00:43:47) xrefdes R16 
-\t (00:43:47) Can not select unplaced component R16.
-\t (00:43:47) Can not select unplaced component R16.
-\i (00:43:47) xname_flush 
-\i (00:43:49) xrefdes '!' R16 
-\t (00:43:49) Can not select unplaced component R16.
-\t (00:43:49) Can not select unplaced component R16.
-\i (00:43:49) xname_flush '!' 
-\i (00:43:49) xrefdes D6 
-\i (00:43:49) xname_flush 
-\i (00:43:49) trapsize 139
-\i (00:43:50) xrefdes '!' D6 
-\i (00:43:50) xname_flush '!' 
-\i (00:44:12) zoom out 1 
-\i (00:44:12) setwindow pcb
-\i (00:44:12) zoom out 7150.61 9777.22
-\i (00:44:12) trapsize 278
-\i (00:44:13) zoom out 1 
-\i (00:44:13) setwindow pcb
-\i (00:44:13) zoom out 7150.60 9777.22
-\i (00:44:13) trapsize 557
-\i (00:44:13) zoom out 1 
-\i (00:44:13) setwindow pcb
-\i (00:44:13) zoom out 7150.60 9777.22
-\i (00:44:13) trapsize 1113
-\i (00:44:13) zoom out 1 
-\i (00:44:13) setwindow pcb
-\i (00:44:13) zoom out 7337.60 9697.08
-\i (00:44:13) trapsize 2226
-\i (00:44:13) zoom out 1 
-\i (00:44:13) setwindow pcb
-\i (00:44:13) zoom out 7337.60 9741.61
-\i (00:44:13) trapsize 4452
-\i (00:44:13) zoom out 1 
-\i (00:44:13) setwindow pcb
-\i (00:44:13) zoom out 7337.61 9750.51
-\i (00:44:13) trapsize 8905
-\i (00:44:14) zoom in 1 
-\i (00:44:14) setwindow pcb
-\i (00:44:14) zoom in 6927.87 11121.83
-\i (00:44:14) trapsize 4452
-\i (00:44:14) zoom out 1 
-\i (00:44:14) setwindow pcb
-\i (00:44:14) zoom out 7773.82 11798.59
-\i (00:44:14) trapsize 8905
-\i (00:44:15) zoom in 1 
-\i (00:44:15) setwindow pcb
-\i (00:44:15) zoom in 8067.67 12582.21
-\i (00:44:15) trapsize 4452
-\i (00:44:15) zoom in 1 
-\i (00:44:15) setwindow pcb
-\i (00:44:15) zoom in 7640.25 12795.92
-\i (00:44:15) trapsize 2226
-\i (00:44:16) zoom out 1 
-\i (00:44:16) setwindow pcb
-\i (00:44:16) zoom out 7760.47 12969.56
-\i (00:44:16) trapsize 4452
-\i (00:44:18) zoom out 1 
-\i (00:44:18) setwindow pcb
-\i (00:44:18) zoom out 8980.41 12381.85
-\i (00:44:18) trapsize 8905
-\i (00:44:18) zoom in 1 
-\i (00:44:18) setwindow pcb
-\i (00:44:18) zoom in 7034.72 6860.94
-\i (00:44:18) trapsize 4452
-\i (00:44:19) zoom in 1 
-\i (00:44:19) setwindow pcb
-\i (00:44:19) zoom in 7248.43 6362.28
-\i (00:44:19) trapsize 2226
-\i (00:44:19) zoom in 1 
-\i (00:44:19) setwindow pcb
-\i (00:44:19) zoom in 7261.79 6197.55
-\i (00:44:19) trapsize 1113
-\i (00:44:24) place manual 
-\w (00:44:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:44:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:44:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:44:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:44:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:44:24) ERROR(SPMHSY-24): 'SMDREC0_6C1_52', not found in search path.
-\w (00:44:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:44:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:44:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:44:24) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\i (00:44:24) setwindow form.plc_manual
-\i (00:44:24) FORM plc_manual tree  'Components by refdes' 
-\i (00:44:26) FORM plc_manual tree  R3 'Components by refdes' 
-\i (00:44:26) FORM plc_manual tree 'MULTISEL YES' R3 'Components by refdes' 
-\t (00:44:26) Placing R3 / R_AXRC05_1K / AXRC05 on Top.
-\i (00:44:28) FORM plc_manual tree 'MULTISEL NO' R3 'Components by refdes' 
-\i (00:44:29) FORM plc_manual tree 'MULTISEL YES' R3 'Components by refdes' 
-\t (00:44:29) Placing R3 / R_AXRC05_1K / AXRC05 on Top.
-\i (00:44:30) FORM plc_manual tree 'MULTISEL NO' R3 'Components by refdes' 
-\i (00:44:31) FORM plc_manual tree 'MULTISEL YES' R3 'Components by refdes' 
-\t (00:44:31) Placing R3 / R_AXRC05_1K / AXRC05 on Top.
-\i (00:44:31) FORM plc_manual tree 'MULTISEL NO' R3 'Components by refdes' 
-\i (00:44:34) FORM plc_manual tree  U9 'Components by refdes' 
-\i (00:44:34) FORM plc_manual tree 'MULTISEL YES' U9 'Components by refdes' 
-\t (00:44:34) Placing U9 / LM340T-5-LF01_SOT_0T-5P0LF01_TEX-M_LM340T-5/LF01 / SOT_0T-5P0LF01_TEX-M on Top.
-\i (00:44:34) FORM plc_manual tree 'MULTISEL NO' U9 'Components by refdes' 
-\i (00:44:35) FORM plc_manual tree  U4 'Components by refdes' 
-\i (00:44:35) FORM plc_manual tree 'MULTISEL YES' U4 'Components by refdes' 
-\w (00:44:35) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:44:35) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\w (00:44:35) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:44:35) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\e (00:44:35) Cannot load symbol 'SOT230P700X180-4N'
-\e (00:44:35)   because WARNING(SPMHUT-127): Could not find padstack S_R162_88_M162_88_P162_88.
-\i (00:44:39) FORM plc_manual tree 'MULTISEL NO' U4 'Components by refdes' 
-\i (00:44:39) FORM plc_manual tree  U3 'Components by refdes' 
-\i (00:44:39) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
-\t (00:44:39) Placing U3 / PIC18F26K40-E/SO_SOIC28-W_MC_MCH-M_PIC18LF26K40-E/SO / SOIC28-W_MC_MCH-M on Top.
-\i (00:44:40) FORM plc_manual tree 'MULTISEL NO' U3 'Components by refdes' 
-\i (00:44:40) FORM plc_manual tree  U1 'Components by refdes' 
-\i (00:44:40) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
-\t (00:44:40) Placing U1 / ESP32 DEVKIT V1 - DOIT_ESP32_ESP32 DEVKIT V1 - DOIT / ESP32 on Top.
-\i (00:44:41) FORM plc_manual tree 'MULTISEL NO' U1 'Components by refdes' 
-\i (00:44:41) FORM plc_manual tree  TP1 'Components by refdes' 
-\i (00:44:42) FORM plc_manual tree 'MULTISEL YES' TP1 'Components by refdes' 
-\t (00:44:42) Placing TP1 / TEST POINT_JUMPER1_TEST POINT / JUMPER1 on Top.
-\i (00:44:42) FORM plc_manual tree 'MULTISEL NO' TP1 'Components by refdes' 
-\i (00:44:43) FORM plc_manual tree  R16 'Components by refdes' 
-\i (00:44:43) FORM plc_manual tree 'MULTISEL YES' R16 'Components by refdes' 
-\t (00:44:43) Placing R16 / R_AXRC05_1K / AXRC05 on Top.
-\i (00:44:44) FORM plc_manual tree 'MULTISEL NO' R16 'Components by refdes' 
-\i (00:44:44) FORM plc_manual tree  TP1 'Components by refdes' 
-\i (00:44:44) FORM plc_manual tree 'MULTISEL YES' TP1 'Components by refdes' 
-\t (00:44:44) Placing TP1 / TEST POINT_JUMPER1_TEST POINT / JUMPER1 on Top.
-\i (00:44:45) FORM plc_manual tree 'MULTISEL NO' TP1 'Components by refdes' 
-\i (00:44:45) FORM plc_manual tree  R16 'Components by refdes' 
-\i (00:44:45) FORM plc_manual tree 'MULTISEL YES' R16 'Components by refdes' 
-\t (00:44:45) Placing R16 / R_AXRC05_1K / AXRC05 on Top.
-\i (00:44:49) FORM plc_manual tree 'MULTISEL NO' R16 'Components by refdes' 
-\i (00:44:50) FORM plc_manual tree  U3 'Components by refdes' 
-\i (00:44:50) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
-\t (00:44:50) Placing U3 / PIC18F26K40-E/SO_SOIC28-W_MC_MCH-M_PIC18LF26K40-E/SO / SOIC28-W_MC_MCH-M on Top.
-\i (00:44:51) FORM plc_manual tree 'MULTISEL NO' U3 'Components by refdes' 
-\i (00:44:51) FORM plc_manual tree  U9 'Components by refdes' 
-\i (00:44:52) FORM plc_manual tree  U4 'Components by refdes' 
-\i (00:44:52) FORM plc_manual tree 'MULTISEL YES' U4 'Components by refdes' 
-\w (00:44:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:44:52) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\w (00:44:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:44:52) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\e (00:44:52) Cannot load symbol 'SOT230P700X180-4N'
-\e (00:44:52)   because WARNING(SPMHUT-127): Could not find padstack S_R162_88_M162_88_P162_88.
-\i (00:44:52) FORM plc_manual tree 'MULTISEL NO' U4 'Components by refdes' 
-\i (00:45:12) setwindow pcb
-\i (00:45:12) refdes U4 
-\w (00:45:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:45:12) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\w (00:45:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:45:12) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\e (00:45:12) Cannot load symbol 'SOT230P700X180-4N'
-\e (00:45:12)   because WARNING(SPMHUT-127): Could not find padstack S_R162_88_M162_88_P162_88.
-\i (00:45:12) xname_flush 
-\i (00:45:29) setwindow form.plc_manual
-\i (00:45:29) FORM plc_manual tree 'MULTISEL NO' U4 'Components by refdes' 
-\i (00:46:35) setwindow pcb
-\i (00:46:35) refdes '!' U4 
-\i (00:46:35) xname_flush '!' 
-\i (00:46:39) refdes R10 
-\t (00:46:39) Placing R10 / R_AXRC05_100 / AXRC05 on Top.
-\i (00:46:39) xname_flush 
-\i (00:46:49) xname_flush 
-\i (00:47:04) refdes '!' R10 
-\i (00:47:04) xname_flush '!' 
-\i (00:47:04) refdes R13 
-\i (00:47:04) xname_flush 
-\i (00:47:09) refdes R9 
-\t (00:47:09) Placing R9 / R_AXRC05_100 / AXRC05 on Top.
-\i (00:47:09) xname_flush 
-\i (00:47:12) refdes R6 
-\t (00:47:12) Placing R6 / R_AXRC05_100 / AXRC05 on Top.
-\i (00:47:12) xname_flush 
-\i (00:47:13) refdes R7 
-\i (00:47:13) xname_flush 
-\i (00:47:13) refdes R4 
-\t (00:47:13) Placing R4 / R_AXRC05_100 / AXRC05 on Top.
-\i (00:47:13) xname_flush 
-\i (00:47:14) refdes R5 
-\i (00:47:14) xname_flush 
-\i (00:47:15) refdes R10 
-\i (00:47:15) xname_flush 
-\i (00:47:16) refdes '!' R10 
-\i (00:47:16) xname_flush '!' 
-\i (00:47:18) xname_flush '!' 
-\i (00:47:21) xname_flush '!' 
-\i (00:47:22) xname_flush '!' 
-\i (00:47:23) xname_flush '!' 
-\i (00:47:24) xname_flush '!' 
-\i (00:47:25) xname_flush '!' 
-\i (00:47:26) xname_flush 
-\i (00:47:31) xname_flush '!' 
-\i (00:47:34) exit 
-\e (00:47:35) Do you want to save the changes you made to autohood_teamschematic_v1.brd?
-\i (00:47:36) fillin menu_cancel 
-\i (00:47:36) generaledit 
-\t (00:47:40) > DoPhysicalNetlistGenerate message received
-\t (00:47:40) > Generating physical netlist...
-\t (00:47:40) Starting genfeedformat...
-\t (00:47:40) > Sending response DonePhysicalNetlistGeneration
-\t (00:47:40) > Physical Netlist Generated
-\t (00:47:41) > DoPullSchematic message received
-\t (00:47:41) > Pulling schematic...
-\t (00:47:41) Starting Cadence Logic Import...
-\w (00:47:42) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:47:42) Opening existing design...
-\i (00:47:42) trapsize 1113
-\t (00:47:42) > Sending response DonePullSchematic
-\t (00:47:42) > Schematic pulled successfully
-\i (00:47:42) generaledit 
-\i (00:47:44) setwindow text
-\i (00:47:44) close
-\i (00:47:45) setwindow pcb
-\i (00:47:45) pick grid 7223.95 6584.90
-\t (00:47:45) last pick:  7200.00 6600.00
-\i (00:47:46) pick grid 7288.51 6576.00
-\t (00:47:46) last pick:  7300.00 6600.00
-\i (00:47:46) pick grid 7264.02 6522.57
-\t (00:47:46) last pick:  7300.00 6500.00
-\i (00:47:46) pick grid 7264.02 6578.22
-\t (00:47:46) last pick:  7300.00 6600.00
-\i (00:47:47) pick grid 7268.48 6522.57
-\t (00:47:47) last pick:  7300.00 6500.00
-\i (00:47:49) place manual 
-\w (00:47:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:47:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:47:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:47:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:47:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:47:49) ERROR(SPMHSY-24): 'SMDREC0_6C1_52', not found in search path.
-\w (00:47:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:47:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:47:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:47:49) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\w (00:47:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:47:49) setwindow form.plc_manual
-\i (00:47:49) FORM plc_manual tree  'Components by refdes' 
-\i (00:47:51) FORM plc_manual tree  R22 'Components by refdes' 
-\i (00:47:51) FORM plc_manual tree 'MULTISEL YES' R22 'Components by refdes' 
-\t (00:47:51) Placing R22 / R_RES_RK73G2A_KOA_100 / RES_RK73G2A_KOA on Top.
-\i (00:47:52) FORM plc_manual tree 'MULTISEL NO' R22 'Components by refdes' 
-\i (00:47:52) FORM plc_manual tree  R21 'Components by refdes' 
-\i (00:47:52) FORM plc_manual tree 'MULTISEL YES' R21 'Components by refdes' 
-\t (00:47:52) Placing R21 / R_RES_RK73G2A_KOA_100 / RES_RK73G2A_KOA on Top.
-\i (00:47:53) FORM plc_manual tree 'MULTISEL NO' R21 'Components by refdes' 
-\i (00:47:54) FORM plc_manual tree 'MULTISEL YES' R21 'Components by refdes' 
-\t (00:47:54) Placing R21 / R_RES_RK73G2A_KOA_100 / RES_RK73G2A_KOA on Top.
-\i (00:47:55) FORM plc_manual tree 'MULTISEL NO' R21 'Components by refdes' 
-\i (00:47:55) FORM plc_manual tree  R20 'Components by refdes' 
-\i (00:47:55) FORM plc_manual tree 'MULTISEL YES' R20 'Components by refdes' 
-\t (00:47:55) Placing R20 / R_RES_RK73G2A_KOA_100 / RES_RK73G2A_KOA on Top.
-\i (00:47:56) FORM plc_manual tree 'MULTISEL NO' R20 'Components by refdes' 
-\i (00:47:56) FORM plc_manual tree  R19 'Components by refdes' 
-\i (00:47:56) FORM plc_manual tree 'MULTISEL YES' R19 'Components by refdes' 
-\t (00:47:56) Placing R19 / R_RES_RK73G2A_KOA_100 / RES_RK73G2A_KOA on Top.
-\i (00:47:56) FORM plc_manual tree 'MULTISEL NO' R19 'Components by refdes' 
-\i (00:47:57) FORM plc_manual tree  R18 'Components by refdes' 
-\i (00:47:57) FORM plc_manual tree 'MULTISEL YES' R18 'Components by refdes' 
-\t (00:47:57) Placing R18 / R_RES_RK73G2A_KOA_100 / RES_RK73G2A_KOA on Top.
-\i (00:47:57) FORM plc_manual tree 'MULTISEL NO' R18 'Components by refdes' 
-\i (00:47:58) FORM plc_manual tree  R17 'Components by refdes' 
-\i (00:47:58) FORM plc_manual tree 'MULTISEL YES' R17 'Components by refdes' 
-\t (00:47:58) Placing R17 / R_RES_RK73G2A_KOA_100 / RES_RK73G2A_KOA on Top.
-\i (00:47:58) FORM plc_manual tree 'MULTISEL NO' R17 'Components by refdes' 
-\i (00:47:59) FORM plc_manual tree  U1 'Components by refdes' 
-\i (00:47:59) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
-\t (00:47:59) Placing U1 / ESP32 DEVKIT V1 - DOIT_ESP32_ESP32 DEVKIT V1 - DOIT / ESP32 on Top.
-\i (00:48:00) FORM plc_manual tree 'MULTISEL NO' U1 'Components by refdes' 
-\i (00:48:00) FORM plc_manual tree  U3 'Components by refdes' 
-\i (00:48:01) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
-\t (00:48:01) Placing U3 / PIC18F26K40-E/SO_SOIC28-W_MC_MCH-M_PIC18LF26K40-E/SO / SOIC28-W_MC_MCH-M on Top.
-\i (00:48:01) FORM plc_manual tree 'MULTISEL NO' U3 'Components by refdes' 
-\i (00:48:01) FORM plc_manual tree  U4 'Components by refdes' 
-\i (00:48:02) FORM plc_manual tree 'MULTISEL YES' U4 'Components by refdes' 
-\w (00:48:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:48:02) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\w (00:48:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:48:02) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\e (00:48:02) Cannot load symbol 'SOT230P700X180-4N'
-\e (00:48:02)   because WARNING(SPMHUT-127): Could not find padstack S_R162_88_M162_88_P162_88.
-\i (00:48:02) FORM plc_manual tree 'MULTISEL NO' U4 'Components by refdes' 
-\i (00:48:03) FORM plc_manual tree  U9 'Components by refdes' 
-\i (00:48:03) FORM plc_manual tree 'MULTISEL YES' U9 'Components by refdes' 
-\t (00:48:03) Placing U9 / LM340T-5-LF01_SOT_0T-5P0LF01_TEX-M_LM340T-5/LF01 / SOT_0T-5P0LF01_TEX-M on Top.
-\i (00:48:04) FORM plc_manual tree 'MULTISEL NO' U9 'Components by refdes' 
-\i (00:48:04) FORM plc_manual tree  U10 'Components by refdes' 
-\i (00:48:04) FORM plc_manual tree 'MULTISEL YES' U10 'Components by refdes' 
-\t (00:48:04) Placing U10 / SNAP_CONNECTOR_CONN_PXC08D_SUL_MPLABX SNAP / CONN_PXC08D_SUL on Top.
-\i (00:48:04) FORM plc_manual tree 'MULTISEL NO' U10 'Components by refdes' 
-\i (00:48:05) FORM plc_manual tree  U11 'Components by refdes' 
-\i (00:48:06) FORM plc_manual tree 'MULTISEL YES' U11 'Components by refdes' 
-\t (00:48:06) Placing U11 / BUTTON_HP0315AFKP4-R_NKK_BUTTON / HP0315AFKP4-R_NKK on Top.
-\i (00:48:07) FORM plc_manual tree 'MULTISEL NO' U11 'Components by refdes' 
-\i (00:48:07) FORM plc_manual tree  U12 'Components by refdes' 
-\i (00:48:08) FORM plc_manual tree 'MULTISEL YES' U12 'Components by refdes' 
-\w (00:48:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:48:08) ERROR(SPMHSY-24): 'SMDREC0_6C1_52', not found in search path.
-\w (00:48:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:48:08) ERROR(SPMHSY-24): 'SMDREC0_6C1_52', not found in search path.
-\e (00:48:08) Cannot load symbol 'EEEVVVIIILLL'
-\e (00:48:08)   because WARNING(SPMHUT-127): Could not find padstack SMDREC0_6C1_52.
-\i (00:48:10) FORM plc_manual tree 'MULTISEL NO' U12 'Components by refdes' 
-\i (00:48:10) FORM plc_manual tree 'MULTISEL YES' U12 'Components by refdes' 
-\w (00:48:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:48:10) ERROR(SPMHSY-24): 'SMDREC0_6C1_52', not found in search path.
-\w (00:48:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:48:10) ERROR(SPMHSY-24): 'SMDREC0_6C1_52', not found in search path.
-\e (00:48:10) Cannot load symbol 'EEEVVVIIILLL'
-\e (00:48:10)   because WARNING(SPMHUT-127): Could not find padstack SMDREC0_6C1_52.
-\i (00:48:11) FORM plc_manual tree 'MULTISEL NO' U12 'Components by refdes' 
-\i (00:48:11) FORM plc_manual tree  U13 'Components by refdes' 
-\i (00:48:12) FORM plc_manual tree 'MULTISEL YES' U13 'Components by refdes' 
-\t (00:48:12) Placing U13 / HIH6130_IC8_HIH6130-021-001_HNW_HIH6130 / IC8_HIH6130-021-001_HNW on Top.
-\i (00:48:12) FORM plc_manual tree 'MULTISEL NO' U13 'Components by refdes' 
-\i (00:48:13) FORM plc_manual tree  U14 'Components by refdes' 
-\i (00:48:13) FORM plc_manual tree 'MULTISEL YES' U14 'Components by refdes' 
-\t (00:48:13) Placing U14 / L298P_POWERSO-20_STM-M_L298P / POWERSO-20_STM-M on Top.
-\i (00:48:13) FORM plc_manual tree 'MULTISEL NO' U14 'Components by refdes' 
-\i (00:48:14) FORM plc_manual tree  U4 'Components by refdes' 
-\i (00:48:14) FORM plc_manual tree 'MULTISEL YES' U4 'Components by refdes' 
-\w (00:48:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:48:14) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\w (00:48:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:48:14) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
-\e (00:48:14) Cannot load symbol 'SOT230P700X180-4N'
-\e (00:48:14)   because WARNING(SPMHUT-127): Could not find padstack S_R162_88_M162_88_P162_88.
-\i (00:48:15) FORM plc_manual tree 'MULTISEL NO' U4 'Components by refdes' 
-\i (00:48:17) FORM plc_manual cancel  
-\i (00:48:17) setwindow pcb
-\i (00:48:17) generaledit 
-\t (00:57:42) Performing autosave...
-\t (00:57:42) Autosave successful
-\i (00:59:03) xrefdes R8 
-\t (00:59:03) Can not select unplaced component R8.
-\t (00:59:03) Can not select unplaced component R8.
-\i (00:59:03) xname_flush 
-\i (00:59:46) xrefdes '!' R8 
-\t (00:59:46) Can not select unplaced component R8.
-\t (00:59:46) Can not select unplaced component R8.
-\i (00:59:46) xname_flush '!' 
-\i (00:59:51) xname_flush '!' 
-\i (00:59:54) xname_flush 
-\i (01:00:08) xrefdes R8 
-\t (01:00:08) Can not select unplaced component R8.
-\t (01:00:08) Can not select unplaced component R8.
-\i (01:00:08) xname_flush 
-\i (01:00:26) xrefdes '!' R8 
-\t (01:00:26) Can not select unplaced component R8.
-\t (01:00:26) Can not select unplaced component R8.
-\i (01:00:26) xname_flush '!' 
-\i (01:03:37) pick grid 7771.59 6455.79
-\t (01:03:37) last pick:  7800.00 6500.00
-\i (01:03:46) zoom in 1 
-\i (01:03:46) setwindow pcb
-\i (01:03:46) zoom in 7348.62 6562.64
-\i (01:03:46) trapsize 557
-\i (01:03:46) zoom in 1 
-\i (01:03:46) setwindow pcb
-\i (01:03:46) zoom in 7348.62 6562.65
-\i (01:03:46) trapsize 278
-\i (01:03:47) pick grid 7326.92 6559.31
-\t (01:03:47) last pick:  7300.00 6600.00
-\i (01:03:47) prepopup 7326.92 6559.31
-\i (01:03:49) pop dyn_option_select @:@Delete 
-\i (01:03:49) delete 
-\i (01:03:49) generaledit 
-\i (01:03:50) pick grid 7447.13 6618.86
-\t (01:03:50) last pick:  7400.00 6600.00
-\i (01:03:50) zoom out 1 
-\i (01:03:50) setwindow pcb
-\i (01:03:50) zoom out 7457.71 6655.59
-\i (01:03:50) trapsize 557
-\i (01:03:50) zoom out 1 
-\i (01:03:50) setwindow pcb
-\i (01:03:50) zoom out 7457.70 6657.83
-\i (01:03:50) trapsize 1113
-\i (01:03:51) drag_start grid 7439.89 6657.83
-\i (01:03:51) drag_stop 6912.29 6450.79
-\i (01:03:54) prepopup 6992.43 6597.72
-\i (01:04:00) pop dyn_option_select Symbol@:@Delete 
-\i (01:04:00) delete 
-\i (01:04:00) generaledit 
-\i (01:04:01) zoom out 1 
-\i (01:04:01) setwindow pcb
-\i (01:04:01) zoom out 7442.12 6557.65
-\i (01:04:01) trapsize 2226
-\i (01:04:02) save 
-\i (01:04:09) fillin yes 
-\e (01:04:09) File "autohood_teamschematic_v1.brd" is being edited by user "tyler" on date "Thu Feb 24 22:22:06 2022" on system "LAPTOP-D455H4TO".  Save design to another name or contact user to remove their lock.
-\i (01:04:14) fillin confirm
-\i (01:04:14) generaledit 
-\i (01:04:18) save_as 
-\i (01:04:21) fillin "menu_cancel"
-\i (01:04:21) generaledit 
-\i (01:04:33) save 
-\i (01:04:35) fillin yes 
-\t (01:04:35) > Sending response DoneOpenBoard
-\i (01:04:35) generaledit 
-\i (01:04:38) exit 
-\t (01:04:38)     Journal end - Fri Feb 25 00:09:12 2022
+\t (00:00:14) allegro 17.4 S024 Windows SPB 64-bit Edition
+\t (00:00:14)     Journal start - Fri Feb 25 11:25:16 2022
+\t (00:00:14)         Host=LAPTOP-D455H4TO User=tyler Pid=23860 CPUs=12
+\t (00:00:14) CmdLine= C:\Cadence\SPB_17.4-silent\tools\bin\allegro.exe
+\t (00:00:14) 
+   (00:00:14) Loading axlcore.cxt 
+\t (00:00:15) Opening existing design...
+\i (00:00:15) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "autohood_teamschematic_v1"
+\d (00:00:15) Design opened: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd
+\i (00:00:15) trapsize 2226
+\i (00:00:15) trapsize 2288
+\i (00:00:15) trapsize 2306
+\i (00:00:16) trapsize 2226
+\i (00:00:16) trapsize 2309
+\t (00:00:16) > Sending response DoneOpenBoard
+\t (00:00:16) Loaded GPU Plugin from: plugins/gpu
+\i (00:00:16) trapsize 2373
+\i (00:00:16) trapsize 2392
+\i (00:00:16) trapsize 2309
+\i (00:00:16) generaledit 
+\i (00:34:30) zoom out 1 
+\i (00:34:30) setwindow pcb
+\i (00:34:30) zoom out 6906.82 5830.07
+\i (00:34:30) trapsize 4618
+\i (00:34:30) zoom out 1 
+\i (00:34:30) setwindow pcb
+\i (00:34:30) zoom out 6906.81 5830.08
+\i (00:34:30) trapsize 9237
+\i (00:34:31) zoom in 1 
+\i (00:34:31) setwindow pcb
+\i (00:34:31) zoom in 7297.08 9783.43
+\i (00:34:31) trapsize 4618
+\i (00:34:31) zoom in 1 
+\i (00:34:31) setwindow pcb
+\i (00:34:31) zoom in 7278.60 9728.01
+\i (00:34:31) trapsize 2309
+\i (00:34:31) zoom in 1 
+\i (00:34:31) setwindow pcb
+\i (00:34:31) zoom in 7260.13 9547.89
+\i (00:34:31) trapsize 1155
+\i (00:34:31) zoom out 1 
+\i (00:34:31) setwindow pcb
+\i (00:34:31) zoom out 7467.96 9273.10
+\i (00:34:31) trapsize 2309
+\i (00:34:31) zoom out 1 
+\i (00:34:31) setwindow pcb
+\i (00:34:31) zoom out 7629.60 9176.12
+\i (00:34:31) trapsize 4618
+\i (00:34:32) zoom in 1 
+\i (00:34:32) setwindow pcb
+\i (00:34:32) zoom in 7786.62 11596.16
+\i (00:34:32) trapsize 2309
+\i (00:34:32) zoom out 1 
+\i (00:34:32) setwindow pcb
+\i (00:34:32) zoom out 7615.74 11277.49
+\i (00:34:32) trapsize 4618
+\i (00:34:33) zoom in 1 
+\i (00:34:33) setwindow pcb
+\i (00:34:33) zoom in 7708.11 13041.72
+\i (00:34:33) trapsize 2309
+\i (00:34:33) zoom in 1 
+\i (00:34:33) setwindow pcb
+\i (00:34:33) zoom in 7708.11 13041.72
+\i (00:34:33) trapsize 1155
+\i (00:34:34) zoom out 1 
+\i (00:34:34) setwindow pcb
+\i (00:34:34) zoom out 7698.88 12947.04
+\i (00:34:34) trapsize 2309
+\i (00:34:34) zoom out 1 
+\i (00:34:34) setwindow pcb
+\i (00:34:34) zoom out 7698.88 12947.05
+\i (00:34:34) trapsize 4618
+\i (00:34:35) zoom out 1 
+\i (00:34:35) setwindow pcb
+\i (00:34:35) zoom out 7698.88 12947.05
+\i (00:34:35) trapsize 9237
+\i (00:34:35) zoom in 1 
+\i (00:34:35) setwindow pcb
+\i (00:34:35) zoom in 7038.45 8088.49
+\i (00:34:35) trapsize 4618
+\i (00:34:35) zoom in 1 
+\i (00:34:35) setwindow pcb
+\i (00:34:35) zoom in 7038.45 8088.49
+\i (00:34:35) trapsize 2309
+\i (00:34:36) zoom in 1 
+\i (00:34:36) setwindow pcb
+\i (00:34:36) zoom in 7038.45 8088.49
+\i (00:34:36) trapsize 1155
+\i (00:34:37) zoom out 1 
+\i (00:34:37) setwindow pcb
+\i (00:34:37) zoom out 7038.45 8088.49
+\i (00:34:37) trapsize 2309
+\i (00:34:37) zoom out 1 
+\i (00:34:37) setwindow pcb
+\i (00:34:37) zoom out 7038.46 8088.50
+\i (00:34:37) trapsize 4618
+\i (00:34:38) zoom in 1 
+\i (00:34:38) setwindow pcb
+\i (00:34:38) zoom in 7140.07 9464.78
+\i (00:34:38) trapsize 2309
+\i (00:34:38) zoom out 1 
+\i (00:34:38) setwindow pcb
+\i (00:34:38) zoom out 7140.07 9464.78
+\i (00:34:38) trapsize 4618
+\i (00:34:39) zoom out 1 
+\i (00:34:39) setwindow pcb
+\i (00:34:39) zoom out 7140.08 9464.78
+\i (00:34:39) trapsize 9237
+\i (00:34:39) zoom in 1 
+\i (00:34:39) setwindow pcb
+\i (00:34:39) zoom in 6317.98 8818.21
+\i (00:34:39) trapsize 4618
+\i (02:39:16) zoom in 1 
+\i (02:39:16) setwindow pcb
+\i (02:39:16) zoom in 7500.29 9196.92
+\i (02:39:16) trapsize 2309
+\i (02:39:16) zoom in 1 
+\i (02:39:16) setwindow pcb
+\i (02:39:16) zoom in 7500.29 9123.03
+\i (02:39:16) trapsize 1155
+\i (02:39:16) zoom out 1 
+\i (02:39:16) setwindow pcb
+\i (02:39:16) zoom out 8109.92 8448.75
+\i (02:39:16) trapsize 2309
+\i (02:39:16) zoom out 1 
+\i (02:39:16) setwindow pcb
+\i (02:39:16) zoom out 8109.93 8448.74
+\i (02:39:16) trapsize 4618
+\i (02:39:17) zoom out 1 
+\i (02:39:17) setwindow pcb
+\i (02:39:17) zoom out 8026.79 8457.98
+\i (02:39:17) trapsize 9237
+\i (02:39:17) zoom in 1 
+\i (02:39:17) setwindow pcb
+\i (02:39:17) zoom in 6946.08 10645.08
+\i (02:39:17) trapsize 4618
+\i (02:39:18) zoom in 1 
+\i (02:39:18) setwindow pcb
+\i (02:39:18) zoom in 6946.08 10645.08
+\i (02:39:18) trapsize 2309
+\i (02:39:18) zoom in 1 
+\i (02:39:18) setwindow pcb
+\i (02:39:18) zoom in 7675.79 10991.46
+\i (02:39:18) trapsize 1155
+\i (02:39:19) zoom in 1 
+\i (02:39:19) setwindow pcb
+\i (02:39:19) zoom in 7613.44 10952.21
+\i (02:39:19) trapsize 577
+\i (02:39:19) zoom out 1 
+\i (02:39:19) setwindow pcb
+\i (02:39:19) zoom out 7606.51 10948.74
+\i (02:39:19) trapsize 1155
+\i (02:39:20) zoom in 1 
+\i (02:39:20) setwindow pcb
+\i (02:39:20) zoom in 7324.79 10884.09
+\i (02:39:20) trapsize 577
+\i (02:39:20) zoom in 1 
+\i (02:39:20) setwindow pcb
+\i (02:39:20) zoom in 7324.79 10884.10
+\i (02:39:20) trapsize 289
+\i (02:39:22) pick grid 7367.51 10882.95
+\t (02:39:22) last pick:  7400.00 10900.00
+\i (02:39:23) pick grid 7247.43 10942.99
+\t (02:39:23) last pick:  7200.00 10900.00
+\i (02:39:23) drag_start grid 7547.63 10914.12
+\i (02:39:23) drag_stop 7572.45 10912.97
+\i (02:39:24) drag_start grid 7411.38 10930.87
+\i (02:39:24) drag_stop 7153.91 10765.76
+\i (02:39:25) prepopup 7261.29 10878.33
+\i (02:39:28) pick grid 7659.05 10840.23
+\t (02:39:28) last pick:  7700.00 10800.00
+\i (02:39:29) zoom out 1 
+\i (02:39:29) setwindow pcb
+\i (02:39:29) zoom out 7399.26 10850.62
+\i (02:39:29) trapsize 577
+\i (02:39:29) zoom out 1 
+\i (02:39:29) setwindow pcb
+\i (02:39:29) zoom out 7399.26 10850.62
+\i (02:39:29) trapsize 1155
+\i (02:39:29) zoom out 1 
+\i (02:39:29) setwindow pcb
+\i (02:39:29) zoom out 7399.26 10850.63
+\i (02:39:29) trapsize 2309
+\i (02:39:29) zoom out 1 
+\i (02:39:29) setwindow pcb
+\i (02:39:29) zoom out 7399.26 10850.62
+\i (02:39:29) trapsize 4618
+\i (02:39:30) zoom out 1 
+\i (02:39:30) setwindow pcb
+\i (02:39:30) zoom out 7399.26 10850.62
+\i (02:39:30) trapsize 9237
+\i (02:39:30) drag_start grid 10142.11 14321.30
+\i (02:39:31) drag_stop 5246.56 6100.46
+\i (02:39:31) zoom in 1 
+\i (02:39:31) setwindow pcb
+\i (02:39:31) zoom in 7943.73 6636.20
+\i (02:39:31) trapsize 4618
+\i (02:39:31) zoom in 1 
+\i (02:39:31) setwindow pcb
+\i (02:39:31) zoom in 7343.34 6728.57
+\i (02:39:31) trapsize 2309
+\i (02:39:32) zoom in 1 
+\i (02:39:32) setwindow pcb
+\i (02:39:32) zoom in 7167.84 6788.62
+\i (02:39:32) trapsize 1155
+\i (02:39:32) prepopup 7225.58 6945.65
+\i (02:39:35) pop dyn_option_select 'Symbol@:@Unplace component' 
+\i (02:39:35) unplace component 
+\i (02:39:35) generaledit 
+\i (02:39:35) zoom out 1 
+\i (02:39:35) setwindow pcb
+\i (02:39:35) zoom out 7419.55 6883.30
+\i (02:39:35) trapsize 2309
+\i (02:39:35) zoom out 1 
+\i (02:39:35) setwindow pcb
+\i (02:39:35) zoom out 7419.54 6883.30
+\i (02:39:35) trapsize 4618
+\i (02:39:36) zoom out 1 
+\i (02:39:36) setwindow pcb
+\i (02:39:36) zoom out 7419.55 6883.30
+\i (02:39:36) trapsize 9237
+\i (02:39:36) zoom out 1 
+\i (02:39:36) setwindow pcb
+\i (02:39:36) zoom out 8036.10 6957.20
+\i (02:39:36) trapsize 13889
+\i (02:39:37) save 
+\i (02:39:38) fillin yes 
+\t (02:39:38) > Sending response DoneOpenBoard
+\i (02:39:45) generaledit 
+\i (03:25:22) place manual 
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (03:25:23) ERROR(SPMHSY-24): 'SMDREC0_6C1_52', not found in search path.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (03:25:23) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (03:25:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:25:23) setwindow form.plc_manual
+\i (03:25:23) FORM plc_manual tree  'Components by refdes' 
+\i (03:25:53) FORM plc_manual tree  D1 'Components by refdes' 
+\i (03:25:54) FORM plc_manual tree 'MULTISEL YES' D1 'Components by refdes' 
+\t (03:25:54) Placing D1 / LED_LED_SML-210_ROM_LED / LED_SML-210_ROM on Top.
+\i (03:25:57) FORM plc_manual tree 'MULTISEL NO' D1 'Components by refdes' 
+\i (03:25:59) FORM plc_manual tree  U4 'Components by refdes' 
+\i (03:26:00) FORM plc_manual tree 'MULTISEL YES' U4 'Components by refdes' 
+\w (03:26:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (03:26:00) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
+\w (03:26:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (03:26:00) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
+\e (03:26:00) Cannot load symbol 'SOT230P700X180-4N'
+\e (03:26:00)   because WARNING(SPMHUT-127): Could not find padstack S_R162_88_M162_88_P162_88.
+\i (03:26:06) FORM plc_manual tree 'MULTISEL NO' U4 'Components by refdes' 
+\i (03:26:08) setwindow pcb
+\i (03:26:08) refdes '!' B1 
+\i (03:26:08) refdes '!' J5 
+\i (03:26:08) refdes '!' F4 
+\i (03:26:08) refdes '!' C1 
+\i (03:26:08) refdes '!' C13 
+\i (03:26:08) refdes '!' F3 
+\i (03:26:08) refdes '!' J1 
+\i (03:26:08) refdes '!' D6 
+\i (03:26:08) refdes '!' C7 
+\i (03:26:08) refdes '!' J4 
+\i (03:26:08) refdes '!' F1 
+\i (03:26:08) refdes '!' D2 
+\i (03:26:08) refdes '!' C4 
+\i (03:26:08) refdes '!' C9 
+\i (03:26:08) refdes '!' M1 
+\i (03:26:08) refdes '!' C10 
+\i (03:26:08) refdes '!' J2 
+\i (03:26:08) refdes '!' C12 
+\i (03:26:08) refdes '!' C11 
+\i (03:26:08) refdes '!' D3 
+\i (03:26:08) refdes '!' C3 
+\i (03:26:08) refdes '!' D1 
+\i (03:26:08) refdes '!' C14 
+\i (03:26:08) refdes '!' F2 
+\i (03:26:08) refdes '!' D4 
+\i (03:26:08) refdes '!' C2 
+\i (03:26:08) refdes '!' C8 
+\i (03:26:08) refdes '!' D7 
+\i (03:26:08) refdes '!' J3 
+\i (03:26:08) refdes '!' D5 
+\i (03:26:08) xname_flush '!' 
+\i (03:26:11) refdes U4 
+\w (03:26:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (03:26:11) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
+\w (03:26:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (03:26:11) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
+\e (03:26:11) Cannot load symbol 'SOT230P700X180-4N'
+\e (03:26:11)   because WARNING(SPMHUT-127): Could not find padstack S_R162_88_M162_88_P162_88.
+\i (03:26:11) xname_flush 
+\i (03:26:12) refdes '!' U4 
+\i (03:26:12) xname_flush '!' 
+\i (03:26:15) refdes U4 
+\i (03:26:15) xname_flush 
+\i (03:26:23) setwindow form.plc_manual
+\i (03:26:23) FORM plc_manual tree 'MULTISEL NO' U4 'Components by refdes' 
+\i (03:26:23) FORM plc_manual tree  U9 'Components by refdes' 
+\i (03:26:24) FORM plc_manual tree 'MULTISEL YES' U9 'Components by refdes' 
+\t (03:26:24) Placing U9 / LM340T-5-LF01_SOT_0T-5P0LF01_TEX-M_LM340T-5/LF01 / SOT_0T-5P0LF01_TEX-M on Top.
+\i (03:26:24) FORM plc_manual tree 'MULTISEL NO' U9 'Components by refdes' 
+\i (03:26:25) FORM plc_manual tree  U10 'Components by refdes' 
+\i (03:26:25) FORM plc_manual tree 'MULTISEL YES' U10 'Components by refdes' 
+\t (03:26:25) Placing U10 / SNAP_CONNECTOR_CONN_PXC08D_SUL_MPLABX SNAP / CONN_PXC08D_SUL on Top.
+\i (03:26:25) FORM plc_manual tree 'MULTISEL NO' U10 'Components by refdes' 
+\i (03:26:26) FORM plc_manual tree  U11 'Components by refdes' 
+\i (03:26:26) FORM plc_manual tree 'MULTISEL YES' U11 'Components by refdes' 
+\t (03:26:26) Placing U11 / BUTTON_HP0315AFKP4-R_NKK_BUTTON / HP0315AFKP4-R_NKK on Top.
+\i (03:26:26) FORM plc_manual tree 'MULTISEL NO' U11 'Components by refdes' 
+\i (03:26:27) FORM plc_manual tree  U12 'Components by refdes' 
+\i (03:26:27) FORM plc_manual tree 'MULTISEL YES' U12 'Components by refdes' 
+\w (03:26:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (03:26:27) ERROR(SPMHSY-24): 'SMDREC0_6C1_52', not found in search path.
+\w (03:26:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (03:26:27) ERROR(SPMHSY-24): 'SMDREC0_6C1_52', not found in search path.
+\e (03:26:27) Cannot load symbol 'EEEVVVIIILLL'
+\e (03:26:27)   because WARNING(SPMHUT-127): Could not find padstack SMDREC0_6C1_52.
+\i (03:26:29) FORM plc_manual tree 'MULTISEL NO' U12 'Components by refdes' 
+\i (03:26:36) setwindow pcb
+\i (03:26:36) refdes '!' U4 
+\i (03:26:36) xname_flush '!' 
+\i (03:26:37) refdes U12 
+\w (03:26:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (03:26:37) ERROR(SPMHSY-24): 'SMDREC0_6C1_52', not found in search path.
+\w (03:26:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (03:26:37) ERROR(SPMHSY-24): 'SMDREC0_6C1_52', not found in search path.
+\e (03:26:37) Cannot load symbol 'EEEVVVIIILLL'
+\e (03:26:37)   because WARNING(SPMHUT-127): Could not find padstack SMDREC0_6C1_52.
+\i (03:26:37) xname_flush 
+\i (03:27:00) refdes '!' U12 
+\i (03:27:00) xname_flush '!' 
+\w (03:30:15) Save pending
+\i (04:27:28) setwindow form.plc_manual
+\i (04:27:28) FORM plc_manual tree 'MULTISEL NO' U12 'Components by refdes' 
+\i (04:27:29) FORM plc_manual cancel  
+\i (04:27:29) setwindow pcb
+\i (04:27:29) generaledit 
+\t (04:27:29) Performing autosave...
+\t (04:27:29) Autosave successful
+\i (04:29:11) xrefdes U12 
+\t (04:29:11) Can not select unplaced component U12.
+\t (04:29:11) Can not select unplaced component U12.
+\i (04:29:11) xname_flush 
+\t (04:29:19) > DoPhysicalNetlistGenerate message received
+\t (04:29:19) > Generating physical netlist...
+\t (04:29:19) Starting genfeedformat...
+\t (04:29:20) > Sending response DonePhysicalNetlistGeneration
+\t (04:29:20) > Physical Netlist Generated
+\t (04:29:21) > DoPullSchematic message received
+\t (04:29:21) > Pulling schematic...
+\t (04:29:21) Starting Cadence Logic Import...
+\w (04:29:21) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (04:29:21) Opening existing design...
+\i (04:29:22) trapsize 13889
+\t (04:29:22) > Sending response DonePullSchematic
+\t (04:29:22) > Schematic pulled successfully
+\i (04:29:22) generaledit 
+\i (04:29:23) setwindow text
+\i (04:29:23) close
+\i (04:29:26) setwindow pcb
+\i (04:29:26) place manual 
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (04:29:26) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:29:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (04:29:26) setwindow form.plc_manual
+\i (04:29:26) FORM plc_manual tree  'Components by refdes' 
+\i (04:29:28) FORM plc_manual tree  U14 'Components by refdes' 
+\i (04:29:28) FORM plc_manual tree 'MULTISEL YES' U14 'Components by refdes' 
+\t (04:29:28) Placing U14 / L298P_POWERSO-20_STM-M_L298P / POWERSO-20_STM-M on Top.
+\i (04:29:30) FORM plc_manual tree 'MULTISEL NO' U14 'Components by refdes' 
+\i (04:29:31) FORM plc_manual tree  U13 'Components by refdes' 
+\i (04:29:31) FORM plc_manual tree 'MULTISEL YES' U13 'Components by refdes' 
+\t (04:29:31) Placing U13 / HIH6130_IC8_HIH6130-021-001_HNW_HIH6130 / IC8_HIH6130-021-001_HNW on Top.
+\i (04:29:32) FORM plc_manual tree 'MULTISEL NO' U13 'Components by refdes' 
+\i (04:29:32) FORM plc_manual tree  U12 'Components by refdes' 
+\i (04:29:32) FORM plc_manual tree 'MULTISEL YES' U12 'Components by refdes' 
+\t (04:29:32) Placing U12 / NCS21911_NCS21912DR2G_NCS21911 / NCS21912DR2G on Top.
+\i (04:29:35) setwindow pcb
+\i (04:29:35) pick grid 12666.67 6861.11
+\t (04:29:35) last pick:  12700.00 6900.00
+\i (04:29:36) zoom in 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom in 12666.67 6861.11
+\i (04:29:36) trapsize 6944
+\i (04:29:36) zoom in 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom in 9347.22 6861.12
+\i (04:29:36) trapsize 3472
+\i (04:29:36) zoom in 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom in 9347.23 6861.12
+\i (04:29:36) trapsize 1736
+\i (04:29:36) zoom in 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom in 9347.23 6861.12
+\i (04:29:36) trapsize 868
+\i (04:29:36) zoom in 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom in 9347.24 6861.12
+\i (04:29:36) trapsize 434
+\i (04:29:36) zoom in 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom in 9347.24 6861.12
+\i (04:29:36) trapsize 217
+\i (04:29:36) zoom in 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom in 9347.24 6861.12
+\i (04:29:36) trapsize 109
+\i (04:29:36) zoom in 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom in 9347.25 6861.12
+\i (04:29:36) trapsize 54
+\i (04:29:36) zoom out 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom out 9347.25 6861.01
+\i (04:29:36) trapsize 109
+\i (04:29:36) zoom out 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom out 9347.24 6860.80
+\i (04:29:36) trapsize 217
+\i (04:29:36) zoom out 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom out 9347.23 6860.80
+\i (04:29:36) trapsize 434
+\i (04:29:36) zoom out 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom out 9347.24 6860.79
+\i (04:29:36) trapsize 868
+\i (04:29:36) zoom out 1 
+\i (04:29:36) setwindow pcb
+\i (04:29:36) zoom out 9347.24 6860.79
+\i (04:29:36) trapsize 1736
+\i (04:29:38) setwindow form.plc_manual
+\i (04:29:38) FORM plc_manual cancel  
+\i (04:29:38) setwindow pcb
+\i (04:29:38) generaledit 
+\i (04:29:39) zoom out 1 
+\i (04:29:39) setwindow pcb
+\i (04:29:39) zoom out 9638.90 6732.33
+\i (04:29:39) trapsize 3472
+\i (04:29:40) zoom in 1 
+\i (04:29:40) setwindow pcb
+\i (04:29:40) zoom in 10326.40 8767.03
+\i (04:29:40) trapsize 1736
+\i (04:29:40) zoom in 1 
+\i (04:29:40) setwindow pcb
+\i (04:29:40) zoom in 10413.21 8492.73
+\i (04:29:40) trapsize 868
+\i (04:29:40) zoom in 1 
+\i (04:29:40) setwindow pcb
+\i (04:29:40) zoom in 10411.47 8480.58
+\i (04:29:40) trapsize 434
+\i (04:29:41) zoom in 1 
+\i (04:29:41) setwindow pcb
+\i (04:29:41) zoom in 10367.20 8425.89
+\i (04:29:41) trapsize 217
+\i (04:29:41) prepopup 10367.20 8425.90
+\i (04:29:42) pick grid 10353.31 8454.98
+\t (04:29:42) last pick:  10400.00 8500.00
+\i (04:29:51) zoom out 1 
+\i (04:29:51) setwindow pcb
+\i (04:29:51) zoom out 10356.79 8360.36
+\i (04:29:51) trapsize 434
+\i (04:29:55) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (04:29:55) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (04:30:02) place manual 
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (04:30:02) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (04:30:02) setwindow form.plc_manual
+\i (04:30:02) FORM plc_manual tree  'Components by refdes' 
+\i (04:30:05) FORM plc_manual cancel  
+\i (04:30:05) setwindow pcb
+\i (04:30:05) generaledit 
+\i (04:30:05) drag_start grid 10146.71 8595.60
+\i (04:30:06) drag_stop 10593.76 8231.02
+\i (04:30:06) pick grid 10452.27 8306.54
+\t (04:30:06) last pick:  10500.00 8300.00
+\i (04:30:07) pick grid 10220.50 8421.99
+\t (04:30:07) last pick:  10200.00 8400.00
+\i (04:30:07) pick grid 10247.41 8376.85
+\t (04:30:07) last pick:  10200.00 8400.00
+\i (04:30:08) pick grid 10253.48 8319.56
+\t (04:30:08) last pick:  10300.00 8300.00
+\i (04:30:08) pick grid 10462.68 8417.65
+\t (04:30:08) last pick:  10500.00 8400.00
+\i (04:30:08) pick grid 10439.25 8310.01
+\t (04:30:08) last pick:  10400.00 8300.00
+\i (04:30:08) prepopup 10295.15 8344.73
+\i (04:30:09) pick grid 10333.34 8427.20
+\t (04:30:09) last pick:  10300.00 8400.00
+\i (04:30:09) undo 
+\i (04:30:09) trapsize 434
+\i (04:30:09) generaledit 
+\i (04:30:10) save 
+\i (04:30:13) fillin no 
+\i (04:30:17) fillin "autohood_teamschematic_v1.2.brd"
+\t (04:30:17) > Sending response DoneOpenBoard
+\i (04:30:17) generaledit 
+\i (04:30:21) open 
+\i (04:30:23) fillin "autohood_teamschematic_v1.2.brd"
+\t (04:30:23) Opening existing design...
+\i (04:30:23) trapsize 434
+\t (04:30:23) > Sending response DoneOpenBoard
+\d (04:30:23) Design opened: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1.2.brd
+\i (04:30:23) generaledit 
+\i (04:30:26) place manual 
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (04:30:26) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (04:30:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (04:30:26) setwindow form.plc_manual
+\i (04:30:26) FORM plc_manual tree  'Components by refdes' 
+\i (04:30:28) FORM plc_manual tree  U12 'Components by refdes' 
+\i (04:30:28) FORM plc_manual tree 'MULTISEL YES' U12 'Components by refdes' 
+\t (04:30:28) Placing U12 / NCS21911_NCS21912DR2G_NCS21911 / NCS21912DR2G on Top.
+\i (04:30:29) setwindow pcb
+\i (04:30:29) pick grid 10282.13 8350.81
+\t (04:30:29) last pick:  10300.00 8400.00
+\i (04:30:30) prepopup 10278.66 8591.26
+\i (04:30:30) done 
+\i (04:30:30) generaledit 
+\i (04:30:50) pick grid 10625.01 8234.49
+\t (04:30:50) last pick:  10600.00 8200.00
+\i (04:30:51) pick grid 10540.81 8410.70
+\t (04:30:51) last pick:  10500.00 8400.00
+\i (04:30:51) pick grid 10315.98 8425.46
+\t (04:30:51) last pick:  10300.00 8400.00
+\i (04:30:52) drag_start grid 10312.51 8409.84
+\i (04:30:52) move 
+\t (04:30:52) last pick:  10300.00 8400.00
+\t (04:30:52) Pick new location for the element(s).
+\i (04:30:53) drag_stop grid 10208.35 8534.83
+\i (04:30:53) generaledit 
+\i (04:30:53) pick grid 10457.47 8566.08
+\t (04:30:53) last pick:  10500.00 8600.00
+\i (04:30:54) pick grid 10243.07 8545.25
+\t (04:30:54) last pick:  10200.00 8500.00
+\i (04:30:54) drag_start grid 10197.93 8520.08
+\i (04:30:54) move 
+\t (04:30:54) last pick:  10200.00 8500.00
+\t (04:30:54) Pick new location for the element(s).
+\i (04:30:57) drag_stop grid 10225.71 8553.93
+\i (04:30:57) generaledit 
+\i (04:30:57) pick grid 10434.91 8549.59
+\t (04:30:57) last pick:  10400.00 8500.00
+\i (04:30:58) pick grid 10527.79 8407.23
+\t (04:30:58) last pick:  10500.00 8400.00
+\i (04:30:58) drag_start grid 10526.05 8416.78
+\i (04:30:58) move 
+\t (04:30:58) last pick:  10452.13 8400.00
+\t (04:30:58) Pick new location for the element(s).
+\i (04:31:01) drag_stop grid 10172.76 8589.52
+\i (04:31:01) generaledit 
+\i (04:31:01) pick grid 10140.64 8619.04
+\t (04:31:01) last pick:  10100.00 8600.00
+\i (04:31:02) drag_start grid 10138.03 8614.69
+\i (04:31:02) move 
+\t (04:31:02) last pick:  10200.00 8600.00
+\t (04:31:02) Pick new location for the element(s).
+\i (04:31:05) drag_stop grid 10200.53 8606.88
+\i (04:31:05) generaledit 
+\i (04:31:05) pick grid 10335.95 8603.41
+\t (04:31:05) last pick:  10300.00 8600.00
+\i (04:31:05) drag_start grid 10317.72 8615.56
+\i (04:31:05) move 
+\t (04:31:05) last pick:  10200.00 8600.00
+\t (04:31:05) Pick new location for the element(s).
+\i (04:31:14) drag_stop grid 10281.26 8559.14
+\i (04:31:14) generaledit 
+\i (04:31:14) pick grid 10202.27 8625.11
+\t (04:31:14) last pick:  10200.00 8600.00
+\i (04:31:15) drag_start grid 10210.95 8626.85
+\i (04:31:15) move 
+\t (04:31:15) last pick:  10200.00 8600.00
+\t (04:31:15) Pick new location for the element(s).
+\i (04:31:16) drag_stop grid 10216.16 8552.20
+\i (04:31:16) generaledit 
+\i (04:31:16) pick grid 10388.03 8610.35
+\t (04:31:16) last pick:  10400.00 8600.00
+\i (04:31:17) drag_start grid 10366.33 8632.06
+\i (04:31:17) move 
+\t (04:31:17) last pick:  10300.00 8600.00
+\t (04:31:17) Pick new location for the element(s).
+\i (04:31:18) drag_stop grid 10319.46 8588.65
+\i (04:31:18) generaledit 
+\i (04:31:19) pick grid 10636.29 8499.24
+\t (04:31:19) last pick:  10600.00 8500.00
+\t (04:40:23) Performing autosave...
+\t (04:40:23) Autosave successful
+\i (05:03:22) pick grid 10050.36 8347.34
+\t (05:03:22) last pick:  10100.00 8300.00
+\i (05:03:22) save 
+\i (05:03:23) fillin no 
+\i (05:03:24) fillin "menu_cancel"
+\i (05:03:24) generaledit 
+\i (05:03:25) drag_start grid 10667.54 8692.82
+\i (05:03:25) roam y 16
+\i (05:03:25) roam y 16
+\i (05:03:26) drag_stop 10023.45 8196.96
+\i (05:03:27) pick grid 10084.21 8334.11
+\t (05:03:27) last pick:  10100.00 8300.00
+\i (05:03:28) save 
+\i (05:03:29) fillin yes 
+\t (05:03:29) > Sending response DoneOpenBoard
+\i (05:03:29) generaledit 
+\i (05:03:30) pick grid 10192.72 8496.44
+\t (05:03:30) last pick:  10200.00 8500.00
+\i (05:03:31) prepopup 10192.72 8496.44
+\i (05:03:34) pop dyn_option_select 'Symbol@:@Unplace component' 
+\i (05:03:34) unplace component 
+\i (05:03:34) generaledit 
+\t (05:10:23) Performing autosave...
+\t (05:10:23) Autosave successful
+\i (06:33:27) place manual 
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (06:33:27) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (06:33:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (06:33:27) setwindow form.plc_manual
+\i (06:33:27) FORM plc_manual tree  'Components by refdes' 
+\i (06:33:29) FORM plc_manual tree  U12 'Components by refdes' 
+\i (06:33:29) FORM plc_manual tree 'MULTISEL YES' U12 'Components by refdes' 
+\t (06:33:29) Placing U12 / NCS21911_NCS21912DR2G_NCS21911 / NCS21912DR2G on Top.
+\i (06:33:31) setwindow pcb
+\i (06:33:31) pick grid 10320.32 8451.30
+\t (06:33:31) last pick:  10300.00 8500.00
+\i (06:33:31) prepopup 10079.01 8397.48
+\i (06:33:32) done 
+\i (06:33:32) generaledit 
+\i (06:33:32) drag_start grid 10071.19 8641.40
+\i (06:33:33) drag_stop 10641.50 8343.66
+\i (06:33:33) prepopup 10286.47 8420.92
+\i (06:33:36) pop dyn_option_select 'Symbol@:@Unplace component' 
+\i (06:33:36) unplace component 
+\i (06:33:36) generaledit 
+\t (06:40:23) Performing autosave...
+\t (06:40:23) Autosave successful
+\i (07:45:06) xrefdes '!' U12 
+\t (07:45:06) Can not select unplaced component U12.
+\t (07:45:06) Can not select unplaced component U12.
+\i (07:45:06) xname_flush '!' 
+\i (07:45:42) xrefdes R14 
+\t (07:45:42) Can not select unplaced component R14.
+\t (07:45:42) Can not select unplaced component R14.
+\i (07:45:42) xname_flush 
+\i (07:45:55) place manual 
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (07:45:56) ERROR(SPMHSY-24): 'S_R162_88_M162_88_P162_88', not found in search path.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (07:45:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (07:45:56) setwindow form.plc_manual
+\i (07:45:56) FORM plc_manual tree  'Components by refdes' 
+\i (07:45:59) FORM plc_manual tree  R14 'Components by refdes' 
+\i (07:45:59) FORM plc_manual tree 'MULTISEL YES' R14 'Components by refdes' 
+\t (07:45:59) Placing R14 / R_AXRC05_1K / AXRC05 on Top.
+\i (07:46:01) setwindow pcb
+\i (07:46:01) pick grid 10149.32 8380.12
+\t (07:46:01) last pick:  10100.00 8400.00
+\i (07:46:02) prepopup 10173.62 8559.81
+\i (07:46:09) prepopup 10305.57 8604.94
+\i (07:46:10) cancel 
+\i (07:46:10) generaledit 
+\i (07:46:12) undo 
+\i (07:46:12) trapsize 434
+\i (07:46:12) generaledit 
+\i (07:46:13) save 
+\i (07:46:14) fillin yes 
+\t (07:46:14) > Sending response DoneOpenBoard
+\i (07:46:14) generaledit 
+\i (07:46:20) xrefdes R14 
+\t (07:46:20) Can not select unplaced component R14.
+\t (07:46:20) Can not select unplaced component R14.
+\i (07:46:20) xname_flush 
+\i (07:46:37) xname_flush 
+\i (07:46:52) xrefdes '!' R14 
+\t (07:46:52) Can not select unplaced component R14.
+\t (07:46:52) Can not select unplaced component R14.
+\i (07:46:52) xname_flush '!' 
+\i (07:46:52) xrefdes R17 
+\t (07:46:52) Can not select unplaced component R17.
+\t (07:46:52) Can not select unplaced component R17.
+\i (07:46:52) xname_flush 
+\i (07:47:05) xname_flush '!' 
+\i (07:47:05) xname_flush 
+\i (07:47:13) xname_flush '!' 
+\i (07:47:16) xrefdes '!' R17 
+\t (07:47:16) Can not select unplaced component R17.
+\t (07:47:16) Can not select unplaced component R17.
+\i (07:47:16) xname_flush '!' 
+\i (07:47:17) xrefdes R8 
+\t (07:47:17) Can not select unplaced component R8.
+\t (07:47:17) Can not select unplaced component R8.
+\i (07:47:17) xname_flush 
+\i (07:47:39) xrefdes '!' R8 
+\t (07:47:39) Can not select unplaced component R8.
+\t (07:47:39) Can not select unplaced component R8.
+\i (07:47:39) xname_flush '!' 
+\i (07:47:57) xrefdes C13 
+\t (07:47:57) Can not select unplaced component C13.
+\t (07:47:57) Can not select unplaced component C13.
+\i (07:47:57) xname_flush 
+\i (07:48:05) xrefdes '!' C13 
+\t (07:48:05) Can not select unplaced component C13.
+\t (07:48:05) Can not select unplaced component C13.
+\i (07:48:05) xname_flush '!' 
+\i (07:48:57) xrefdes R1 
+\t (07:48:57) Can not select unplaced component R1.
+\t (07:48:57) Can not select unplaced component R1.
+\i (07:48:57) xname_flush 
+\i (07:49:05) xrefdes '!' R1 
+\t (07:49:05) Can not select unplaced component R1.
+\t (07:49:05) Can not select unplaced component R1.
+\i (07:49:05) xname_flush '!' 
+\i (07:49:05) xrefdes R3 
+\t (07:49:05) Can not select unplaced component R3.
+\t (07:49:05) Can not select unplaced component R3.
+\i (07:49:05) xname_flush 
+\i (07:49:12) xrefdes '!' R3 
+\t (07:49:12) Can not select unplaced component R3.
+\t (07:49:12) Can not select unplaced component R3.
+\i (07:49:12) xname_flush '!' 
+\i (07:49:12) xrefdes R2 
+\t (07:49:12) Can not select unplaced component R2.
+\t (07:49:12) Can not select unplaced component R2.
+\i (07:49:12) xname_flush 
+\i (07:49:24) xrefdes '!' R2 
+\t (07:49:24) Can not select unplaced component R2.
+\t (07:49:24) Can not select unplaced component R2.
+\i (07:49:24) xname_flush '!' 
+\i (07:50:55) xNet Gnd 
+\i (07:50:55) xname_flush 
+\i (07:50:55) xNet '!' Gnd 
+\i (07:50:55) xname_flush '!' 
+\i (07:54:47) xrefdes R1 
+\t (07:54:47) Can not select unplaced component R1.
+\t (07:54:47) Can not select unplaced component R1.
+\i (07:54:47) xname_flush 
+\i (07:57:31) xrefdes '!' R1 
+\t (07:57:31) Can not select unplaced component R1.
+\t (07:57:31) Can not select unplaced component R1.
+\i (07:57:31) xname_flush '!' 
+\i (08:10:08) xrefdes R1 
+\t (08:10:08) Can not select unplaced component R1.
+\t (08:10:08) Can not select unplaced component R1.
+\i (08:10:08) xname_flush 
+\i (08:10:41) xrefdes '!' R1 
+\t (08:10:41) Can not select unplaced component R1.
+\t (08:10:41) Can not select unplaced component R1.
+\i (08:10:41) xname_flush '!' 
+\i (08:10:52) xrefdes R2 
+\t (08:10:52) Can not select unplaced component R2.
+\t (08:10:52) Can not select unplaced component R2.
+\i (08:10:52) xname_flush 
+\i (08:10:58) xrefdes '!' R2 
+\t (08:10:58) Can not select unplaced component R2.
+\t (08:10:58) Can not select unplaced component R2.
+\i (08:10:58) xname_flush '!' 
+\i (08:10:58) xrefdes R3 
+\t (08:10:58) Can not select unplaced component R3.
+\t (08:10:58) Can not select unplaced component R3.
+\i (08:10:58) xname_flush 
+\i (08:11:08) xrefdes '!' R3 
+\t (08:11:08) Can not select unplaced component R3.
+\t (08:11:08) Can not selec

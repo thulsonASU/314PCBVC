@@ -1,4 +1,33 @@
 FILE_TYPE=LIBRARY_PARTS;
+primitive 'R_RES_RK73G2A_KOA_100';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='R';
+	 VALUE='100';
+	 BODY_NAME='R_RES_RK73G2A_KOA_100';
+	 JEDEC_TYPE='RES_RK73G2A_KOA';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
 primitive 'ASR00050_JUMPER2_ASR00050';
   pin
 	 'VC':
@@ -24,35 +53,6 @@ primitive 'ASR00050_JUMPER2_ASR00050';
 	 BODY_NAME='ASR00050_JUMPER2_ASR00050';
 	 JEDEC_TYPE='JUMPER2';
 	 PHYS_DES_PREFIX='B';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'C_CAP196_1N';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='C';
-	 VALUE='1n';
-	 BODY_NAME='C_CAP196_1N';
-	 JEDEC_TYPE='CAP196';
-	 PHYS_DES_PREFIX='C';
 	 CLASS='IC';
   end_body;
 end_primitive;
