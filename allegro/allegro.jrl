@@ -1,0 +1,217 @@
+\t (00:00:03) allegro 17.4 S024 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sat Feb 26 17:35:59 2022
+\t (00:00:03)         Host=LAPTOP-D455H4TO User=tyler Pid=25980 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4-silent\tools\bin\allegro.exe C:\Users\tyler\Desktop\Cadence\Cadence\Projects\autoHood_projectMaster\allegro\autohood_teamschematic_v1.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "autohood_teamschematic_v1"
+\d (00:00:06) Design opened: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd
+\i (00:00:06) trapsize 3486
+\i (00:00:07) trapsize 3583
+\i (00:00:07) trapsize 3611
+\i (00:00:07) trapsize 3486
+\i (00:00:07) trapsize 3616
+\t (00:00:09) > Sending response DoneOpenBoard
+\t (00:00:09) Loaded GPU Plugin from: plugins/gpu
+\i (00:00:09) trapsize 3716
+\i (00:00:09) trapsize 3746
+\i (00:00:09) trapsize 3616
+\i (00:00:10) generaledit 
+\i (00:00:12) save 
+\i (00:00:13) fillin yes 
+\t (00:00:13) > Sending response DoneOpenBoard
+\i (00:00:13) generaledit 
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 10777.02 15936.89
+\i (00:00:13) trapsize 1808
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 10773.41 15936.89
+\i (00:00:14) trapsize 3616
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 10498.60 15900.73
+\i (00:00:15) trapsize 1808
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 10494.99 15897.11
+\i (00:00:15) trapsize 904
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 10663.12 15913.38
+\i (00:00:16) trapsize 1808
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 9871.27 14955.20
+\i (00:00:16) trapsize 904
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 9873.08 14967.86
+\i (00:00:16) trapsize 452
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 9910.14 14995.88
+\i (00:00:17) trapsize 904
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 9964.38 15033.85
+\i (00:00:17) trapsize 1808
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 11096.13 14896.44
+\i (00:00:18) trapsize 904
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 11096.13 14896.45
+\i (00:00:18) trapsize 1808
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 11096.14 14896.44
+\i (00:00:18) trapsize 3616
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 11096.14 14541.27
+\i (00:00:19) trapsize 7232
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 11078.76 14526.80
+\i (00:00:19) trapsize 3616
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 11006.45 14873.92
+\i (00:00:19) trapsize 1808
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 10984.76 14826.91
+\i (00:00:20) trapsize 3616
+\i (00:00:23) save 
+\i (00:00:24) fillin yes 
+\t (00:00:24) > Sending response DoneOpenBoard
+\i (00:00:24) generaledit 
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in 10681.03 15072.79
+\i (00:00:50) trapsize 1808
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in 10937.76 14989.63
+\i (00:00:50) trapsize 904
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 10746.12 14828.73
+\i (00:00:51) trapsize 1808
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in 10995.61 15172.23
+\i (00:00:51) trapsize 904
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in 11028.16 15201.16
+\i (00:00:51) trapsize 452
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out 10887.14 15051.10
+\i (00:00:52) trapsize 904
+\i (00:00:55) place manual 
+\i (00:00:55) setwindow form.plc_manual
+\i (00:00:55) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:58) FORM plc_manual tree  U10 'Components by refdes' 
+\i (00:00:58) FORM plc_manual tree 'MULTISEL YES' U10 'Components by refdes' 
+\w (00:00:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:58) Placing U10 / SNAP_CONNECTOR_CONN_PXC08D_SUL_MPLABX SNAP / CONN_PXC08D_SUL on Top.
+\i (00:00:58) FORM plc_manual tree 'MULTISEL NO' U10 'Components by refdes' 
+\i (00:00:59) FORM plc_manual tree  U11 'Components by refdes' 
+\i (00:00:59) FORM plc_manual tree 'MULTISEL YES' U11 'Components by refdes' 
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:59) Placing U11 / BUTTON_HP0315AFKP4-R_NKK_BUTTON / HP0315AFKP4-R_NKK on Top.
+\i (00:01:01) setwindow pcb
+\i (00:01:01) pick grid 10843.76 14893.82
+\t (00:01:01) last pick:  10850.00 14900.00
+\i (00:01:01) prepopup 10843.76 14893.82
+\i (00:01:02) done 
+\i (00:01:02) generaledit 
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 10737.09 14763.65
+\i (00:01:03) trapsize 452
+\i (00:01:03) pick grid 10595.18 14885.69
+\t (00:01:03) last pick:  10600.00 14887.50
+\i (00:01:03) prepopup 10595.18 14885.69
+\i (00:01:04) pop dyn_option_select @:@Delete 
+\i (00:01:04) delete 
+\i (00:01:04) generaledit 
+\i (00:01:05) pick grid 10566.25 14910.10
+\t (00:01:05) last pick:  10562.50 14912.50
+\i (00:01:05) prepopup 10566.25 14910.10
+\i (00:01:05) pop dyn_option_select @:@Delete 
+\i (00:01:05) delete 
+\i (00:01:05) generaledit 
+\i (00:01:06) pick grid 10734.38 14894.73
+\t (00:01:06) last pick:  10737.50 14900.00
+\i (00:01:06) prepopup 10734.38 14894.73
+\i (00:01:07) pop dyn_option_select @:@Delete 
+\i (00:01:07) delete 
+\i (00:01:07) generaledit 
+\i (00:01:08) pick grid 10827.49 14884.78
+\t (00:01:08) last pick:  10825.00 14887.50
+\i (00:01:08) drag_start grid 10850.09 14900.15
+\i (00:01:08) move 
+\t (00:01:08) last pick:  10850.00 14875.00
+\t (00:01:08) Pick new location for the element(s).
+\i (00:01:08) drag_stop grid 10890.77 14669.65
+\i (00:01:08) generaledit 
+\i (00:01:09) pick grid 10858.22 14901.06
+\t (00:01:09) last pick:  10862.50 14900.00
+\i (00:01:09) drag_start grid 10833.82 14903.77
+\i (00:01:09) move 
+\t (00:01:09) last pick:  10850.00 14875.00
+\t (00:01:09) Pick new location for the element(s).
+\i (00:01:10) drag_stop grid 10885.34 14672.36
+\i (00:01:10) generaledit 
+\i (00:01:11) pick grid 10848.28 14899.25
+\t (00:01:11) last pick:  10850.00 14900.00
+\i (00:01:11) prepopup 10848.28 14899.25
+\i (00:01:12) pop dyn_option_select @:@Delete 
+\i (00:01:12) delete 
+\i (00:01:12) generaledit 
+\i (00:01:12) pick grid 10843.76 14926.37
+\t (00:01:12) last pick:  10850.00 14925.00
+\i (00:01:13) prepopup 10846.47 14901.06
+\i (00:01:14) pop dyn_option_select @:@Delete 
+\i (00:01:14) delete 
+\i (00:01:14) generaledit 
+\i (00:01:15) pick grid 10861.84 14713.04
+\t (00:01:15) last pick:  10862.50 14712.50
+\i (00:01:15) drag_start grid 10880.82 14685.92
+\i (00:01:15) move 
+\t (00:01:15) last pick:  10887.50 14675.00
+\t (00:01:15) Pick new location for the element(s).
+\i (00:01:17) drag_stop grid 10843.76 15065.57
+\i (00:01:17) generaledit 
+\i (00:01:17) pick grid 10912.46 14687.72
+\t (00:01:17) last pick:  10912.50 14687.50
+\i (00:01:18) drag_start grid 10898.00 14677.78
+\i (00:01:18) move 
+\t (00:01:18) last pick:  10887.50 14675.00
+\t (00:01:18) Pick new location for the element(s).
+\i (00:01:19) drag_stop grid 10846.47 15061.96
+\i (00:01:19) generaledit 
+\i (00:01:19) pick grid 10643.09 14870.32
+\t (00:01:19) last pick:  10637.50 14875.00
+\i (00:01:20) pick grid 10635.85 14880.27
+\t (00:01:20) last pick:  10637.50 14875.00
+\i (00:01:20) prepopup 10635.85 14880.27
+\i (00:01:21) pop dyn_option_select @:@Spin 
+\i (00:01:21) spin 
+\t (00:01:21) Moving U11 / BUTTON_HP0315AFKP4-R_NKK_BUTTON / HP0315AFKP4-R_NKK.
+\i (00:01:23) iangle -180.000
+\t (00:01:23) last angle:  180.000 Degrees
+\i (00:01:23) generaledit 
+\i (00:01:25) prepopup 11055.28 14870.32
+\i (00:01:25) pop dyn_option_select @:@Move 
+\i (00:01:25) move 
+\t (00:01:25) last pick:  11050.00 14875.00
+\t (00:01:25) last pick:  10850.00 14900.00
+\t (00:01:25) Moving U11 / BUTTON_HP03

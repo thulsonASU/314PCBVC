@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : autohood_teamschematic_v1.brd                 )
 (    Software Version : 17.4S024                                      )
-(    Date/Time        : Fri Feb 25 19:37:30 2022                      )
+(    Date/Time        : Sat Feb 26 17:37:32 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,16 +18,16 @@ Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'c:\users\tyler\desktop\cadence\cadence\projects\autohood_projectmaster\allegro'
-Design Directory:            'c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro'
-Old design name:             'c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/autohood_teamschematic_v1.brd'
-New design name:             'c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/autohood_teamschematic_v1.brd'
+Design Directory:            'C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro'
+Old design name:             'C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd'
+New design name:             'C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd'
 
-CmdLine: netrev -i c:\users\tyler\desktop\cadence\cadence\projects\autohood_projectmaster\allegro -y 1 -q netrev_constraint_report.xml c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/#Taaaaae33096.tmp
+CmdLine: netrev -i c:\users\tyler\desktop\cadence\cadence\projects\autohood_projectmaster\allegro -y 1 -q netrev_constraint_report.xml C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/#Taaaaav25980.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstchip.dat 
-   Finished reading c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstchip.dat (00:00:00.06)
+   Finished reading c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstchip.dat (00:00:00.01)
 Starting to read c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstxprt.dat 
    Finished reading c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstxprt.dat (00:00:00.00)
 Starting to read c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstxnet.dat 
@@ -38,31 +38,31 @@ Starting to read c:/users/tyler/desktop/cadence/cadence/projects/autohood_projec
 
 ------ Library Paths ------
 MODULEPATH =  . 
-           C:/Cadence/SPB_17.4-silent/share/local/pcb/modules 
+           c:/cadence/spb_17.4-silent/share/local/pcb/modules 
 
 PSMPATH =  C:/Users/tyler/Desktop/Cadence/Cadence/symbols 
            . 
            symbols 
            .. 
            ../symbols 
-           C:/Cadence/SPB_17.4-silent/share/local/pcb/symbols 
-           C:/Cadence/SPB_17.4-silent/share/pcb/pcb_lib/symbols 
-           C:/Cadence/SPB_17.4-silent/share/pcb/allegrolib/symbols 
+           c:/cadence/spb_17.4-silent/share/local/pcb/symbols 
+           c:/cadence/spb_17.4-silent/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.4-silent/share/pcb/allegrolib/symbols 
 
 PADPATH =  C:/Users/tyler/Desktop/Cadence/Cadence/symbols 
            . 
            symbols 
            .. 
            ../symbols 
-           C:/Cadence/SPB_17.4-silent/share/local/pcb/padstacks 
-           C:/Cadence/SPB_17.4-silent/share/pcb/pcb_lib/symbols 
-           C:/Cadence/SPB_17.4-silent/share/pcb/allegrolib/symbols 
+           c:/cadence/spb_17.4-silent/share/local/pcb/padstacks 
+           c:/cadence/spb_17.4-silent/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.4-silent/share/pcb/allegrolib/symbols 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Feb 25 19:37:30 2022
+netrev run on Feb 26 17:37:32 2022
    DESIGN NAME : 'AUTOHOOD_TEAMSCHEMATIC_V1'
    PACKAGING ON Dec  6 2021 01:15:09
 
@@ -87,6 +87,6 @@ netrev run on Feb 25 19:37:30 2022
  No oversight detected
  No warning detected
 
-cpu time      0:00:53
+cpu time      0:00:28
 elapsed time  0:00:00
 

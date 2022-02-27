@@ -1,132 +1,62 @@
 {
 	"Gate Swap" : [],
 	"Ref Des" : [],
-	"Pin Swap" : [],
+	"Pin Swap" : [
+		{
+			"Name" : "U11.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins5675@\\314_components\\.\\button.normal\\(chips):IN1",
+			"Logical" : "U11.2",
+			"Physical" : "U11.4"
+		},
+		{
+			"Name" : "U11.4",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins5675@\\314_components\\.\\button.normal\\(chips):OUT1",
+			"Logical" : "U11.4",
+			"Physical" : "U11.2"
+		}
+	],
 	"Component Property" : [],
 	"Net Property" : [],
 	"Pin Property" : [],
 	"Component" : [
 		{
-			"Name" : "C1",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins1243@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.1UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "C10",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins3895@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.1UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "C11",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins13905@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.1UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "C12",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins8931@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.1UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "C13",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins8964@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.22UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "C14",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins26586@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.1UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "C2",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins1631@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.1UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "C3",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins1961@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.1UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "C4",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins2184@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.1UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "C7",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins3483@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.1UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "C8",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins3511@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.1UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "C9",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins3833@analog.\\c.normal\\(chips)",
-			"Logical" : "C_SMC1206_0.1UF",
-			"Physical" : "C_SMC1206_1N"
-		},
-		{
-			"Name" : "R1",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins14466@analog.\\r.normal\\(chips)",
-			"Logical" : "R_RESC6431X65N_2.2K",
-			"Physical" : "R_AXRC05_1K"
-		},
-		{
-			"Name" : "R14",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins12589@analog.\\r.normal\\(chips)",
-			"Logical" : "R_RESC6431X65N_2.2K",
-			"Physical" : "R_AXRC05_1K"
-		},
-		{
-			"Name" : "R15",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins12735@analog.\\r.normal\\(chips)",
-			"Logical" : "R_RESC6431X65N_2.2K",
-			"Physical" : "R_AXRC05_1K"
-		},
-		{
-			"Name" : "R16",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins19406@analog.\\r.normal\\(chips)",
-			"Logical" : "R_RESC6431X65N_2.2K",
-			"Physical" : "R_AXRC05_1K"
-		},
-		{
-			"Name" : "R2",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins14324@analog.\\r.normal\\(chips)",
-			"Logical" : "R_RESC6431X65N_2.2K",
-			"Physical" : "R_AXRC05_1K"
-		},
-		{
-			"Name" : "R3",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins1492@analog.\\r.normal\\(chips)",
-			"Logical" : "R_RESC6431X65N_2.2K",
-			"Physical" : "R_AXRC05_1K"
+			"Name" : "R8",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins6133@analog.\\r.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R8"
 		},
 		{
 			"Name" : "R8",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins6133@analog.\\r.normal\\(chips)",
-			"Logical" : "R_RES_RN73R2E_KOA-M_10K",
-			"Physical" : "R_AXRC05_10K"
-		},
-		{
-			"Name" : "U12",
-			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins8241@\\314_components\\.\\ncs21911.normal\\(chips)",
-			"Logical" : "NCS21911_NCS21912DR2G_NCS21911",
-			"Physical" : "NCS21911_EEEVVVIIILLL_NCS21911"
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins34157@analog.\\r.normal\\(chips)",
+			"Logical" : "R8",
+			"Physical" : null
 		}
 	],
 	"Net" : [],
-	"Connection" : []
+	"Connection" : [
+		{
+			"Name" : "R8.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins34157@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "R8.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins34157@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U11.4",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins5675@\\314_components\\.\\button.normal\\(chips):OUT1",
+			"Logical" : "BTN_IN",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U11.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins5675@\\314_components\\.\\button.normal\\(chips):IN1",
+			"Logical" : "3V3",
+			"Physical" : "BTN_IN"
+		}
+	]
 }

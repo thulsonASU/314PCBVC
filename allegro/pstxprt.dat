@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Feb-25-2022 at 19:37:29 }
+{ Using PSTWRITER 17.4.0 d001Feb-26-2022 at 17:37:32 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='AUTOHOOD_TEAMSCHEMATIC_V1';
@@ -74,6 +74,16 @@ SECTION_NUMBER 1
  '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS26586@ANALOG.C.NORMAL(CHIPS)':
  C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins26586@analog.\c.normal\(chips)',
  P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins26586@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_SMC1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS32030@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins32030@analog.\c.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins32030@analog.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -328,7 +338,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R11 'R_AXRC05_100':;
+ R11 'R_RES_RK73G2A_KOA_100':;
 
 SECTION_NUMBER 1
  '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS8287@ANALOG.R.NORMAL(CHIPS)':
@@ -338,7 +348,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R12 'R_AXRC05_100':;
+ R12 'R_RES_RK73G2A_KOA_100':;
 
 SECTION_NUMBER 1
  '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS8336@ANALOG.R.NORMAL(CHIPS)':
@@ -461,9 +471,9 @@ PART_NAME
  R8 'R_RES_RN73R2E_KOA-M_10K':;
 
 SECTION_NUMBER 1
- '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS6133@ANALOG.R.NORMAL(CHIPS)':
- C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins6133@analog.\r.normal\(chips)',
- P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins6133@analog.\r.normal\(chips)',
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS34157@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins34157@analog.\r.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins34157@analog.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

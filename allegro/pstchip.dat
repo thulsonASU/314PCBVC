@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Feb-25-2022 at 19:37:29}
+{ Using PSTWRITER 17.4.0 d001Feb-26-2022 at 17:37:32}
 primitive 'ASR00050_JUMPER2_ASR00050';
   pin
     'VC':
@@ -171,21 +171,6 @@ primitive 'R_RES_RK73G2A_KOA_100';
   body
     PART_NAME='R';
     JEDEC_TYPE='RES_RK73G2A_KOA';
-    VALUE='100';
-  end_body;
-end_primitive;
-primitive 'R_AXRC05_100';
-  pin
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='AXRC05';
     VALUE='100';
   end_body;
 end_primitive;
