@@ -1,6 +1,6 @@
 (ExpressProject "AutoHood_TeamSchematic_v1"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S024 (3998392)  [12/6/2021]-[02/25/22]")
+  (SoftwareVersion "17.4-2019 S024 (3998392)  [12/6/2021]-[02/26/22]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -84,6 +84,11 @@
       (Type "Board File")
       (OutputBoard ".\allegro\backup.brd")
       (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\autohood_teamschematic_v1.2.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\autohood_teamschematic_v1.2.brd")
+      (NetListPath ".\allegro")
       (ActiveBoard "0")))
   (Folder "Outputs"
     (File ".\autohood_teamschematic_v1.drc"
@@ -141,18 +146,21 @@
          "c:\users\tyler\desktop\cadence\cadence\projects\314_actuator\314_components-master.olb")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs"))
+      (Path "Logs")
+      (Select "Design Resources" "Library"
+         "c:\users\tyler\desktop\cadence\cadence\projects\314_actuator\314_components-master.olb"
+         "ESP32 DEVKIT V1 - DOIT"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 540"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 563"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1290 24 581")
-        (Scroll "-213 400")
+        (Scroll "-213 0")
         (Zoom "78")
         (Occurrence "/"))
       (Path
