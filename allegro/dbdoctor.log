@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : autohood_teamschematic_v1.brd                 )
+(    Software Version : 17.4S024                                      )
+(    Date/Time        : Sun Feb 27 17:43:24 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING Deleted redundant via at (10075.00 14100.00) on net 3V3.
+WARNING Deleted redundant via at (9425.00 13950.00) on net 3V3.
+WARNING Deleted redundant via at (10025.00 13725.00) on net 3V3.
+WARNING Deleted redundant via at (10025.00 13725.00) on net 3V3.
+WARNING Deleted redundant via at (9875.00 15125.00) on net 3V3.
+WARNING Deleted redundant via at (9300.00 15550.00) on net 3V3.
+WARNING Deleted redundant via at (9550.00 15375.00) on net 3V3.
+WARNING Deleted redundant via at (9975.00 15300.00) on net HU_INTERR.
+
+8 warnings, 0 errors detected, 0 errors could be fixed.

@@ -3,12 +3,18 @@
 (    PDF Export                                                       )
 (                                                                     )
 (    Software Version : 17.4S024                                      )
-(    Date/Time        : Sun Feb 27 12:27:30 2022                      )
+(    Date/Time        : Sun Feb 27 17:44:52 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-Output file: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1.pdf
+Output file: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1_SolderMaskTop.pdf
+
+Output file: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1_SolderMaskBottom.pdf
+
+Output file: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1_BOTTOM.pdf
+
+Output file: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1_TOP.pdf
 Design file: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd
 pdf_out complete.

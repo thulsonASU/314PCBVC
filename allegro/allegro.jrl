@@ -1,0 +1,440 @@
+\t (00:32:11) allegro 17.4 S024 Windows SPB 64-bit Edition
+\t (00:32:11)     Journal start - Sun Feb 27 17:39:15 2022
+\t (00:32:11)         Host=LAPTOP-D455H4TO User=tyler Pid=18572 CPUs=12
+\t (00:32:11) CmdLine= C:\Cadence\SPB_17.4-silent\tools\bin\allegro.exe
+\t (00:32:11) 
+\d (00:32:11) Design opened: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd
+\i (00:32:11) generaledit 
+\i (00:32:12) artwork 
+\i (00:32:13) setwindow form.film_control
+\i (00:32:13) FORM film_control filmtree  SolderMaskBottom 
+\i (00:32:16) FORM film_control undefined_line_width 0.01 
+\i (00:32:17) FORM film_control filmtree  SolderMaskTop 
+\i (00:32:21) FORM film_control undefined_line_width 0.01 
+\i (00:32:22) FORM film_control filmtree  SilkScreenBottom 
+\i (00:32:25) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_BOTTOM' SilkScreenBottom 
+\i (00:32:26) FORM film_control filmtree popup Add 'BOARD GEOMETRY/SILKSCREEN_BOTTOM' SilkScreenBottom 
+\i (00:32:26) setwindow form.scl_browser
+\i (00:32:26) FORM scl_browser treelist  ANALYSIS 
+\i (00:32:32) FORM scl_browser treelist  MANUFACTURING 
+\i (00:32:35) FORM scl_browser treelist  AUTOSILK_BOTTOM MANUFACTURING 
+\i (00:32:35) FORM scl_browser treelist 'MULTISEL YES' AUTOSILK_BOTTOM MANUFACTURING 
+\i (00:32:36) FORM scl_browser done  
+\i (00:32:37) setwindow form.film_control
+\i (00:32:37) FORM film_control filmtree  MANUFACTURING/AUTOSILK_BOTTOM SilkScreenBottom 
+\i (00:32:37) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_BOTTOM' SilkScreenBottom 
+\i (00:32:40) FORM film_control filmtree  MANUFACTURING/AUTOSILK_BOTTOM SilkScreenBottom 
+\i (00:32:40) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_BOTTOM' SilkScreenBottom 
+\i (00:32:41) FORM film_control filmtree popup Cut 'BOARD GEOMETRY/SILKSCREEN_BOTTOM' SilkScreenBottom 
+\i (00:32:41) FORM film_control filmtree  SilkScreenBottom 
+\i (00:32:42) FORM film_control filmtree  SilkScreenTop 
+\i (00:32:42) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_TOP' SilkScreenTop 
+\i (00:32:44) FORM film_control filmtree popup Add 'BOARD GEOMETRY/SILKSCREEN_TOP' SilkScreenTop 
+\i (00:32:44) setwindow form.scl_browser
+\i (00:32:44) FORM scl_browser treelist  ANALYSIS 
+\i (00:32:48) FORM scl_browser treelist  'BOARD GEOMETRY' 
+\i (00:33:04) FORM scl_browser treelist  MANUFACTURING 
+\i (00:33:06) FORM scl_browser treelist  AUTOSILK_TOP MANUFACTURING 
+\i (00:33:06) FORM scl_browser treelist 'MULTISEL YES' AUTOSILK_TOP MANUFACTURING 
+\i (00:33:07) FORM scl_browser done  
+\i (00:33:08) setwindow form.film_control
+\i (00:33:08) FORM film_control filmtree  MANUFACTURING/AUTOSILK_TOP SilkScreenTop 
+\i (00:33:08) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_TOP' SilkScreenTop 
+\i (00:33:09) FORM film_control filmtree popup Cut 'BOARD GEOMETRY/SILKSCREEN_TOP' SilkScreenTop 
+\i (00:33:10) FORM film_control filmtree  SilkScreenTop 
+\i (00:33:16) FORM film_control filmtree  SolderMaskBottom 
+\i (00:33:16) FORM film_control filmtree  TOP 
+\i (00:33:17) FORM film_control filmtree  SolderMaskTop 
+\i (00:33:17) FORM film_control filmtree  SolderMaskBottom 
+\i (00:33:18) FORM film_control ok  
+\i (00:33:18) setwindow pcb
+\i (00:33:18) generaledit 
+\i (00:33:21) nctape_full 
+\i (00:33:22) setwindow form.nc_drill
+\i (00:33:22) FORM nc_drill execute  
+\t (00:33:22) Starting Generating NC Drill...
+\i (00:33:25) FORM nc_drill cancel  
+\i (00:33:25) setwindow pcb
+\i (00:33:25) generaledit 
+\i (00:33:29) silkscreen param 
+\i (00:33:31) setwindow form.autosilk
+\i (00:33:31) FORM autosilk both_layers YES 
+\i (00:33:41) FORM autosilk done  
+\i (00:33:41) setwindow pcb
+\i (00:33:41) silkscreen execute 
+\i (00:33:41) generaledit 
+\i (00:33:47) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkScreenBottom"
+\i (00:33:47) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkScreenBottom"
+\i (00:33:48) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkScreenTop"
+\i (00:33:48) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkScreenTop"
+\i (00:33:49) zoom in 1 
+\i (00:33:49) setwindow pcb
+\i (00:33:49) zoom in 10657.49 14144.02
+\i (00:33:49) trapsize 2824
+\i (00:33:49) zoom in 1 
+\i (00:33:49) setwindow pcb
+\i (00:33:49) zoom in 10657.49 14144.03
+\i (00:33:49) trapsize 1412
+\i (00:33:50) zoom out 1 
+\i (00:33:50) setwindow pcb
+\i (00:33:50) zoom out 10665.96 13937.91
+\i (00:33:50) trapsize 2824
+\i (00:33:50) zoom out 1 
+\i (00:33:50) setwindow pcb
+\i (00:33:50) zoom out 10665.96 13937.91
+\i (00:33:50) trapsize 5647
+\i (00:33:51) zoom in 1 
+\i (00:33:51) setwindow pcb
+\i (00:33:51) zoom in 10665.96 13408.46
+\i (00:33:51) trapsize 2824
+\i (00:33:54) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderMaskBottom"
+\i (00:33:54) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderMaskBottom"
+\i (00:33:56) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderMaskTop"
+\i (00:33:56) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderMaskTop"
+\i (00:33:56) zoom out 1 
+\i (00:33:56) setwindow pcb
+\i (00:33:56) zoom out 11563.85 12736.46
+\i (00:33:56) trapsize 5647
+\i (00:33:58) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderMaskBottom"
+\i (00:33:58) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderMaskBottom"
+\i (00:33:59) zoom in 1 
+\i (00:33:59) setwindow pcb
+\i (00:33:59) zoom in 10965.25 14323.29
+\i (00:33:59) trapsize 2824
+\i (00:34:00) zoom out 1 
+\i (00:34:00) setwindow pcb
+\i (00:34:00) zoom out 10959.61 14295.06
+\i (00:34:00) trapsize 5647
+\i (00:34:01) zoom in 1 
+\i (00:34:01) setwindow pcb
+\i (00:34:01) zoom in 10959.60 14266.81
+\i (00:34:01) trapsize 2824
+\i (00:34:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderMaskTop"
+\i (00:34:08) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderMaskTop"
+\i (00:34:10) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderMaskBottom"
+\i (00:34:10) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderMaskBottom"
+\i (00:34:13) zoom in 1 
+\i (00:34:13) setwindow pcb
+\i (00:34:13) zoom in 10056.07 13159.99
+\i (00:34:13) trapsize 1412
+\i (00:34:14) zoom in 1 
+\i (00:34:14) setwindow pcb
+\i (00:34:14) zoom in 10056.08 13160.00
+\i (00:34:14) trapsize 706
+\i (00:34:22) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderMaskTop"
+\i (00:34:22) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderMaskTop"
+\i (00:34:22) zoom out 1 
+\i (00:34:22) setwindow pcb
+\i (00:34:22) zoom out 10217.02 13361.88
+\i (00:34:22) trapsize 1412
+\i (00:34:23) zoom out 1 
+\i (00:34:23) setwindow pcb
+\i (00:34:23) zoom out 10217.03 13364.70
+\i (00:34:23) trapsize 2824
+\i (00:34:23) zoom in 1 
+\i (00:34:23) setwindow pcb
+\i (00:34:23) zoom in 10217.03 13364.71
+\i (00:34:23) trapsize 1412
+\i (00:34:25) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderMaskBottom"
+\i (00:34:25) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderMaskBottom"
+\i (00:34:26) zoom in 1 
+\i (00:34:26) setwindow pcb
+\i (00:34:26) zoom in 9920.56 13093.66
+\i (00:34:26) trapsize 706
+\i (00:34:26) zoom in 1 
+\i (00:34:26) setwindow pcb
+\i (00:34:26) zoom in 9920.56 13093.66
+\i (00:34:26) trapsize 353
+\i (00:34:29) zoom out 1 
+\i (00:34:29) setwindow pcb
+\i (00:34:29) zoom out 9902.92 13109.20
+\i (00:34:29) trapsize 706
+\i (00:34:29) zoom out 1 
+\i (00:34:29) setwindow pcb
+\i (00:34:29) zoom out 9921.27 13121.90
+\i (00:34:29) trapsize 1412
+\i (00:34:29) zoom out 1 
+\i (00:34:29) setwindow pcb
+\i (00:34:29) zoom out 9921.27 13121.89
+\i (00:34:29) trapsize 2824
+\i (00:34:32) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderMaskTop"
+\i (00:34:32) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderMaskTop"
+\i (00:34:33) zoom out 1 
+\i (00:34:33) setwindow pcb
+\i (00:34:33) zoom out 11146.68 12331.31
+\i (00:34:33) trapsize 5647
+\i (00:34:35) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderMaskBottom"
+\i (00:34:35) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderMaskBottom"
+\i (00:34:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderMaskTop"
+\i (00:34:37) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderMaskTop"
+\i (00:34:38) zoom in 1 
+\i (00:34:38) setwindow pcb
+\i (00:34:38) zoom in 10706.20 15960.94
+\i (00:34:38) trapsize 2824
+\i (00:34:39) zoom out 1 
+\i (00:34:39) setwindow pcb
+\i (00:34:39) zoom out 10565.02 15661.64
+\i (00:34:39) trapsize 5647
+\i (00:34:40) zoom in 1 
+\i (00:34:40) setwindow pcb
+\i (00:34:40) zoom in 10949.03 13792.46
+\i (00:34:40) trapsize 2824
+\i (00:34:42) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderMaskBottom"
+\i (00:34:42) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderMaskBottom"
+\i (00:34:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:34:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:35:17) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:35:19) zoom in 1 
+\i (00:35:19) setwindow pcb
+\i (00:35:19) zoom in 10282.68 14910.58
+\i (00:35:19) trapsize 1412
+\i (00:35:19) zoom in 1 
+\i (00:35:19) setwindow pcb
+\i (00:35:19) zoom in 10827.62 14947.29
+\i (00:35:19) trapsize 706
+\i (00:35:19) zoom in 1 
+\i (00:35:19) setwindow pcb
+\i (00:35:19) zoom in 10802.21 14910.59
+\i (00:35:19) trapsize 353
+\i (00:35:21) zoom in 1 
+\i (00:35:21) setwindow pcb
+\i (00:35:21) zoom in 10833.97 14926.82
+\i (00:35:21) trapsize 176
+\i (00:35:24) zoom out 1 
+\i (00:35:24) setwindow pcb
+\i (00:35:24) zoom out 10847.39 14899.30
+\i (00:35:24) trapsize 353
+\i (00:35:25) zoom out 1 
+\i (00:35:25) setwindow pcb
+\i (00:35:25) zoom out 10847.39 14899.29
+\i (00:35:25) trapsize 706
+\i (00:35:25) zoom in 1 
+\i (00:35:25) setwindow pcb
+\i (00:35:25) zoom in 10847.39 14899.30
+\i (00:35:25) trapsize 353
+\i (00:35:26) zoom in 1 
+\i (00:35:26) setwindow pcb
+\i (00:35:26) zoom in 10847.39 14899.30
+\i (00:35:26) trapsize 176
+\i (00:35:29) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:35:30) pick grid 10800.80 14876.37
+\t (00:35:30) last pick:  10800.00 14875.00
+\i (00:35:31) pick grid 10731.98 14899.31
+\t (00:35:31) last pick:  10725.00 14900.00
+\i (00:35:33) pick grid 10805.74 14852.01
+\t (00:35:33) last pick:  10800.00 14850.00
+\i (00:35:34) pick grid 10770.45 14898.95
+\t (00:35:34) last pick:  10775.00 14900.00
+\i (00:35:34) pick grid 10826.57 14877.78
+\t (00:35:34) last pick:  10825.00 14875.00
+\i (00:35:35) pick grid 10767.27 14925.43
+\t (00:35:35) last pick:  10775.00 14925.00
+\i (00:35:35) zoom out 1 
+\i (00:35:35) setwindow pcb
+\i (00:35:35) zoom out 10767.27 14925.43
+\i (00:35:35) trapsize 353
+\i (00:35:36) zoom out 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom out 10761.63 14921.19
+\i (00:35:36) trapsize 706
+\i (00:35:36) pick grid 10716.44 14816.71
+\t (00:35:36) last pick:  10725.00 14825.00
+\i (00:35:36) zoom out 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom out 10801.15 14802.59
+\i (00:35:36) trapsize 1412
+\i (00:35:38) zoom out 1 
+\i (00:35:38) setwindow pcb
+\i (00:35:38) zoom out 10922.56 14963.53
+\i (00:35:38) trapsize 2824
+\i (00:35:38) zoom out 1 
+\i (00:35:38) setwindow pcb
+\i (00:35:38) zoom out 10922.57 14963.54
+\i (00:35:38) trapsize 5647
+\i (00:35:39) zoom in 1 
+\i (00:35:39) setwindow pcb
+\i (00:35:39) zoom in 8528.20 13258.12
+\i (00:35:39) trapsize 2824
+\i (00:35:39) pick grid 8590.32 13438.83
+\t (00:35:39) last pick:  8600.00 13450.00
+\i (00:35:39) prepopup 8590.32 13444.47
+\i (00:35:40) pop dyn_option_select @:@Move 
+\i (00:35:40) move 
+\t (00:35:40) last pick:  8600.00 13450.00
+\t (00:35:40) last pick:  8600.00 13450.00
+\t (00:35:40) Element has no origin, using pick.
+\t (00:35:40) Pick new location for the element(s).
+\i (00:35:40) zoom out 1 
+\i (00:35:40) setwindow pcb
+\i (00:35:40) zoom out 8590.32 13444.47
+\i (00:35:40) trapsize 5647
+\i (00:35:40) zoom out 1 
+\i (00:35:40) setwindow pcb
+\i (00:35:40) zoom out 8590.33 13444.48
+\i (00:35:40) trapsize 11294
+\i (00:35:41) pick grid 12875.33 13431.05
+\t (00:35:41) last pick:  12875.00 13425.00
+\i (00:35:41) generaledit 
+\i (00:35:41) zoom in 1 
+\i (00:35:41) setwindow pcb
+\i (00:35:41) zoom in 10413.21 14786.35
+\i (00:35:41) trapsize 5647
+\i (00:35:42) zoom in 1 
+\i (00:35:42) setwindow pcb
+\i (00:35:42) zoom in 10593.92 14797.65
+\i (00:35:42) trapsize 2824
+\i (00:35:42) zoom in 1 
+\i (00:35:42) setwindow pcb
+\i (00:35:42) zoom in 10729.45 14775.06
+\i (00:35:42) trapsize 1412
+\i (00:35:42) zoom in 1 
+\i (00:35:42) setwindow pcb
+\i (00:35:42) zoom in 10879.10 14936.01
+\i (00:35:42) trapsize 706
+\i (00:35:43) zoom in 1 
+\i (00:35:43) setwindow pcb
+\i (00:35:43) zoom in 10804.28 14937.43
+\i (00:35:43) trapsize 353
+\i (00:35:44) zoom in 1 
+\i (00:35:44) setwindow pcb
+\i (00:35:44) zoom in 10789.45 14940.25
+\i (00:35:44) trapsize 176
+\i (00:35:45) zoom out 1 
+\i (00:35:45) setwindow pcb
+\i (00:35:45) zoom out 10850.51 14917.67
+\i (00:35:45) trapsize 353
+\i (00:35:46) zoom out 1 
+\i (00:35:46) setwindow pcb
+\i (00:35:46) zoom out 10852.63 14928.25
+\i (00:35:46) trapsize 706
+\i (00:35:46) zoom out 1 
+\i (00:35:46) setwindow pcb
+\i (00:35:46) zoom out 10852.63 14928.26
+\i (00:35:46) trapsize 1412
+\i (00:35:47) zoom out 1 
+\i (00:35:47) setwindow pcb
+\i (00:35:47) zoom out 10892.16 14911.31
+\i (00:35:47) trapsize 2824
+\i (00:35:48) pick grid 12879.93 13623.78
+\t (00:35:48) last pick:  12875.00 13625.00
+\i (00:35:48) prepopup 12879.93 13623.78
+\i (00:35:49) pop dyn_option_select @:@Move 
+\i (00:35:49) move 
+\t (00:35:49) last pick:  12875.00 13625.00
+\t (00:35:49) last pick:  12875.00 13625.00
+\t (00:35:49) Element has no origin, using pick.
+\t (00:35:49) Pick new location for the element(s).
+\i (00:35:52) zoom out 1 
+\i (00:35:52) setwindow pcb
+\i (00:35:52) zoom out 8622.04 13894.84
+\i (00:35:52) trapsize 5647
+\i (00:35:53) zoom in 1 
+\i (00:35:53) setwindow pcb
+\i (00:35:53) zoom in 8362.27 13928.72
+\i (00:35:53) trapsize 2824
+\i (00:35:53) zoom out 1 
+\i (00:35:53) setwindow pcb
+\i (00:35:53) zoom out 8514.74 13894.84
+\i (00:35:53) trapsize 5647
+\i (00:35:54) zoom in 1 
+\i (00:35:54) setwindow pcb
+\i (00:35:54) zoom in 8605.10 13668.22
+\i (00:35:54) trapsize 2824
+\i (00:35:57) zoom out 1 
+\i (00:35:57) setwindow pcb
+\i (00:35:57) zoom out 8588.16 13685.16
+\i (00:35:57) trapsize 5647
+\i (00:36:00) pick grid 8599.45 13651.28
+\t (00:36:00) last pick:  8600.00 13650.00
+\i (00:36:00) generaledit 
+\i (00:36:01) pick grid 7820.16 13165.64
+\t (00:36:01) last pick:  7825.00 13175.00
+\i (00:36:02) save 
+\i (00:36:04) fillin yes 
+\t (00:36:04) > Sending response DoneOpenBoard
+\i (00:36:04) generaledit 
+\i (00:36:06) zoom in 1 
+\i (00:36:06) setwindow pcb
+\i (00:36:06) zoom in 10779.22 15367.99
+\i (00:36:06) trapsize 2824
+\i (00:36:06) zoom in 1 
+\i (00:36:06) setwindow pcb
+\i (00:36:06) zoom in 10779.22 15373.64
+\i (00:36:06) trapsize 1412
+\i (00:36:07) zoom in 1 
+\i (00:36:07) setwindow pcb
+\i (00:36:07) zoom in 10835.70 15071.52
+\i (00:36:07) trapsize 706
+\i (00:36:08) pick grid 10896.40 15156.23
+\t (00:36:08) last pick:  10900.00 15150.00
+\i (00:36:08) pick grid 10934.52 14981.17
+\t (00:36:08) last pick:  10925.00 14975.00
+\i (00:36:10) zoom out 1 
+\i (00:36:10) setwindow pcb
+\i (00:36:10) zoom out 10920.40 15070.11
+\i (00:36:10) trapsize 1412
+\i (00:36:10) zoom out 1 
+\i (00:36:10) setwindow pcb
+\i (00:36:10) zoom out 10920.41 15070.11
+\i (00:36:10) trapsize 2824
+\i (00:36:12) zoom out 1 
+\i (00:36:12) setwindow pcb
+\i (00:36:12) zoom out 11219.70 16239.05
+\i (00:36:12) trapsize 5647
+\i (00:36:18) artwork 
+\i (00:36:20) setwindow form.film_control
+\i (00:36:20) FORM film_control select_all  
+\i (00:36:20) FORM film_control create  
+\t (00:36:20) Checking db records
+\t (00:36:20)     checking for orphans...
+\t (00:36:20)     Checked  85 percent
+\t (00:36:20)     Checked 100 percent
+\t (00:36:21) Done dbdoctor.
+\t (00:36:21) Starting Create artwork films...
+\w (00:36:21) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:36:22) Artwork generated with warnings.
+\i (00:36:22) setwindow text
+\i (00:36:22) close
+\i (00:36:23) setwindow form.film_control
+\i (00:36:23) FORM film_control cancel  
+\i (00:36:23) setwindow pcb
+\i (00:36:23) generaledit 
+\i (00:36:27) pdf out 
+\i (00:36:28) setwindow form.pdf_out
+\i (00:36:28) FORM pdf_out selectall  
+\i (00:36:30) FORM pdf_out artwork  
+\i (00:36:33) setwindow form.film_control
+\i (00:36:33) FORM film_control cancel  
+\i (00:36:33) setwindow form.pdf_out
+\i (00:36:33) FORM pdf_out pdftree  BOTTOM 
+\i (00:36:39) FORM pdf_out black_white YES 
+\i (00:36:48) FORM pdf_out export  
+\t (00:36:48) Starting Exporting PDF File...
+\t (00:36:50) PDF output completed.
+\i (00:36:52) setwindow text
+\i (00:36:52) close
+\i (00:37:21) setwindow form.pdf_out
+\i (00:37:21) FORM pdf_out pdftree  SilkScreenTop 
+\i (00:37:21) FORM pdf_out pdftree 'MULTISEL NO' SilkScreenTop 
+\i (00:37:21) FORM pdf_out pdftree  SilkScreenBottom 
+\i (00:37:21) FORM pdf_out pdftree 'MULTISEL NO' SilkScreenBottom 
+\i (00:37:22) FORM pdf_out pdftree  OUTLINE 
+\i (00:37:22) FORM pdf_out pdftree 'MULTISEL NO' OUTLINE 
+\i (00:37:24) FORM pdf_out export  
+\t (00:37:24) Starting Exporting PDF File...
+\t (00:37:25) PDF output completed.
+\i (00:37:47) FORM pdf_out doc_separated YES 
+\i (00:37:48) FORM pdf_out export  
+\t (00:37:48) Starting Exporting PDF File...
+\t (00:37:50) PDF output completed.
+\w (00:42:11) Save pending
+\i (00:52:55) FORM pdf_out cancel  
+\i (00:52:55) setwindow pcb
+\i (00:52:55) generaledit 
+\t (00:52:55) Performing autosave...
+\t (00:52:55) Autosave successful
+\i (00:52:57) exit 
+\e (00:52:57) Do you want to save the changes you made to C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd?
+\i (00:52:58) fillin yes 
+   (00:52:58) Loading signal.cxt 
+\t (00:52:58)     Journal end - Sun Feb 27 18:00:02 2022
