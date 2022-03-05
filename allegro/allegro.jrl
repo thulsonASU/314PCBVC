@@ -1,0 +1,49 @@
+\t (00:00:04) allegro 17.4 S024 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Fri Mar  4 16:59:13 2022
+\t (00:00:04)         Host=LAPTOP-D455H4TO User=tyler Pid=22368 CPUs=12
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.4-silent\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "autohood_teamschematic_v2FUCKUFUCKERT"
+\d (00:00:07) Design opened: C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v2FUCKUFUCKERT.brd
+\i (00:00:08) trapsize 450
+\i (00:00:08) trapsize 463
+\i (00:00:08) trapsize 466
+\i (00:00:08) trapsize 450
+\i (00:00:08) trapsize 467
+\t (00:00:08) > Sending response DoneOpenBoard
+\t (00:00:08) Loaded GPU Plugin from: plugins/gpu
+\i (00:00:08) trapsize 480
+\i (00:00:08) trapsize 484
+\i (00:00:08) trapsize 467
+\i (00:00:08) generaledit 
+\i (00:01:08) nctape_full 
+\i (00:01:10) setwindow form.nc_drill
+\i (00:01:10) FORM nc_drill parameters  
+\i (00:01:11) setwindow form.nc_parameters
+\i (00:01:11) FORM nc_parameters done  
+\i (00:01:12) setwindow form.nc_drill
+\i (00:01:12) FORM nc_drill execute  
+\t (00:01:12) Starting Generating NC Drill...
+\i (00:01:14) FORM nc_drill cancel  
+\i (00:01:14) setwindow pcb
+\i (00:01:14) generaledit 
+\i (00:01:15) artwork 
+\i (00:01:16) setwindow form.film_control
+\i (00:01:16) FORM film_control select_all  
+\i (00:01:17) FORM film_control database_check NO 
+\i (00:01:18) FORM film_control create  
+\t (00:01:18) Starting Create artwork films...
+\w (00:01:18) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:01:19) Artwork generated with warnings.
+\i (00:01:19) setwindow text
+\i (00:01:19) close
+\i (00:01:20) setwindow form.film_control
+\i (00:01:20) FORM film_control cancel  
+\i (00:01:20) setwindow pcb
+\i (00:01:20) generaledit 
+\i (00:01:21) exit 
+\e (00:01:21) Do you want to save the changes you made to autohood_teamschematic_v2FUCKUFUCKERT.brd?
+\i (00:01:22) fillin yes 
+\t (00:01:23)     Journal end - Fri Mar  4 17:00:32 2022

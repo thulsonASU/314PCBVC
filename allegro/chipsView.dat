@@ -1,4 +1,236 @@
 FILE_TYPE=LIBRARY_PARTS;
+primitive 'C_SMC1206_1 UF';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='C';
+	 VALUE='1 uF';
+	 BODY_NAME='C_SMC1206_1 UF';
+	 JEDEC_TYPE='SMC1206';
+	 PHYS_DES_PREFIX='C';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'LED_JUMPER2_LED';
+  pin
+	 'CATHODE':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'ANODE':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='LED';
+	 VALUE='LED';
+	 BODY_NAME='LED_JUMPER2_LED';
+	 JEDEC_TYPE='JUMPER2';
+	 PHYS_DES_PREFIX='D';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'DIODE_JUMPER2_DIODE';
+  pin
+	 'K':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'A':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='DIODE';
+	 VALUE='DIODE';
+	 BODY_NAME='DIODE_JUMPER2_DIODE';
+	 JEDEC_TYPE='JUMPER2';
+	 PHYS_DES_PREFIX='D';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'R_SMC1206_10K OHM';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='R';
+	 VALUE='10k Ohm';
+	 BODY_NAME='R_SMC1206_10K OHM';
+	 JEDEC_TYPE='SMC1206';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'R_SMC1206_220 OHM';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='R';
+	 VALUE='220 Ohm';
+	 BODY_NAME='R_SMC1206_220 OHM';
+	 JEDEC_TYPE='SMC1206';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'R_SMC0805_100 OHM';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='R';
+	 VALUE='100 Ohm';
+	 BODY_NAME='R_SMC0805_100 OHM';
+	 JEDEC_TYPE='SMC0805';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'R_SMC1206_4.7K OHM';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='R';
+	 VALUE='4.7k Ohm';
+	 BODY_NAME='R_SMC1206_4.7K OHM';
+	 JEDEC_TYPE='SMC1206';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'R_RES_RN73R2E_KOA-M_10K OHM';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='R';
+	 VALUE='10k Ohm';
+	 BODY_NAME='R_RES_RN73R2E_KOA-M_10K OHM';
+	 JEDEC_TYPE='RES_RN73R2E_KOA-M';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
 primitive 'C_SMC1206_0.1UF';
   pin
 	 '2':
@@ -53,64 +285,6 @@ primitive 'C_SMC1206_0.22UF';
 	 BODY_NAME='C_SMC1206_0.22UF';
 	 JEDEC_TYPE='SMC1206';
 	 PHYS_DES_PREFIX='C';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'R_RESC6431X65N_2.2K';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='R';
-	 VALUE='2.2K';
-	 BODY_NAME='R_RESC6431X65N_2.2K';
-	 JEDEC_TYPE='RESC6431X65N';
-	 PHYS_DES_PREFIX='R';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'R_RES_RN73R2E_KOA-M_10K';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='R';
-	 VALUE='10k';
-	 BODY_NAME='R_RES_RN73R2E_KOA-M_10K';
-	 JEDEC_TYPE='RES_RN73R2E_KOA-M';
-	 PHYS_DES_PREFIX='R';
 	 CLASS='IC';
   end_body;
 end_primitive;
@@ -192,35 +366,6 @@ primitive 'NCS21911_NCS21912DR2G_NCS21911';
   end_body;
 end_primitive;
 
-primitive 'R_RES_RK73G2A_KOA_100';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='R';
-	 VALUE='100';
-	 BODY_NAME='R_RES_RK73G2A_KOA_100';
-	 JEDEC_TYPE='RES_RK73G2A_KOA';
-	 PHYS_DES_PREFIX='R';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'ASR00050_JUMPER2_ASR00050';
   pin
 	 'VC':
@@ -246,35 +391,6 @@ primitive 'ASR00050_JUMPER2_ASR00050';
 	 BODY_NAME='ASR00050_JUMPER2_ASR00050';
 	 JEDEC_TYPE='JUMPER2';
 	 PHYS_DES_PREFIX='B';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'LED_LED_SML-210_ROM_LED';
-  pin
-	 'CATHODE':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'ANODE':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='LED';
-	 VALUE='LED';
-	 BODY_NAME='LED_LED_SML-210_ROM_LED';
-	 JEDEC_TYPE='LED_SML-210_ROM';
-	 PHYS_DES_PREFIX='D';
 	 CLASS='IC';
   end_body;
 end_primitive;

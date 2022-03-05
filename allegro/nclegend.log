@@ -1,0 +1,16 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : autohood_teamschematic_v1.brd                 )
+(    Software Version : 17.4S024                                      )
+(    Date/Time        : Fri Mar  4 15:06:01 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file 'c:/cadence/spb_17.4-silent/share/pcb/text/nclegend/default-mil.dlt' ...
+WARNING(SPMHSK-47): Column type 'HoleSize' does not exist.
+WARNING(SPMHSK-47): Column type 'PlateStatus' does not exist.
+End of drill legend template file processing.
+Drill Legend command cancelled.

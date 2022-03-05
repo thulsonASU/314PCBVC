@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : autohood_teamschematic_v1.brd                 )
+(    Software Version : 17.4S024                                      )
+(    Date/Time        : Fri Mar  4 15:10:43 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for both sides of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.00
+Max Text displacement is 100.00
+Min Line Length is 0.00
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+
+     ----- Top Silkscreen -----
+
+Text string 'MPLABX SNAP' is not at a suitable location
+(location: 10287.50, 14375.00)
+Text string 'U14' is not at a suitable location
+(location: 9325.00, 14950.00)
+Text string 'PN' is not at a suitable location
+(location: 9325.00, 14950.00)
+Text string 'L298P' is not at a suitable location
+(location: 9325.00, 14950.00)
+Text string 'TOL' is not at a suitable location
+(location: 9325.00, 14950.00)
+Text string 'TOL' is not at a suitable location
+(location: 8925.00, 12675.00)
+Text string 'C13' is not at a suitable location
+(location: 9852.00, 13842.00)
+
+     ----- Bottom Silkscreen -----
+
+
+Total Failures: 7
+
+Log End
+

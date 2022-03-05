@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Feb-26-2022 at 17:37:32}
+{ Using PSTWRITER 17.4.0 d001Mar-04-2022 at 16:27:26}
 primitive 'ASR00050_JUMPER2_ASR00050';
   pin
     'VC':
@@ -13,6 +13,21 @@ primitive 'ASR00050_JUMPER2_ASR00050';
     PART_NAME='ASR00050';
     JEDEC_TYPE='jumper2';
     VALUE='ASR00050';
+  end_body;
+end_primitive;
+primitive 'C_SMC1206_1 UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='smc1206';
+    VALUE='1 uF';
   end_body;
 end_primitive;
 primitive 'C_SMC1206_0.1UF';
@@ -45,7 +60,7 @@ primitive 'C_SMC1206_0.22UF';
     VALUE='0.22uF';
   end_body;
 end_primitive;
-primitive 'LED_LED_SML-210_ROM_LED';
+primitive 'LED_JUMPER2_LED';
   pin
     'ANODE':
       PIN_NUMBER='(2)';
@@ -56,8 +71,23 @@ primitive 'LED_LED_SML-210_ROM_LED';
   end_pin;
   body
     PART_NAME='LED';
-    JEDEC_TYPE='LED_SML-210_ROM';
+    JEDEC_TYPE='jumper2';
     VALUE='LED';
+  end_body;
+end_primitive;
+primitive 'DIODE_JUMPER2_DIODE';
+  pin
+    'A':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE';
+    JEDEC_TYPE='jumper2';
+    VALUE='DIODE';
   end_body;
 end_primitive;
 primitive 'FUSE THERMAL_0ZCJ_BEL_1.5A PTC FUSE';
@@ -144,7 +174,7 @@ primitive '42M100B_CONN_1989764_PXC_42M100B';
     VALUE='42M100B';
   end_body;
 end_primitive;
-primitive 'R_RESC6431X65N_2.2K';
+primitive 'R_SMC1206_10K OHM';
   pin
     '2':
       PIN_NUMBER='(2)';
@@ -155,11 +185,11 @@ primitive 'R_RESC6431X65N_2.2K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='RESC6431X65N';
-    VALUE='2.2K';
+    JEDEC_TYPE='smc1206';
+    VALUE='10k Ohm';
   end_body;
 end_primitive;
-primitive 'R_RES_RK73G2A_KOA_100';
+primitive 'R_SMC1206_220 OHM';
   pin
     '2':
       PIN_NUMBER='(2)';
@@ -170,11 +200,41 @@ primitive 'R_RES_RK73G2A_KOA_100';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='RES_RK73G2A_KOA';
-    VALUE='100';
+    JEDEC_TYPE='smc1206';
+    VALUE='220 Ohm';
   end_body;
 end_primitive;
-primitive 'R_RES_RN73R2E_KOA-M_10K';
+primitive 'R_SMC0805_100 OHM';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smc0805';
+    VALUE='100 Ohm';
+  end_body;
+end_primitive;
+primitive 'R_SMC1206_4.7K OHM';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smc1206';
+    VALUE='4.7k Ohm';
+  end_body;
+end_primitive;
+primitive 'R_RES_RN73R2E_KOA-M_10K OHM';
   pin
     '2':
       PIN_NUMBER='(2)';
@@ -186,7 +246,7 @@ primitive 'R_RES_RN73R2E_KOA-M_10K';
   body
     PART_NAME='R';
     JEDEC_TYPE='RES_RN73R2E_KOA-M';
-    VALUE='10k';
+    VALUE='10k Ohm';
   end_body;
 end_primitive;
 primitive 'TEST POINT_JUMPER1_TEST POINT';

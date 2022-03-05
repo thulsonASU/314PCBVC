@@ -2,22 +2,10 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:.../autoHood_projectMaster/allegro/autohood_teamschematic_v1.brd          |
-|                                                    Sat Feb 26 17:37:32 2022  |
+|  C:.../autoHood_projectMaster/allegro/autohood_teamschematic_v2FUCKU.brd     |
+|                                                    Fri Mar  4 16:27:27 2022  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  3V3          pins MOVED FROM this net (to net name listed on right)
-                                 U11.4           10745.5 14988.5
-                                                                         BTN_IN
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  BTN_IN       pins MOVED FROM this net (to net name listed on right)
-                                 U11.2           10745.5 14811.5
-                                                                            3V3
 |------------------------------------------------------------------------------|
-|       Nets changed          :       2                                        |
 |                                                                              |
-|   Total ECO changes reported:       2                                        |
+|   Total ECO changes reported:       0                                        |
 |------------------------------------------------------------------------------|
