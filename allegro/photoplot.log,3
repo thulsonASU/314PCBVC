@@ -2,9 +2,9 @@
 (                                                                     )
 (    ARTWORK LOG                                                      )
 (                                                                     )
-(    Drawing          : autohood_teamschematic_v2FUCKUFUCKERT.brd     )
+(    Drawing          : autohood_teamschematic_v3.4.brd               )
 (    Software Version : 17.4S024                                      )
-(    Date/Time        : Fri Mar  4 16:44:14 2022                      )
+(    Date/Time        : Sun Mar 27 22:25:47 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -49,27 +49,27 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
   CIRCLE     0.01500                                  DARK 
   CIRCLE     0.02500                                  DARK 
   CIRCLE     0.03500                                  DARK 
   CIRCLE     0.05000                                  DARK 
-  CIRCLE     0.05900                                  DARK 
   CIRCLE     0.06000                                  DARK 
   CIRCLE     0.06500                                  DARK 
   SQUARE     0.05000                     0.000 NO     DARK 
   SQUARE     0.06000                     0.000 NO     DARK 
+  RECTANGLE  0.03600     x 0.10800       0.000 NO     DARK 
   RECTANGLE  0.03600     x 0.10800      90.000 NO     DARK 
   RECTANGLE  0.03900     x 0.07500       0.000 NO     DARK 
   RECTANGLE  0.04000     x 0.11800      90.000 NO     DARK 
   RECTANGLE  0.04400     x 0.01800       0.000 NO     DARK 
-  RECTANGLE  0.04800     x 0.03000      90.000 NO     DARK 
   RECTANGLE  0.05984     x 0.02362       0.000 NO     DARK 
   RECTANGLE  0.06400     x 0.03500       0.000 NO     DARK 
   RECTANGLE  0.06400     x 0.12500       0.000 NO     DARK 
-  RECTANGLE  0.08300     x 0.02300      90.000 NO     DARK 
+  RECTANGLE  0.06600     x 0.02000      90.000 NO     DARK 
   RECTANGLE  0.09000     x 0.02200       0.000 NO     DARK 
   RECTANGLE  0.09100     x 0.22100       0.000 NO     DARK 
-  RECTANGLE  0.24400     x 0.63000      90.000 NO     DARK 
+  RECTANGLE  0.09100     x 0.22100      90.000 NO     DARK 
   RECTANGLE  0.41400     x 0.31500      90.000 NO     DARK 
 
      TOP created.
@@ -101,7 +101,6 @@ Results from parameter file ...
   CIRCLE     0.02500                                  DARK 
   CIRCLE     0.03500                                  DARK 
   CIRCLE     0.05000                                  DARK 
-  CIRCLE     0.05900                                  DARK 
   CIRCLE     0.06000                                  DARK 
   CIRCLE     0.06500                                  DARK 
 
@@ -157,25 +156,24 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.05900                                  DARK 
   CIRCLE     0.06000                                  DARK 
   CIRCLE     0.07500                                  DARK 
   CIRCLE     0.08000                                  DARK 
   CIRCLE     0.20000                                  DARK 
   SQUARE     0.05000                     0.000 NO     DARK 
   SQUARE     0.06000                     0.000 NO     DARK 
+  RECTANGLE  0.03600     x 0.10800       0.000 NO     DARK 
   RECTANGLE  0.03600     x 0.10800      90.000 NO     DARK 
   RECTANGLE  0.03900     x 0.07500       0.000 NO     DARK 
   RECTANGLE  0.04000     x 0.11800      90.000 NO     DARK 
   RECTANGLE  0.04400     x 0.01800       0.000 NO     DARK 
-  RECTANGLE  0.04800     x 0.03000      90.000 NO     DARK 
   RECTANGLE  0.06181     x 0.02559       0.000 NO     DARK 
   RECTANGLE  0.06400     x 0.03500       0.000 NO     DARK 
   RECTANGLE  0.06400     x 0.12500       0.000 NO     DARK 
-  RECTANGLE  0.08300     x 0.02300      90.000 NO     DARK 
+  RECTANGLE  0.06600     x 0.02000      90.000 NO     DARK 
   RECTANGLE  0.09000     x 0.02200       0.000 NO     DARK 
   RECTANGLE  0.09100     x 0.22100       0.000 NO     DARK 
-  RECTANGLE  0.24400     x 0.63000      90.000 NO     DARK 
+  RECTANGLE  0.09100     x 0.22100      90.000 NO     DARK 
   RECTANGLE  0.41400     x 0.31500      90.000 NO     DARK 
 
      SolderMaskTop created.
@@ -203,7 +201,6 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.05900                                  DARK 
   CIRCLE     0.06000                                  DARK 
   CIRCLE     0.07500                                  DARK 
   CIRCLE     0.08000                                  DARK 
@@ -229,10 +226,10 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: 0 width line found at (8725.00 12200.00) in MIL
+    WARNING: 0 width line found at (8775.00 12206.25) in MIL
            ... ignored.
 
-    WARNING: text composed 0 width line found at (8645.00 12972.00) in MIL
+    WARNING: text composed 0 width line found at (8670.00 12228.25) in MIL
            ... ignored.
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.

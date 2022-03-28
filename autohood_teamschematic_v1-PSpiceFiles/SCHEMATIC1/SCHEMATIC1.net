@@ -1,0 +1,34 @@
+* source AUTOHOOD_TEAMSCHEMATIC_V1
+C_C1         GND 3V3  1 uF  TC=0,0 
+R_R3         SDA 3V3  4.7k Ohm TC=0,0 
+C_C3         GND 5V  1 uF  TC=0,0 
+C_C4         GND 5V  1 uF  TC=0,0 
+C_C7         GND 9V  1 uF  TC=0,0 
+C_C8         5V_FUSE GND  1 uF  TC=0,0 
+C_C9         3V3_FUSE GND  1 uF  TC=0,0 
+C_C10         GND 5V  1 uF  TC=0,0 
+X_D1         PARAMS:              
+X_D2         PARAMS:              
+X_D3         PARAMS:              
+X_D4         PARAMS:              
+R_R10         N08087 ANEM_LED  220 Ohm TC=0,0 
+X_D5         PARAMS:              
+R_R11         AMP N08305  100 Ohm TC=0,0 
+R_R12         N08305 GND  51.1 Ohm TC=0,0 
+C_C12         GND N08985  0.1uF  TC=0,0 
+C_C13         GND 3V3  0.22uF  TC=0,0 
+X_D7         PARAMS:              
+C_C11         N07629 GND  1 uF  TC=0,0 
+R_R2         SCL 3V3  4.7k Ohm TC=0,0 
+R_R1         MCLR 3V3  10k Ohm TC=0,0 
+C_C14         GND 5V  1 uF  TC=0,0 
+R_R17         N09403 HUMIDITY_LED  220 Ohm TC=0,0 
+R_R18         N06741 LED  220 Ohm TC=0,0 
+R_R19         N05422 STEP_LED  220 Ohm TC=0,0 
+R_R20         N05426 3V3  220 Ohm TC=0,0 
+R_R22         N39972 5V  220 Ohm TC=0,0 
+C_C15         GND 3V3  1 uF  TC=0,0 
+R_R8         GND 3V3  10k Ohm TC=0,0 
+R_R23         10k Ohm 
+R_R24         SDA 3V3  2.2k Ohm TC=0,0 
+R_R25         SCL 3V3  2.2k Ohm TC=0,0 

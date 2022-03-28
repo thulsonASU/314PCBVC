@@ -1,4 +1,317 @@
 FILE_TYPE=LIBRARY_PARTS;
+primitive 'L293DD013TR_L293DD013TR_SO-20_STM-L_L293DD';
+  pin
+	 'VSS':
+	   PIN_NUMBER='(20)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'VS':
+	   PIN_NUMBER='(10)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'OUTPUT 4':
+	   PIN_NUMBER='(18)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'OUTPUT 3':
+	   PIN_NUMBER='(13)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'OUTPUT 2':
+	   PIN_NUMBER='(8)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'OUTPUT 1':
+	   PIN_NUMBER='(3)';
+	   OUTPUT_LOAD='(1.0,-1.0)';
+	 'INPUT 4':
+	   PIN_NUMBER='(19)';
+	   INPUT_LOAD='(-0.01,0.01)';
+	 'INPUT 3':
+	   PIN_NUMBER='(12)';
+	   INPUT_LOAD='(-0.01,0.01)';
+	 'INPUT 2':
+	   PIN_NUMBER='(9)';
+	   INPUT_LOAD='(-0.01,0.01)';
+	 'INPUT 1':
+	   PIN_NUMBER='(2)';
+	   INPUT_LOAD='(-0.01,0.01)';
+	 'GND_7':
+	   PIN_NUMBER='(17)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND_6':
+	   PIN_NUMBER='(16)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND_5':
+	   PIN_NUMBER='(15)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND_4':
+	   PIN_NUMBER='(14)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND_3':
+	   PIN_NUMBER='(7)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND_2':
+	   PIN_NUMBER='(6)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND_1':
+	   PIN_NUMBER='(5)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'GND':
+	   PIN_NUMBER='(4)';
+	   PINUSE='POWER';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'ENABLE 2':
+	   PIN_NUMBER='(11)';
+	   INPUT_LOAD='(-0.01,0.01)';
+	 'ENABLE 1':
+	   PIN_NUMBER='(1)';
+	   INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+	 PART_NAME='L293DD013TR';
+	 VALUE='L293DD';
+	 BODY_NAME='L293DD013TR_L293DD013TR_SO-20_STM-L_L293DD';
+	 JEDEC_TYPE='L293DD013TR_SO-20_STM-L';
+	 PHYS_DES_PREFIX='U';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'FUSE THERMAL_0ZCF_BEL_2.5A PTC FUSE';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='FUSE THERMAL';
+	 VALUE='2.5A PTC Fuse';
+	 BODY_NAME='FUSE THERMAL_0ZCF_BEL_2.5A PTC FUSE';
+	 JEDEC_TYPE='0ZCF_BEL';
+	 PHYS_DES_PREFIX='F';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive '42M100B_JUMPER4_42M100B';
+  pin
+	 'OUT_2':
+	   PIN_NUMBER='(4)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'OUT_1':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'IN_2':
+	   PIN_NUMBER='(3)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'IN_1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='42M100B';
+	 VALUE='42M100B';
+	 BODY_NAME='42M100B_JUMPER4_42M100B';
+	 JEDEC_TYPE='JUMPER4';
+	 PHYS_DES_PREFIX='M';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'DIODE_0ZCF_BEL_DIODE';
+  pin
+	 'K':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'A':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='DIODE';
+	 VALUE='DIODE';
+	 BODY_NAME='DIODE_0ZCF_BEL_DIODE';
+	 JEDEC_TYPE='0ZCF_BEL';
+	 PHYS_DES_PREFIX='D';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'HEADER 2_JUMPER2_HEADER TO E-BUTTON';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='HEADER 2';
+	 VALUE='Header to E-Button';
+	 BODY_NAME='HEADER 2_JUMPER2_HEADER TO E-BUTTON';
+	 JEDEC_TYPE='JUMPER2';
+	 PHYS_DES_PREFIX='J';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'R_SMC0805_51.1 OHM';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='R';
+	 VALUE='51.1 Ohm';
+	 BODY_NAME='R_SMC0805_51.1 OHM';
+	 JEDEC_TYPE='SMC0805';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'RESISTOR_RES_RN73R2E_KOA-M_10K OHM';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='RESISTOR';
+	 VALUE='10k Ohm';
+	 BODY_NAME='RESISTOR_RES_RN73R2E_KOA-M_10K OHM';
+	 JEDEC_TYPE='RES_RN73R2E_KOA-M';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
 primitive 'C_SMC1206_1 UF';
   pin
 	 '2':
@@ -51,35 +364,6 @@ primitive 'LED_JUMPER2_LED';
 	 PART_NAME='LED';
 	 VALUE='LED';
 	 BODY_NAME='LED_JUMPER2_LED';
-	 JEDEC_TYPE='JUMPER2';
-	 PHYS_DES_PREFIX='D';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'DIODE_JUMPER2_DIODE';
-  pin
-	 'K':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'A':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='DIODE';
-	 VALUE='DIODE';
-	 BODY_NAME='DIODE_JUMPER2_DIODE';
 	 JEDEC_TYPE='JUMPER2';
 	 PHYS_DES_PREFIX='D';
 	 CLASS='IC';
@@ -197,35 +481,6 @@ primitive 'R_SMC1206_4.7K OHM';
 	 VALUE='4.7k Ohm';
 	 BODY_NAME='R_SMC1206_4.7K OHM';
 	 JEDEC_TYPE='SMC1206';
-	 PHYS_DES_PREFIX='R';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'R_RES_RN73R2E_KOA-M_10K OHM';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='R';
-	 VALUE='10k Ohm';
-	 BODY_NAME='R_RES_RN73R2E_KOA-M_10K OHM';
-	 JEDEC_TYPE='RES_RN73R2E_KOA-M';
 	 PHYS_DES_PREFIX='R';
 	 CLASS='IC';
   end_body;
@@ -366,35 +621,6 @@ primitive 'NCS21911_NCS21912DR2G_NCS21911';
   end_body;
 end_primitive;
 
-primitive 'ASR00050_JUMPER2_ASR00050';
-  pin
-	 'VC':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'GND':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='ASR00050';
-	 VALUE='ASR00050';
-	 BODY_NAME='ASR00050_JUMPER2_ASR00050';
-	 JEDEC_TYPE='JUMPER2';
-	 PHYS_DES_PREFIX='B';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'FUSE THERMAL_0ZCJ_BEL_1.5A PTC FUSE';
   pin
 	 '2':
@@ -419,35 +645,6 @@ primitive 'FUSE THERMAL_0ZCJ_BEL_1.5A PTC FUSE';
 	 VALUE='1.5A PTC Fuse';
 	 BODY_NAME='FUSE THERMAL_0ZCJ_BEL_1.5A PTC FUSE';
 	 JEDEC_TYPE='0ZCJ_BEL';
-	 PHYS_DES_PREFIX='F';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'FUSE THERMAL_0ZCF_BEL_2.5A PTC FUSE';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='FUSE THERMAL';
-	 VALUE='2.5A PTC Fuse';
-	 BODY_NAME='FUSE THERMAL_0ZCF_BEL_2.5A PTC FUSE';
-	 JEDEC_TYPE='0ZCF_BEL';
 	 PHYS_DES_PREFIX='F';
 	 CLASS='IC';
   end_body;
@@ -515,51 +712,6 @@ primitive 'CON3_JUMPER3_CON3';
 	 BODY_NAME='CON3_JUMPER3_CON3';
 	 JEDEC_TYPE='JUMPER3';
 	 PHYS_DES_PREFIX='J';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive '42M100B_CONN_1989764_PXC_42M100B';
-  pin
-	 'OUT_2':
-	   PIN_NUMBER='(4)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'OUT_1':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'IN_2':
-	   PIN_NUMBER='(3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'IN_1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='42M100B';
-	 VALUE='42M100B';
-	 BODY_NAME='42M100B_CONN_1989764_PXC_42M100B';
-	 JEDEC_TYPE='CONN_1989764_PXC';
-	 PHYS_DES_PREFIX='M';
 	 CLASS='IC';
   end_body;
 end_primitive;
@@ -915,51 +1067,6 @@ primitive 'SNAP_CONNECTOR_CONN_PXC08D_SUL_MPLABX SNAP';
   end_body;
 end_primitive;
 
-primitive 'BUTTON_HP0315AFKP4-R_NKK_BUTTON';
-  pin
-	 'OUT2':
-	   PIN_NUMBER='(3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'OUT1':
-	   PIN_NUMBER='(4)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'IN2':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'IN1':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='Button';
-	 VALUE='Button';
-	 BODY_NAME='BUTTON_HP0315AFKP4-R_NKK_BUTTON';
-	 JEDEC_TYPE='HP0315AFKP4-R_NKK';
-	 PHYS_DES_PREFIX='U';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
 primitive 'HIH6130_IC8_HIH6130-021-001_HNW_HIH6130';
   pin
 	 'VSS':
@@ -1032,187 +1139,6 @@ primitive 'HIH6130_IC8_HIH6130-021-001_HNW_HIH6130';
 	 VALUE='HIH6130';
 	 BODY_NAME='HIH6130_IC8_HIH6130-021-001_HNW_HIH6130';
 	 JEDEC_TYPE='IC8_HIH6130-021-001_HNW';
-	 PHYS_DES_PREFIX='U';
-	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'L298P_POWERSO-20_STM-M_L298P';
-  pin
-	 'VSS':
-	   PIN_NUMBER='(12)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'VS':
-	   PIN_NUMBER='(6)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'SENSE_B':
-	   PIN_NUMBER='(19)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'SENSE_A':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'OUT_4':
-	   PIN_NUMBER='(17)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'OUT_3':
-	   PIN_NUMBER='(16)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'OUT_2':
-	   PIN_NUMBER='(5)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'OUT_1':
-	   PIN_NUMBER='(4)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'NC_2':
-	   PIN_NUMBER='(18)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'NC_1':
-	   PIN_NUMBER='(3)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'INPUT_4':
-	   PIN_NUMBER='(15)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'INPUT_3':
-	   PIN_NUMBER='(13)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'INPUT_2':
-	   PIN_NUMBER='(9)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'INPUT_1':
-	   PIN_NUMBER='(7)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'GND_4':
-	   PIN_NUMBER='(20)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'GND_3':
-	   PIN_NUMBER='(11)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'GND_2':
-	   PIN_NUMBER='(10)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'GND_1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'EP':
-	   PIN_NUMBER='(21)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'ENABLE_B':
-	   PIN_NUMBER='(14)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 'ENABLE_A':
-	   PIN_NUMBER='(8)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='L298P';
-	 VALUE='L298P';
-	 BODY_NAME='L298P_POWERSO-20_STM-M_L298P';
-	 JEDEC_TYPE='POWERSO-20_STM-M';
 	 PHYS_DES_PREFIX='U';
 	 CLASS='IC';
   end_body;

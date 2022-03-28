@@ -1,21 +1,11 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.4.0 d001Mar-04-2022 at 16:27:26 }
+{ Using PSTWRITER 17.4.0 d001Mar-27-2022 at 22:16:09 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='AUTOHOOD_TEAMSCHEMATIC_V1';
  POST_TIME='Dec  6 2021 01:15:09';
  SOURCE_TOOL='CAPTURE_WRITER';
 END_DIRECTIVES;
-
-PART_NAME
- B1 'ASR00050_JUMPER2_ASR00050':;
-
-SECTION_NUMBER 1
- '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS4426@314_COMPONENTS.ASR00050.NORMAL(CHIPS)':
- C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins4426@\314_components\.\asr00050.normal\(chips)',
- P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins4426@\314_components\.\asr00050.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
 
 PART_NAME
  C1 'C_SMC1206_1 UF':;
@@ -34,16 +24,6 @@ SECTION_NUMBER 1
  '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS3895@ANALOG.C.NORMAL(CHIPS)':
  C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins3895@analog.\c.normal\(chips)',
  P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins3895@analog.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C11 'C_SMC1206_1 UF':;
-
-SECTION_NUMBER 1
- '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS13905@ANALOG.C.NORMAL(CHIPS)':
- C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins13905@analog.\c.normal\(chips)',
- P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins13905@analog.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -148,6 +128,66 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ D10 'DIODE_0ZCF_BEL_DIODE':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS54039@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins54039@discrete.\diode.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins54039@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'DIODE_0ZCF_BEL_DIODE':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS54151@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins54151@discrete.\diode.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins54151@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'DIODE_0ZCF_BEL_DIODE':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS56860@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins56860@discrete.\diode.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins56860@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'DIODE_0ZCF_BEL_DIODE':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS56876@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins56876@discrete.\diode.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins56876@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'DIODE_0ZCF_BEL_DIODE':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS56892@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins56892@discrete.\diode.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins56892@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D15 'DIODE_0ZCF_BEL_DIODE':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS56908@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins56908@discrete.\diode.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins56908@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  D2 'LED_JUMPER2_LED':;
 
 SECTION_NUMBER 1
@@ -198,7 +238,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- D8 'DIODE_JUMPER2_DIODE':;
+ D8 'DIODE_0ZCF_BEL_DIODE':;
 
 SECTION_NUMBER 1
  '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS42527@DISCRETE.DIODE.NORMAL(CHIPS)':
@@ -208,12 +248,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- D9 'DIODE_JUMPER2_DIODE':;
+ D9 'DIODE_0ZCF_BEL_DIODE':;
 
 SECTION_NUMBER 1
- '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS42850@DISCRETE.DIODE.NORMAL(CHIPS)':
- C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins42850@discrete.\diode.normal\(chips)',
- P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins42850@discrete.\diode.normal\(chips)',
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS53926@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins53926@discrete.\diode.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins53926@discrete.\diode.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -238,17 +278,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- F3 'FUSE THERMAL_0ZCF_BEL_2.5A PTC FUSE':;
-
-SECTION_NUMBER 1
- '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS4230@DISCRETE.FUSE THERMAL.NORMAL(CHIPS)':
- C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins4230@discrete.\fuse thermal.normal\(chips)',
- P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins4230@discrete.\fuse thermal.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- F4 'FUSE THERMAL_0ZCJ_BEL_1.5A PTC FUSE':;
+ F4 'FUSE THERMAL_0ZCF_BEL_2.5A PTC FUSE':;
 
 SECTION_NUMBER 1
  '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS7324@DISCRETE.FUSE THERMAL.NORMAL(CHIPS)':
@@ -308,7 +338,27 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- M1 '42M100B_CONN_1989764_PXC_42M100B':;
+ J6 'HEADER 2_JUMPER2_HEADER TO E-BUTTON':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS60569@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins60569@connector.\header 2.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins60569@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 2_JUMPER2_HEADER TO E-BUTTON':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS74007@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins74007@connector.\header 2.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins74007@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M1 '42M100B_JUMPER4_42M100B':;
 
 SECTION_NUMBER 1
  '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS493@FURMANSUB.42M100B.NORMAL(CHIPS)':
@@ -348,7 +398,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R12 'R_SMC0805_100 OHM':;
+ R12 'R_SMC0805_51.1 OHM':;
 
 SECTION_NUMBER 1
  '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS8336@ANALOG.R.NORMAL(CHIPS)':
@@ -418,6 +468,26 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R23 'RESISTOR_RES_RN73R2E_KOA-M_10K OHM':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS60639@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins60639@discrete.\resistor.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins60639@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RESISTOR_RES_RN73R2E_KOA-M_10K OHM':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS73991@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins73991@discrete.\resistor.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins73991@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R3 'R_SMC1206_4.7K OHM':;
 
 SECTION_NUMBER 1
@@ -428,22 +498,32 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R8 'R_RES_RN73R2E_KOA-M_10K OHM':;
-
-SECTION_NUMBER 1
- '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS34157@ANALOG.R.NORMAL(CHIPS)':
- C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins34157@analog.\r.normal\(chips)',
- P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins34157@analog.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  TP1 'TEST POINT_JUMPER1_TEST POINT':;
 
 SECTION_NUMBER 1
  '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS7161@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
  C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins7161@connector.\test point.normal\(chips)',
  P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins7161@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP10 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS75952@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins75952@connector.\test point.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins75952@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP11 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS76235@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins76235@connector.\test point.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins76235@connector.\test point.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -468,6 +548,66 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ TP4 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS75472@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins75472@connector.\test point.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins75472@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP5 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS75494@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins75494@connector.\test point.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins75494@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP6 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS75516@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins75516@connector.\test point.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins75516@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP7 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS75798@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins75798@connector.\test point.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins75798@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP8 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS75876@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins75876@connector.\test point.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins75876@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP9 'TEST POINT_JUMPER1_TEST POINT':;
+
+SECTION_NUMBER 1
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS75914@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins75914@connector.\test point.normal\(chips)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins75914@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  U1 'ESP32 DEVKIT V1 - DOIT_ESP32_ESP32 DEVKIT V1 - DOIT':;
 
 SECTION_NUMBER 1
@@ -484,16 +624,6 @@ SECTION_NUMBER 1
  '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS840@314_COMPONENTS.SNAP_CONNECTOR.NORMAL(CHIPS)':
  C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins840@\314_components\.\snap_connector.normal\(chips)',
  P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins840@\314_components\.\snap_connector.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U11 'BUTTON_HP0315AFKP4-R_NKK_BUTTON':;
-
-SECTION_NUMBER 1
- '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS5675@314_COMPONENTS.BUTTON.NORMAL(CHIPS)':
- C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins5675@\314_components\.\button.normal\(chips)',
- P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins5675@\314_components\.\button.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -518,12 +648,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U14 'L298P_POWERSO-20_STM-M_L298P':;
+ U14 'L293DD013TR_L293DD013TR_SO-20_STM-L_L293DD':;
 
 SECTION_NUMBER 1
- '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS21176@314_COMPONENTS-MASTER.L298P.NORMAL(CHIPS)':
- C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins21176@\314_components-master\.\l298p.normal\(chips)',
- P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins21176@\314_components-master\.\l298p.normal\(chips)',
+ '@AUTOHOOD_TEAMSCHEMATIC_V1.SCHEMATIC1(SCH_1):INS78403@L293DD013TR.L293DD013TR.NORMAL(SCH_1)':
+ C_PATH='@autohood_teamschematic_v1.schematic1(sch_1):ins78403@l293dd013tr.\l293dd013tr.normal\(sch_1)',
+ P_PATH='@autohood_teamschematic_v1.schematic1(sch_1):page1_ins78403@l293dd013tr.\l293dd013tr.normal\(sch_1)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : autohood_teamschematic_v2FUCKUFUCKERT.brd     )
 (    Software Version : 17.4S024                                      )
-(    Date/Time        : Fri Mar  4 16:29:59 2022                      )
+(    Date/Time        : Fri Mar  4 17:29:21 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -49,6 +49,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
   CIRCLE     0.01500                                  DARK 
   CIRCLE     0.02500                                  DARK 
   CIRCLE     0.03500                                  DARK 

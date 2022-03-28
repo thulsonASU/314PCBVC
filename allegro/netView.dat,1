@@ -1,5 +1,7 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
-J!c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/autohood_teamschematic_v1.brd!Fri Mar  4 16:27:24 2022!0.00!0.00!21000.00!17000.00!0.01!mils!AUTOHOOD_TEAMSCHEMATIC_V1!10.400000 mil!2!UP TO DATE!
+J!C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v3.4.brd!Sun Mar 27 22:11:35 2022!0.00!0.00!21000.00!17000.00!0.01!mils!AUTOHOOD_TEAMSCHEMATIC_V1!10.400000 mil!2!UP TO DATE!
+S!BTN_1!@autohood_teamschematic_v1.schematic1(sch_1):btn_1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!E-BUTTON!@autohood_teamschematic_v1.schematic1(sch_1):\e-button\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N39972!@autohood_teamschematic_v1.schematic1(sch_1):n39972!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!COIL_2_OUT!@autohood_teamschematic_v1.schematic1(sch_1):coil_2_out!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!ENABLEA!@autohood_teamschematic_v1.schematic1(sch_1):enablea!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -31,17 +33,13 @@ S!N07629!@autohood_teamschematic_v1.schematic1(sch_1):n07629!!!!!!!!!!!!!!!!!!!!
 S!N06741!@autohood_teamschematic_v1.schematic1(sch_1):n06741!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!ENABLEB!@autohood_teamschematic_v1.schematic1(sch_1):enableb!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!INPUT2B!@autohood_teamschematic_v1.schematic1(sch_1):input2b!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!BTN_IN!@autohood_teamschematic_v1.schematic1(sch_1):btn_in!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!STEP_LED!@autohood_teamschematic_v1.schematic1(sch_1):step_led!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N05426!@autohood_teamschematic_v1.schematic1(sch_1):n05426!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!N05422!@autohood_teamschematic_v1.schematic1(sch_1):n05422!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!GND!@autohood_teamschematic_v1.schematic1(sch_1):gnd!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!N042400!@autohood_teamschematic_v1.schematic1(sch_1):n042400!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!3V3_FUSE!@autohood_teamschematic_v1.schematic1(sch_1):\3v3_fuse\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!INPUT2A!@autohood_teamschematic_v1.schematic1(sch_1):input2a!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!5V_FUSE!@autohood_teamschematic_v1.schematic1(sch_1):\5v_fuse\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!BATTERY!@autohood_teamschematic_v1.schematic1(sch_1):battery!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-S!HU_INTERR!@autohood_teamschematic_v1.schematic1(sch_1):hu_interr!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!5V!@autohood_teamschematic_v1.schematic1(sch_1):\5v\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!INPUT1B!@autohood_teamschematic_v1.schematic1(sch_1):input1b!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 S!COIL_2_IN!@autohood_teamschematic_v1.schematic1(sch_1):coil_2_in!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

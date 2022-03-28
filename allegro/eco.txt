@@ -2,10 +2,16 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:.../autoHood_projectMaster/allegro/autohood_teamschematic_v2FUCKU.brd     |
-|                                                    Fri Mar  4 16:27:27 2022  |
+|  C:.../autoHood_projectMaster/allegro/autohood_teamschematic_v3.4.brd        |
+|                                                    Sun Mar 27 22:16:09 2022  |
 |------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ TP12                TEST POINT_JUMPER1_TEST POINT 10406.2 12743.7
 |------------------------------------------------------------------------------|
+|       Components deleted    :       1                                        |
 |                                                                              |
-|   Total ECO changes reported:       0                                        |
+|   Total ECO changes reported:       1                                        |
 |------------------------------------------------------------------------------|

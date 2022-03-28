@@ -1,11 +1,483 @@
 {
 	"Gate Swap" : [],
 	"Ref Des" : [],
-	"Pin Swap" : [],
+	"Pin Swap" : [
+		{
+			"Name" : "M1.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins493@furmansub.\\42m100b.normal\\(chips):OUT_1",
+			"Logical" : "M1.2",
+			"Physical" : "M1.1"
+		},
+		{
+			"Name" : "M1.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins493@furmansub.\\42m100b.normal\\(chips):IN_1",
+			"Logical" : "M1.1",
+			"Physical" : "M1.2"
+		},
+		{
+			"Name" : "M1.4",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins493@furmansub.\\42m100b.normal\\(chips):OUT_2",
+			"Logical" : "M1.4",
+			"Physical" : "M1.3"
+		},
+		{
+			"Name" : "M1.3",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins493@furmansub.\\42m100b.normal\\(chips):IN_2",
+			"Logical" : "M1.3",
+			"Physical" : "M1.4"
+		},
+		{
+			"Name" : "U1.7",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins100@picplusesp32lib.\\esp32 devkit v1 - doit.normal\\(chips):TX2",
+			"Logical" : "U1.7",
+			"Physical" : "U1.6"
+		},
+		{
+			"Name" : "U1.5",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins100@picplusesp32lib.\\esp32 devkit v1 - doit.normal\\(chips):D4",
+			"Logical" : "U1.5",
+			"Physical" : "U1.17"
+		},
+		{
+			"Name" : "U1.6",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins100@picplusesp32lib.\\esp32 devkit v1 - doit.normal\\(chips):RX2",
+			"Logical" : "U1.6",
+			"Physical" : "U1.5"
+		},
+		{
+			"Name" : "U3.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins373@picplusesp32lib.\\pic18f26k40-e\/so.normal\\(chips):RA0",
+			"Logical" : "U3.2",
+			"Physical" : "U3.7"
+		},
+		{
+			"Name" : "U3.7",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins373@picplusesp32lib.\\pic18f26k40-e\/so.normal\\(chips):RA5",
+			"Logical" : "U3.7",
+			"Physical" : "U3.2"
+		},
+		{
+			"Name" : "U1.17",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins100@picplusesp32lib.\\esp32 devkit v1 - doit.normal\\(chips):GND2",
+			"Logical" : "U1.17",
+			"Physical" : "U1.7"
+		}
+	],
 	"Component Property" : [],
 	"Net Property" : [],
 	"Pin Property" : [],
-	"Component" : [],
-	"Net" : [],
-	"Connection" : []
+	"Component" : [
+		{
+			"Name" : "D9",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins42850@discrete.\\diode.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D9"
+		},
+		{
+			"Name" : "B1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins4426@\\314_components\\.\\asr00050.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "B1"
+		},
+		{
+			"Name" : "F3",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins4230@discrete.\\fuse thermal.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "F3"
+		},
+		{
+			"Name" : "U11",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins5675@\\314_components\\.\\button.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U11"
+		},
+		{
+			"Name" : "D10",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins54039@discrete.\\diode.normal\\(chips)",
+			"Logical" : "D10",
+			"Physical" : null
+		},
+		{
+			"Name" : "D11",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins54151@discrete.\\diode.normal\\(chips)",
+			"Logical" : "D11",
+			"Physical" : null
+		},
+		{
+			"Name" : "D12",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56860@discrete.\\diode.normal\\(chips)",
+			"Logical" : "D12",
+			"Physical" : null
+		},
+		{
+			"Name" : "D13",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56876@discrete.\\diode.normal\\(chips)",
+			"Logical" : "D13",
+			"Physical" : null
+		},
+		{
+			"Name" : "D14",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56892@discrete.\\diode.normal\\(chips)",
+			"Logical" : "D14",
+			"Physical" : null
+		},
+		{
+			"Name" : "D15",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56908@discrete.\\diode.normal\\(chips)",
+			"Logical" : "D15",
+			"Physical" : null
+		},
+		{
+			"Name" : "D9",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins53926@discrete.\\diode.normal\\(chips)",
+			"Logical" : "D9",
+			"Physical" : null
+		},
+		{
+			"Name" : "J6",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins60569@connector.\\header 2.normal\\(chips)",
+			"Logical" : "J6",
+			"Physical" : null
+		},
+		{
+			"Name" : "J7",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins64401@connector.\\header 2.normal\\(chips)",
+			"Logical" : "J7",
+			"Physical" : null
+		},
+		{
+			"Name" : "R23",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins60639@discrete.\\resistor.normal\\(chips)",
+			"Logical" : "R23",
+			"Physical" : null
+		},
+		{
+			"Name" : "R24",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins61199@analog.\\r.normal\\(chips)",
+			"Logical" : "R24",
+			"Physical" : null
+		},
+		{
+			"Name" : "R25",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins61225@analog.\\r.normal\\(chips)",
+			"Logical" : "R25",
+			"Physical" : null
+		},
+		{
+			"Name" : "D8",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins42527@discrete.\\diode.normal\\(chips)",
+			"Logical" : "DIODE_0ZCF_BEL_DIODE",
+			"Physical" : "DIODE_JUMPER2_DIODE"
+		},
+		{
+			"Name" : "R12",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins8336@analog.\\r.normal\\(chips)",
+			"Logical" : "R_SMC0805_51.1 OHM",
+			"Physical" : "R_SMC0805_100 OHM"
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "BTN_IN",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):btn_in",
+			"Logical" : null,
+			"Physical" : "BTN_IN"
+		},
+		{
+			"Name" : "N042400",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):n042400",
+			"Logical" : null,
+			"Physical" : "N042400"
+		},
+		{
+			"Name" : "BATTERY",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):battery",
+			"Logical" : null,
+			"Physical" : "BATTERY"
+		},
+		{
+			"Name" : "HU_INTERR",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):hu_interr",
+			"Logical" : null,
+			"Physical" : "HU_INTERR"
+		},
+		{
+			"Name" : "E-BUTTON",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):\\e-button\\",
+			"Logical" : "E-BUTTON",
+			"Physical" : null
+		},
+		{
+			"Name" : "BTN_1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):btn_1",
+			"Logical" : "BTN_1",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C10.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins3895@analog.\\c.normal\\(chips):\\2\\",
+			"Logical" : "5V",
+			"Physical" : "BATTERY"
+		},
+		{
+			"Name" : "C4.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins2184@analog.\\c.normal\\(chips):\\2\\",
+			"Logical" : "5V",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "C7.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins3483@analog.\\c.normal\\(chips):\\2\\",
+			"Logical" : "9V",
+			"Physical" : "BATTERY"
+		},
+		{
+			"Name" : "D10.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins54039@discrete.\\diode.normal\\(chips):A",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "D10.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins54039@discrete.\\diode.normal\\(chips):K",
+			"Logical" : "COIL_1_OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "D11.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins54151@discrete.\\diode.normal\\(chips):A",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "D11.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins54151@discrete.\\diode.normal\\(chips):K",
+			"Logical" : "COIL_1_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "D12.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56860@discrete.\\diode.normal\\(chips):K",
+			"Logical" : "5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "D12.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56860@discrete.\\diode.normal\\(chips):A",
+			"Logical" : "COIL_2_OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "D13.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56876@discrete.\\diode.normal\\(chips):A",
+			"Logical" : "COIL_2_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "D13.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56876@discrete.\\diode.normal\\(chips):K",
+			"Logical" : "5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "D14.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56892@discrete.\\diode.normal\\(chips):K",
+			"Logical" : "5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "D14.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56892@discrete.\\diode.normal\\(chips):A",
+			"Logical" : "COIL_1_OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "D15.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56908@discrete.\\diode.normal\\(chips):K",
+			"Logical" : "5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "D15.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins56908@discrete.\\diode.normal\\(chips):A",
+			"Logical" : "COIL_1_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "D8.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins42527@discrete.\\diode.normal\\(chips):K",
+			"Logical" : "COIL_2_OUT",
+			"Physical" : "COIL_2_IN"
+		},
+		{
+			"Name" : "D9.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins53926@discrete.\\diode.normal\\(chips):K",
+			"Logical" : "COIL_2_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "D9.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins53926@discrete.\\diode.normal\\(chips):A",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "J6.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins60569@connector.\\header 2.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "J6.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins60569@connector.\\header 2.normal\\(chips):\\1\\",
+			"Logical" : "E-BUTTON",
+			"Physical" : null
+		},
+		{
+			"Name" : "J7.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins64401@connector.\\header 2.normal\\(chips):\\2\\",
+			"Logical" : "BTN_1",
+			"Physical" : null
+		},
+		{
+			"Name" : "J7.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins64401@connector.\\header 2.normal\\(chips):\\1\\",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "M1.3",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins493@furmansub.\\42m100b.normal\\(chips):IN_2",
+			"Logical" : "COIL_2_IN",
+			"Physical" : "COIL_2_OUT"
+		},
+		{
+			"Name" : "M1.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins493@furmansub.\\42m100b.normal\\(chips):IN_1",
+			"Logical" : "COIL_1_IN",
+			"Physical" : "COIL_1_OUT"
+		},
+		{
+			"Name" : "M1.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins493@furmansub.\\42m100b.normal\\(chips):OUT_1",
+			"Logical" : "COIL_1_OUT",
+			"Physical" : "COIL_1_IN"
+		},
+		{
+			"Name" : "M1.4",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins493@furmansub.\\42m100b.normal\\(chips):OUT_2",
+			"Logical" : "COIL_2_OUT",
+			"Physical" : "COIL_2_IN"
+		},
+		{
+			"Name" : "R23.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins60639@discrete.\\resistor.normal\\(chips):\\2\\",
+			"Logical" : "E-BUTTON",
+			"Physical" : null
+		},
+		{
+			"Name" : "R23.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins60639@discrete.\\resistor.normal\\(chips):\\1\\",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R24.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins61199@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "SDA",
+			"Physical" : null
+		},
+		{
+			"Name" : "R24.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins61199@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R25.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins61225@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "SCL",
+			"Physical" : null
+		},
+		{
+			"Name" : "R25.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins61225@analog.\\r.normal\\(chips):\\2\\",
+			"Logical" : "3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U1.17",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins100@picplusesp32lib.\\esp32 devkit v1 - doit.normal\\(chips):GND2",
+			"Logical" : "GND",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "U1.6",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins100@picplusesp32lib.\\esp32 devkit v1 - doit.normal\\(chips):RX2",
+			"Logical" : "ESP32RX",
+			"Physical" : "ESP32TX"
+		},
+		{
+			"Name" : "U1.7",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins100@picplusesp32lib.\\esp32 devkit v1 - doit.normal\\(chips):TX2",
+			"Logical" : "ESP32TX",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "U1.5",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins100@picplusesp32lib.\\esp32 devkit v1 - doit.normal\\(chips):D4",
+			"Logical" : "NC",
+			"Physical" : "ESP32RX"
+		},
+		{
+			"Name" : "U13.8",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins8878@library1.\\hih6130.normal\\(chips):ALARM_HIGH",
+			"Logical" : "NC",
+			"Physical" : "HU_INTERR"
+		},
+		{
+			"Name" : "U14.12",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins21176@\\314_components-master\\.\\l298p.normal\\(chips):VSS",
+			"Logical" : "5V",
+			"Physical" : "3V3"
+		},
+		{
+			"Name" : "U3.7",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins373@picplusesp32lib.\\pic18f26k40-e\/so.normal\\(chips):RA5",
+			"Logical" : "LED",
+			"Physical" : "AMP"
+		},
+		{
+			"Name" : "U3.15",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins373@picplusesp32lib.\\pic18f26k40-e\/so.normal\\(chips):RC4",
+			"Logical" : "E-BUTTON",
+			"Physical" : "HU_INTERR"
+		},
+		{
+			"Name" : "U3.9",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins373@picplusesp32lib.\\pic18f26k40-e\/so.normal\\(chips):RA7",
+			"Logical" : "BTN_1",
+			"Physical" : "BTN_IN"
+		},
+		{
+			"Name" : "U3.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins373@picplusesp32lib.\\pic18f26k40-e\/so.normal\\(chips):RA0",
+			"Logical" : "AMP",
+			"Physical" : "LED"
+		},
+		{
+			"Name" : "U4.3",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins458@furmansub.\\adp3339akcz.normal\\(chips):\\in\\",
+			"Logical" : "5V",
+			"Physical" : "BATTERY"
+		},
+		{
+			"Name" : "U9.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins793@\\314_components\\.\\lm340t-5-lf01.normal\\(chips):\\in\\",
+			"Logical" : "9V",
+			"Physical" : "BATTERY"
+		}
+	]
 }

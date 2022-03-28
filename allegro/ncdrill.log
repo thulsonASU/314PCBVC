@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : autohood_teamschematic_v2FUCKUFUCKERT.brd     )
+(    Drawing          : autohood_teamschematic_v3.4.brd               )
 (    Software Version : 17.4S024                                      )
-(    Date/Time        : Fri Mar  4 17:00:21 2022                      )
+(    Date/Time        : Sun Mar 27 22:53:20 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -43,19 +43,18 @@
 
 
 
-     'autohood_teamschematic_v2FUCKUFUCKERT-1-2.drl' created for holes connecting TOP and BOTTOM
-     -------------------------------------------------------------------------------------------
+     'autohood_teamschematic_v5-1-2.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------------------
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.  30.5000    0.0000/  0.0000      PLATED         30
-            2.  36.0000    0.0000/  0.0000      PLATED         32
-            3.  39.0000    0.0000/  0.0000      PLATED          4
-            4.  40.0000    0.0000/  0.0000      PLATED          8
-            5.  41.0000    0.0000/  0.0000      PLATED         30
-            6. 156.0000    0.0000/  0.0000  NON_PLATED          3
+            1.  30.5000    0.0000/  0.0000      PLATED         65
+            2.  36.0000    0.0000/  0.0000      PLATED         42
+            3.  40.0000    0.0000/  0.0000      PLATED          8
+            4.  41.0000    0.0000/  0.0000      PLATED         30
+            5. 156.0000    0.0000/  0.0000  NON_PLATED          3
 
-     ---- Total holes:                                        107
+     ---- Total holes:                                        148
 
-     ---- Total head travel:              5.15 feet (1.57 meters)
+     ---- Total head travel:              9.84 feet (3.00 meters)
 

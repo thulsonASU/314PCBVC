@@ -13,6 +13,7 @@ SUPPRESS-EQUAL         NO
 TOOL-SELECT            NO
 OPTIMIZE_DRILLING      NO
 ENHANCED_EXCELLON      YES
+TAPE-FILE              C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v5.drl
 HEADER                 none
 LEADER                 12
 CODE                   ASCII

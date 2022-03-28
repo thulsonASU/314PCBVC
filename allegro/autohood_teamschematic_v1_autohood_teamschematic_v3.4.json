@@ -1,0 +1,18 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "TP12",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins76257@connector.\\test point.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "TP12"
+		}
+	],
+	"Net" : [],
+	"Connection" : []
+}

@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : autohood_teamschematic_v2FUCKU.brd            )
+(    Drawing          : autohood_teamschematic_v3.4.brd               )
 (    Software Version : 17.4S024                                      )
-(    Date/Time        : Fri Mar  4 16:27:27 2022                      )
+(    Date/Time        : Sun Mar 27 22:16:09 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,15 +19,15 @@ Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'c:\users\tyler\desktop\cadence\cadence\projects\autohood_projectmaster\allegro'
 Design Directory:            'C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro'
-Old design name:             'C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v2FUCKU.brd'
-New design name:             'C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v2FUCKU.brd'
+Old design name:             'C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v3.4.brd'
+New design name:             'C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v3.4.brd'
 
-CmdLine: netrev -i c:\users\tyler\desktop\cadence\cadence\projects\autohood_projectmaster\allegro -y 1 -q netrev_constraint_report.xml C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/#Taaaadg22824.tmp
+CmdLine: netrev -i c:\users\tyler\desktop\cadence\cadence\projects\autohood_projectmaster\allegro -y 1 -q netrev_constraint_report.xml C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/#Taaaacs17672.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstchip.dat 
-   Finished reading c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstchip.dat (00:00:00.02)
+   Finished reading c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstchip.dat (00:00:00.01)
 Starting to read c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstxprt.dat 
    Finished reading c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstxprt.dat (00:00:00.00)
 Starting to read c:/users/tyler/desktop/cadence/cadence/projects/autohood_projectmaster/allegro/pstxnet.dat 
@@ -62,7 +62,7 @@ PADPATH =  C:/Users/tyler/Desktop/Cadence/Cadence/symbols
 ------ Summary Statistics ------
 
 
-netrev run on Mar 4 16:27:27 2022
+netrev run on Mar 27 22:16:09 2022
    DESIGN NAME : 'AUTOHOOD_TEAMSCHEMATIC_V1'
    PACKAGING ON Dec  6 2021 01:15:09
 
@@ -87,6 +87,6 @@ netrev run on Mar 4 16:27:27 2022
  No oversight detected
  No warning detected
 
-cpu time      0:00:29
+cpu time      0:00:34
 elapsed time  0:00:00
 

@@ -1,20 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.4.0 d001Mar-04-2022 at 16:27:26}
-primitive 'ASR00050_JUMPER2_ASR00050';
-  pin
-    'VC':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'GND':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='ASR00050';
-    JEDEC_TYPE='jumper2';
-    VALUE='ASR00050';
-  end_body;
-end_primitive;
+{ Using PSTWRITER 17.4.0 d001Mar-27-2022 at 22:16:09}
 primitive 'C_SMC1206_1 UF';
   pin
     '1':
@@ -75,7 +60,7 @@ primitive 'LED_JUMPER2_LED';
     VALUE='LED';
   end_body;
 end_primitive;
-primitive 'DIODE_JUMPER2_DIODE';
+primitive 'DIODE_0ZCF_BEL_DIODE';
   pin
     'A':
       PIN_NUMBER='(2)';
@@ -86,7 +71,7 @@ primitive 'DIODE_JUMPER2_DIODE';
   end_pin;
   body
     PART_NAME='DIODE';
-    JEDEC_TYPE='jumper2';
+    JEDEC_TYPE='0ZCF_BEL';
     VALUE='DIODE';
   end_body;
 end_primitive;
@@ -153,7 +138,22 @@ primitive 'CON3_JUMPER3_CON3';
     VALUE='CON3';
   end_body;
 end_primitive;
-primitive '42M100B_CONN_1989764_PXC_42M100B';
+primitive 'HEADER 2_JUMPER2_HEADER TO E-BUTTON';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 2';
+    JEDEC_TYPE='jumper2';
+    VALUE='Header to E-Button';
+  end_body;
+end_primitive;
+primitive '42M100B_JUMPER4_42M100B';
   pin
     'IN_1':
       PIN_NUMBER='(1)';
@@ -170,7 +170,7 @@ primitive '42M100B_CONN_1989764_PXC_42M100B';
   end_pin;
   body
     PART_NAME='42M100B';
-    JEDEC_TYPE='CONN_1989764_PXC';
+    JEDEC_TYPE='jumper4';
     VALUE='42M100B';
   end_body;
 end_primitive;
@@ -219,6 +219,21 @@ primitive 'R_SMC0805_100 OHM';
     VALUE='100 Ohm';
   end_body;
 end_primitive;
+primitive 'R_SMC0805_51.1 OHM';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smc0805';
+    VALUE='51.1 Ohm';
+  end_body;
+end_primitive;
 primitive 'R_SMC1206_4.7K OHM';
   pin
     '2':
@@ -234,17 +249,17 @@ primitive 'R_SMC1206_4.7K OHM';
     VALUE='4.7k Ohm';
   end_body;
 end_primitive;
-primitive 'R_RES_RN73R2E_KOA-M_10K OHM';
+primitive 'RESISTOR_RES_RN73R2E_KOA-M_10K OHM';
   pin
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
     '1':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='R';
+    PART_NAME='RESISTOR';
     JEDEC_TYPE='RES_RN73R2E_KOA-M';
     VALUE='10k Ohm';
   end_body;
@@ -393,27 +408,6 @@ primitive 'SNAP_CONNECTOR_CONN_PXC08D_SUL_MPLABX SNAP';
     VALUE='MPLABX SNAP';
   end_body;
 end_primitive;
-primitive 'BUTTON_HP0315AFKP4-R_NKK_BUTTON';
-  pin
-    'IN1':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'OUT1':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'IN2':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'OUT2':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Button';
-    JEDEC_TYPE='HP0315AFKP4-R_NKK';
-    VALUE='Button';
-  end_body;
-end_primitive;
 primitive 'NCS21911_NCS21912DR2G_NCS21911';
   pin
     'OUT1':
@@ -480,76 +474,73 @@ primitive 'HIH6130_IC8_HIH6130-021-001_HNW_HIH6130';
     VALUE='HIH6130';
   end_body;
 end_primitive;
-primitive 'L298P_POWERSO-20_STM-M_L298P';
+primitive 'L293DD013TR_L293DD013TR_SO-20_STM-L_L293DD';
   pin
-    'GND_1':
+    'ENABLE 1':
       PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'SENSE_A':
+      INPUT_LOAD='(*)';
+    'INPUT 1':
       PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'NC_1':
+      INPUT_LOAD='(*)';
+    'OUTPUT 1':
       PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'OUT_1':
+      OUTPUT_LOAD='(*)';
+    'GND':
       PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'OUT_2':
+      PINUSE='POWER';
+    'GND_1':
       PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    'VS':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-    'INPUT_1':
-      PIN_NUMBER='(7)';
-      PINUSE='UNSPEC';
-    'ENABLE_A':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-    'INPUT_2':
-      PIN_NUMBER='(9)';
-      PINUSE='UNSPEC';
+      PINUSE='POWER';
     'GND_2':
+      PIN_NUMBER='(6)';
+      PINUSE='POWER';
+    'GND_3':
+      PIN_NUMBER='(7)';
+      PINUSE='POWER';
+    'OUTPUT 2':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(*)';
+    'INPUT 2':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(*)';
+    'VS':
       PIN_NUMBER='(10)';
       PINUSE='UNSPEC';
-    'GND_3':
+    'ENABLE 2':
       PIN_NUMBER='(11)';
-      PINUSE='UNSPEC';
-    'VSS':
+      INPUT_LOAD='(*)';
+    'INPUT 3':
       PIN_NUMBER='(12)';
-      PINUSE='UNSPEC';
-    'INPUT_3':
+      INPUT_LOAD='(*)';
+    'OUTPUT 3':
       PIN_NUMBER='(13)';
-      PINUSE='UNSPEC';
-    'ENABLE_B':
-      PIN_NUMBER='(14)';
-      PINUSE='UNSPEC';
-    'INPUT_4':
-      PIN_NUMBER='(15)';
-      PINUSE='UNSPEC';
-    'OUT_3':
-      PIN_NUMBER='(16)';
-      PINUSE='UNSPEC';
-    'OUT_4':
-      PIN_NUMBER='(17)';
-      PINUSE='UNSPEC';
-    'NC_2':
-      PIN_NUMBER='(18)';
-      PINUSE='UNSPEC';
-    'SENSE_B':
-      PIN_NUMBER='(19)';
-      PINUSE='UNSPEC';
+      OUTPUT_LOAD='(*)';
     'GND_4':
+      PIN_NUMBER='(14)';
+      PINUSE='POWER';
+    'GND_5':
+      PIN_NUMBER='(15)';
+      PINUSE='POWER';
+    'GND_6':
+      PIN_NUMBER='(16)';
+      PINUSE='POWER';
+    'GND_7':
+      PIN_NUMBER='(17)';
+      PINUSE='POWER';
+    'OUTPUT 4':
+      PIN_NUMBER='(18)';
+      OUTPUT_LOAD='(*)';
+    'INPUT 4':
+      PIN_NUMBER='(19)';
+      INPUT_LOAD='(*)';
+    'VSS':
       PIN_NUMBER='(20)';
-      PINUSE='UNSPEC';
-    'EP':
-      PIN_NUMBER='(21)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='L298P';
-    JEDEC_TYPE='PowerSO-20_STM-M';
-    VALUE='L298P';
+    PART_NAME='L293DD013TR';
+    JEDEC_TYPE='L293DD013TR_SO-20_STM-L';
+    VALUE='L293DD';
   end_body;
 end_primitive;
 primitive 'PIC18F26K40-E/SO_SOIC28-W_MC_MCH-M_PIC18LF26K40-E/SO';

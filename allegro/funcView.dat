@@ -1,57 +1,71 @@
 A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
-J!C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v2FUCKU.brd!Fri Mar  4 16:27:25 2022!0.00!0.00!21000.00!17000.00!0.01!mils!AUTOHOOD_TEAMSCHEMATIC_V1!10.400000 mil!2!UP TO DATE!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins1243@analog.\c.normal\(chips)!C_SMC1206_1 UF!C1!.\chipsView.dat!!!!!!F53!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins3895@analog.\c.normal\(chips)!C_SMC1206_1 UF!C10!.\chipsView.dat!!!!!!F52!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins13905@analog.\c.normal\(chips)!C_SMC1206_1 UF!C11!.\chipsView.dat!!!!!!F51!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins26586@analog.\c.normal\(chips)!C_SMC1206_1 UF!C14!.\chipsView.dat!!!!!!F50!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins32030@analog.\c.normal\(chips)!C_SMC1206_1 UF!C15!.\chipsView.dat!!!!!!F49!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins1961@analog.\c.normal\(chips)!C_SMC1206_1 UF!C3!.\chipsView.dat!!!!!!F48!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins2184@analog.\c.normal\(chips)!C_SMC1206_1 UF!C4!.\chipsView.dat!!!!!!F47!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins3483@analog.\c.normal\(chips)!C_SMC1206_1 UF!C7!.\chipsView.dat!!!!!!F46!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins3511@analog.\c.normal\(chips)!C_SMC1206_1 UF!C8!.\chipsView.dat!!!!!!F45!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins3833@analog.\c.normal\(chips)!C_SMC1206_1 UF!C9!.\chipsView.dat!!!!!!F44!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins5352@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D1!.\chipsView.dat!!!!!!F41!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins5380@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D2!.\chipsView.dat!!!!!!F40!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins5406@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D3!.\chipsView.dat!!!!!!F39!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins6743@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D4!.\chipsView.dat!!!!!!F38!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins8089@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D5!.\chipsView.dat!!!!!!F37!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins9405@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D7!.\chipsView.dat!!!!!!F36!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins42527@discrete.\diode.normal\(chips)!DIODE_JUMPER2_DIODE!D8!.\chipsView.dat!!!!!!F35!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins42850@discrete.\diode.normal\(chips)!DIODE_JUMPER2_DIODE!D9!.\chipsView.dat!!!!!!F34!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins14466@analog.\r.normal\(chips)!R_SMC1206_10K OHM!R1!.\chipsView.dat!!!!!!F23!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins8069@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R10!.\chipsView.dat!!!!!!F22!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins27767@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R17!.\chipsView.dat!!!!!!F21!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins27798@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R18!.\chipsView.dat!!!!!!F20!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins27829@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R19!.\chipsView.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins27860@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R20!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins27948@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R22!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins8287@analog.\r.normal\(chips)!R_SMC0805_100 OHM!R11!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins8336@analog.\r.normal\(chips)!R_SMC0805_100 OHM!R12!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins14324@analog.\r.normal\(chips)!R_SMC1206_4.7K OHM!R2!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins1492@analog.\r.normal\(chips)!R_SMC1206_4.7K OHM!R3!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins34157@analog.\r.normal\(chips)!R_RES_RN73R2E_KOA-M_10K OHM!R8!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins8931@analog.\c.normal\(chips)!C_SMC1206_0.1UF!C12!.\chipsView.dat!!!!!!F43!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins8964@analog.\c.normal\(chips)!C_SMC1206_0.22UF!C13!.\chipsView.dat!!!!!!F42!!!!!!!!!!!!!!!!!!
+J!C:/Users/tyler/Desktop/Cadence/Cadence/Projects/autoHood_projectMaster/allegro/autohood_teamschematic_v3.4.brd!Sun Mar 27 22:16:08 2022!0.00!0.00!21000.00!17000.00!0.01!mils!AUTOHOOD_TEAMSCHEMATIC_V1!10.400000 mil!2!OUT OF DATE!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins78403@l293dd013tr.\l293dd013tr.normal\(sch_1)!L293DD013TR_L293DD013TR_SO-20_STM-L_L293DD!U14!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins7324@discrete.\fuse thermal.normal\(chips)!FUSE THERMAL_0ZCF_BEL_2.5A PTC FUSE!F4!.\chipsView.dat!!!!!!F41!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins493@furmansub.\42m100b.normal\(chips)!42M100B_JUMPER4_42M100B!M1!.\chipsView.dat!!!!!!F33!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins54039@discrete.\diode.normal\(chips)!DIODE_0ZCF_BEL_DIODE!D10!.\chipsView.dat!!!!!!F51!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins54151@discrete.\diode.normal\(chips)!DIODE_0ZCF_BEL_DIODE!D11!.\chipsView.dat!!!!!!F50!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins56860@discrete.\diode.normal\(chips)!DIODE_0ZCF_BEL_DIODE!D12!.\chipsView.dat!!!!!!F49!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins56876@discrete.\diode.normal\(chips)!DIODE_0ZCF_BEL_DIODE!D13!.\chipsView.dat!!!!!!F48!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins56892@discrete.\diode.normal\(chips)!DIODE_0ZCF_BEL_DIODE!D14!.\chipsView.dat!!!!!!F47!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins56908@discrete.\diode.normal\(chips)!DIODE_0ZCF_BEL_DIODE!D15!.\chipsView.dat!!!!!!F46!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins42527@discrete.\diode.normal\(chips)!DIODE_0ZCF_BEL_DIODE!D8!.\chipsView.dat!!!!!!F45!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins53926@discrete.\diode.normal\(chips)!DIODE_0ZCF_BEL_DIODE!D9!.\chipsView.dat!!!!!!F44!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins74007@connector.\header 2.normal\(chips)!HEADER 2_JUMPER2_HEADER TO E-BUTTON!J7!.\chipsView.dat!!!!!!F34!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins60569@connector.\header 2.normal\(chips)!HEADER 2_JUMPER2_HEADER TO E-BUTTON!J6!.\chipsView.dat!!!!!!F35!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins8336@analog.\r.normal\(chips)!R_SMC0805_51.1 OHM!R12!.\chipsView.dat!!!!!!F24!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins73991@discrete.\resistor.normal\(chips)!RESISTOR_RES_RN73R2E_KOA-M_10K OHM!R24!.\chipsView.dat!!!!!!F20!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins60639@discrete.\resistor.normal\(chips)!RESISTOR_RES_RN73R2E_KOA-M_10K OHM!R23!.\chipsView.dat!!!!!!F21!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins1243@analog.\c.normal\(chips)!C_SMC1206_1 UF!C1!.\chipsView.dat!!!!!!F68!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins3895@analog.\c.normal\(chips)!C_SMC1206_1 UF!C10!.\chipsView.dat!!!!!!F67!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins26586@analog.\c.normal\(chips)!C_SMC1206_1 UF!C14!.\chipsView.dat!!!!!!F66!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins32030@analog.\c.normal\(chips)!C_SMC1206_1 UF!C15!.\chipsView.dat!!!!!!F65!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins1961@analog.\c.normal\(chips)!C_SMC1206_1 UF!C3!.\chipsView.dat!!!!!!F64!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins2184@analog.\c.normal\(chips)!C_SMC1206_1 UF!C4!.\chipsView.dat!!!!!!F63!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins3483@analog.\c.normal\(chips)!C_SMC1206_1 UF!C7!.\chipsView.dat!!!!!!F62!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins3511@analog.\c.normal\(chips)!C_SMC1206_1 UF!C8!.\chipsView.dat!!!!!!F61!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins3833@analog.\c.normal\(chips)!C_SMC1206_1 UF!C9!.\chipsView.dat!!!!!!F60!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins5352@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D1!.\chipsView.dat!!!!!!F57!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins5380@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D2!.\chipsView.dat!!!!!!F56!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins5406@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D3!.\chipsView.dat!!!!!!F55!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins6743@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D4!.\chipsView.dat!!!!!!F54!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins8089@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D5!.\chipsView.dat!!!!!!F53!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins9405@discrete.\led.normal\(chips)!LED_JUMPER2_LED!D7!.\chipsView.dat!!!!!!F52!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins14466@analog.\r.normal\(chips)!R_SMC1206_10K OHM!R1!.\chipsView.dat!!!!!!F32!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins8069@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R10!.\chipsView.dat!!!!!!F31!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins27767@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R17!.\chipsView.dat!!!!!!F30!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins27798@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R18!.\chipsView.dat!!!!!!F29!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins27829@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R19!.\chipsView.dat!!!!!!F28!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins27860@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R20!.\chipsView.dat!!!!!!F27!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins27948@analog.\r.normal\(chips)!R_SMC1206_220 OHM!R22!.\chipsView.dat!!!!!!F26!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins8287@analog.\r.normal\(chips)!R_SMC0805_100 OHM!R11!.\chipsView.dat!!!!!!F25!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins14324@analog.\r.normal\(chips)!R_SMC1206_4.7K OHM!R2!.\chipsView.dat!!!!!!F23!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins1492@analog.\r.normal\(chips)!R_SMC1206_4.7K OHM!R3!.\chipsView.dat!!!!!!F22!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins8931@analog.\c.normal\(chips)!C_SMC1206_0.1UF!C12!.\chipsView.dat!!!!!!F59!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins8964@analog.\c.normal\(chips)!C_SMC1206_0.22UF!C13!.\chipsView.dat!!!!!!F58!!!!!!!!!!!!!!!!!!
 S!@autohood_teamschematic_v1.schematic1(sch_1):ins8241@\314_components\.\ncs21911.normal\(chips)!NCS21911_NCS21912DR2G_NCS21911!U12!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins4426@\314_components\.\asr00050.normal\(chips)!ASR00050_JUMPER2_ASR00050!B1!.\chipsView.dat!!!!!!F54!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins4198@discrete.\fuse thermal.normal\(chips)!FUSE THERMAL_0ZCJ_BEL_1.5A PTC FUSE!F1!.\chipsView.dat!!!!!!F33!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins4214@discrete.\fuse thermal.normal\(chips)!FUSE THERMAL_0ZCJ_BEL_1.5A PTC FUSE!F2!.\chipsView.dat!!!!!!F32!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins7324@discrete.\fuse thermal.normal\(chips)!FUSE THERMAL_0ZCJ_BEL_1.5A PTC FUSE!F4!.\chipsView.dat!!!!!!F31!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins4230@discrete.\fuse thermal.normal\(chips)!FUSE THERMAL_0ZCF_BEL_2.5A PTC FUSE!F3!.\chipsView.dat!!!!!!F30!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins6857@connector.\con2.normal\(chips)!CON2_JUMPER2_CON2!J1!.\chipsView.dat!!!!!!F29!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins6873@connector.\con2.normal\(chips)!CON2_JUMPER2_CON2!J2!.\chipsView.dat!!!!!!F28!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins6889@connector.\con2.normal\(chips)!CON2_JUMPER2_CON2!J3!.\chipsView.dat!!!!!!F27!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins13445@connector.\con2.normal\(chips)!CON2_JUMPER2_CON2!J5!.\chipsView.dat!!!!!!F26!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins8486@connector.\con3.normal\(chips)!CON3_JUMPER3_CON3!J4!.\chipsView.dat!!!!!!F25!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins493@furmansub.\42m100b.normal\(chips)!42M100B_CONN_1989764_PXC_42M100B!M1!.\chipsView.dat!!!!!!F24!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins44643@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP2!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins44665@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP3!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins7161@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP1!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins100@picplusesp32lib.\esp32 devkit v1 - doit.normal\(chips)!ESP32 DEVKIT V1 - DOIT_ESP32_ESP32 DEVKIT V1 - DOIT!U1!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins840@\314_components\.\snap_connector.normal\(chips)!SNAP_CONNECTOR_CONN_PXC08D_SUL_MPLABX SNAP!U10!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins5675@\314_components\.\button.normal\(chips)!BUTTON_HP0315AFKP4-R_NKK_BUTTON!U11!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins4198@discrete.\fuse thermal.normal\(chips)!FUSE THERMAL_0ZCJ_BEL_1.5A PTC FUSE!F1!.\chipsView.dat!!!!!!F43!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins4214@discrete.\fuse thermal.normal\(chips)!FUSE THERMAL_0ZCJ_BEL_1.5A PTC FUSE!F2!.\chipsView.dat!!!!!!F42!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins6857@connector.\con2.normal\(chips)!CON2_JUMPER2_CON2!J1!.\chipsView.dat!!!!!!F40!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins6873@connector.\con2.normal\(chips)!CON2_JUMPER2_CON2!J2!.\chipsView.dat!!!!!!F39!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins6889@connector.\con2.normal\(chips)!CON2_JUMPER2_CON2!J3!.\chipsView.dat!!!!!!F38!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins13445@connector.\con2.normal\(chips)!CON2_JUMPER2_CON2!J5!.\chipsView.dat!!!!!!F37!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins8486@connector.\con3.normal\(chips)!CON3_JUMPER3_CON3!J4!.\chipsView.dat!!!!!!F36!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins75952@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP10!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins76235@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP11!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins76257@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP12!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins75472@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP4!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins75494@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP5!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins75516@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP6!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins75798@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP7!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins75876@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP8!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins75914@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP9!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins44643@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP2!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins44665@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP3!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins7161@connector.\test point.normal\(chips)!TEST POINT_JUMPER1_TEST POINT!TP1!.\chipsView.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins100@picplusesp32lib.\esp32 devkit v1 - doit.normal\(chips)!ESP32 DEVKIT V1 - DOIT_ESP32_ESP32 DEVKIT V1 - DOIT!U1!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@autohood_teamschematic_v1.schematic1(sch_1):ins840@\314_components\.\snap_connector.normal\(chips)!SNAP_CONNECTOR_CONN_PXC08D_SUL_MPLABX SNAP!U10!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
 S!@autohood_teamschematic_v1.schematic1(sch_1):ins8878@library1.\hih6130.normal\(chips)!HIH6130_IC8_HIH6130-021-001_HNW_HIH6130!U13!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
-S!@autohood_teamschematic_v1.schematic1(sch_1):ins21176@\314_components-master\.\l298p.normal\(chips)!L298P_POWERSO-20_STM-M_L298P!U14!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
 S!@autohood_teamschematic_v1.schematic1(sch_1):ins373@picplusesp32lib.\pic18f26k40-e/so.normal\(chips)!PIC18F26K40-E/SO_SOIC28-W_MC_MCH-M_PIC18LF26K40-E/SO!U3!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
 S!@autohood_teamschematic_v1.schematic1(sch_1):ins458@furmansub.\adp3339akcz.normal\(chips)!ADP3339AKCZ_SOT230P700X180-4N_ADP3339AKCZ-3-3-RL!U4!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
 S!@autohood_teamschematic_v1.schematic1(sch_1):ins793@\314_components\.\lm340t-5-lf01.normal\(chips)!LM340T-5-LF01_SOT_0T-5P0LF01_TEX-M_LM340T-5/LF01!U9!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

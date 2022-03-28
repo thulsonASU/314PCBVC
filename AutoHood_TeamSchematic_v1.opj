@@ -1,12 +1,14 @@
 (ExpressProject "AutoHood_TeamSchematic_v1"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S024 (3998392)  [12/6/2021]-[03/04/22]")
+  (SoftwareVersion "17.4-2019 S024 (3998392)  [12/6/2021]-[03/27/22]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
       (File "..\autohood\314_components.olb"
         (Type "Schematic Library"))
       (File "..\314_actuator\314_components-master.olb"
+        (Type "Schematic Library"))
+      (File ".\l293dd013tr.olb"
         (Type "Schematic Library")))
     ("Allegro Netlist Directory" "allegro")
     (DOCKED "TRUE")
@@ -73,7 +75,10 @@
     (DRC_Report_File
        "C:\USERS\TYLER\DESKTOP\CADENCE\CADENCE\PROJECTS\AUTOHOOD_PROJECTMASTER\AUTOHOOD_TEAMSCHEMATIC_V1.DRC")
     ("Allegro Netlist Output Board File"
-       ".\allegro\autohood_teamschematic_v2fucku.brd"))
+       ".\allegro\autohood_teamschematic_v3.4.brd")
+    (PSPICE_Regenerate_Netlist_Flag "TRUE")
+    ("Allegro Netlist Input Board File"
+       "c:\users\tyler\desktop\cadence\cadence\projects\autohood_projectmaster\allegro\autohood_teamschematic_v3.3.brd"))
   (Folder "Layout"
     (File ".\allegro\autohood_teamschematic_v1.brd"
       (Type "Board File")
@@ -94,6 +99,44 @@
       (Type "Board File")
       (OutputBoard ".\allegro\autohood_teamschematic_v2fucku.brd")
       (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\autohood_teamschematic_v2.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\autohood_teamschematic_v2.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\autohood_teamschematic_v2fuckufuckert.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\autohood_teamschematic_v2fuckufuckert.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\autohood_teamschematic_v3.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\autohood_teamschematic_v3.brd")
+      (InputBoard ".\allegro\autohood_teamschematic_v2fuckufuckert.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\autohood_teamschematic_v3.1.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\autohood_teamschematic_v3.1.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\autohood_teamschematic_v3.2.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\autohood_teamschematic_v3.2.brd")
+      (InputBoard ".\allegro\autohood_teamschematic_v3.1.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\autohood_teamschematic_v3.3.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\autohood_teamschematic_v3.3.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\autohood_teamschematic_v3.4.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\autohood_teamschematic_v3.4.brd")
+      (InputBoard ".\allegro\autohood_teamschematic_v3.3.brd")
+      (NetListPath ".\allegro")
       (ActiveBoard "1")))
   (Folder "Outputs"
     (File ".\autohood_teamschematic_v1.drc"
@@ -106,10 +149,18 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\autohood_teamschematic_v1-pspicefiles\schematic1\schematic1.net"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (Folder "PSpice Resources"
-    (Folder "Simulation Profiles")
+    (Folder "Simulation Profiles"
+      (ActiveProfile
+         ".\autohood_teamschematic_v1-pspicefiles\schematic1\test.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\autohood_teamschematic_v1-pspicefiles\schematic1\test.sim"
+        (DisplayName "SCHEMATIC1-Test")
+        (Type "PSpice Profile")))
     (Folder "Model Libraries"
       (Sort User))
     (Folder "Stimulus Files"
@@ -134,9 +185,24 @@
       (LogFile
          "c:\users\tyler\desktop\cadence\cadence\projects\autohood_projectmaster\allegro\genfeed.log")))
   (PartMRUSelector
+    (L293DD013TR
+      (FullPartName "L293DD013TR.Normal")
+      (LibraryName
+         "C:\USERS\TYLER\DESKTOP\CADENCE\CADENCE\PROJECTS\AUTOHOOD_PROJECTMASTER\L293DD013TR.OLB")
+      (DeviceIndex "0"))
     (GND
       (LibraryName
          "C:\CADENCE\SPB_17.4-SILENT\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4-SILENT\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 2"
+      (FullPartName "HEADER 2.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4-SILENT\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0"))
     (L298P
       (FullPartName "L298P.Normal")
@@ -147,28 +213,26 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "c:\users\tyler\desktop\cadence\cadence\projects\314_actuator\314_components-master.olb")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs")
-      (Select "Design Resources" "Library"
-         "c:\users\tyler\desktop\cadence\cadence\projects\314_actuator\314_components-master.olb"))
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 592"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 563"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1290 24 610")
-        (Scroll "646 1080")
-        (Zoom "180")
+        (Placement "44 0 1 -1 -1 5 24 5 1290 24 581")
+        (Scroll "377 930")
+        (Zoom "154")
         (Occurrence "/"))
       (Path
          "C:\USERS\TYLER\DESKTOP\CADENCE\CADENCE\PROJECTS\AUTOHOOD_PROJECTMASTER\AUTOHOOD_TEAMSCHEMATIC_V1.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
-  (MPSSessionName "tyler"))
+  (MPSSessionName "tyler")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\tyler\Desktop\Cadence\Cadence\Projects\autoHood_projectMaster"))

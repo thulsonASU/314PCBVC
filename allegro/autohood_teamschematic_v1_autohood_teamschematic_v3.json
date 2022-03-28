@@ -1,0 +1,50 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "C11",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins13905@analog.\\c.normal\\(chips)",
+			"Logical" : "C11",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "BTN_1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):btn_1",
+			"Logical" : null,
+			"Physical" : "BTN_1"
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C11.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins13905@analog.\\c.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C11.1",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins13905@analog.\\c.normal\\(chips):\\1\\",
+			"Logical" : "N07629",
+			"Physical" : null
+		},
+		{
+			"Name" : "J7.2",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins64401@connector.\\header 2.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : "BTN_1"
+		},
+		{
+			"Name" : "U3.9",
+			"C_PATH" : "@autohood_teamschematic_v1.schematic1(sch_1):ins373@picplusesp32lib.\\pic18f26k40-e\/so.normal\\(chips):RA7",
+			"Logical" : "3V3",
+			"Physical" : "BTN_1"
+		}
+	]
+}
